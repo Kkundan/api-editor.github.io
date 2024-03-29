@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/assign-entitlement-to-account",
+  "title": "Assign Entitlement to Account",
+  "description": "This method provisions one or more 'Entitlements' to an 'Account'. The 'Entitlements' and 'Account' correspond to a particular IT Application (e.g Microsoft Active Directory) which is modeled in SSM as 'Endpoint' of a 'Security System'.",
+  "source": "@site/docs/saviynt/assign-entitlement-to-account.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/assign-entitlement-to-account",
+  "permalink": "/saviynt/assign-entitlement-to-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assign-entitlement-to-account",
+    "title": "Assign Entitlement to Account",
+    "description": "This method provisions one or more 'Entitlements' to an 'Account'. The 'Entitlements' and 'Account' correspond to a particular IT Application (e.g Microsoft Active Directory) which is modeled in SSM as 'Endpoint' of a 'Security System'.",
+    "sidebar_label": "Assign Entitlement to Account",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVktv2zgQ/isDnlpA8qvJrqNFD67jFsbCTRC56AZxANHk2GIjkVqScuo1/N8XpGRHTt3EwF72UORgm5n55pv3bIilS0OiOzJgTJXSGnIfEI6GaVFYoSSJyDQVBnK0qeJQaLUSRihpQEkEpSFXGmFGRtIKm2GO0poZAauASpjtUGekBdP0iByVvCkFTGmNplCSewgoqLaClRnVMJ7CoCgywajjBW+wtYSJYFoZtbAwYFasEC6FRmaVXr+Fx1SwFBx1xTFDDkJCHE+AGk+DF0p4k2oBFGYkRlZqYdcQr43FfEZaMzmTEyo5dXiOCc1NBDCTialljRdNIITPNEeHZFOEZ0iwUNq/a8xwRaV97skhP282wZpfMpsdgu+INyIl5NIF64jpCotW0ZU0R0e1Dja4306vipPTxkZuwKSqzDjM8SnnyHfk9nJ2XXjQRlrBve2dPsCsTFHt7T5DBmwtWzC4hE9alYUJYPQhhhvvoRFzkQkr0AQQD67hRmVoAC37gc6KZiXu8mF2MaPMljQ7nYpHNZZqy6nFJIK4QCYWaw/m38H9Y+8jZQyNgQK1UD6Nk0l4eRne3t7e7gVzauENfqd5kWEESbcX9t6FvU6vl7z19tyf65BkUNpUafGPr40E8tJYSOkKIfmAVKNOYKGyTD0ih/kakql6QJm0SEBUgdorjTmJCDVGLGUjLVNVJ54EROPfJRr7QfE1iTaEKWlRWveVPtVl+3v4+PgYOu5hqTOUTHHkTsiwFHPqvrlUk4io+TdkDrjQjoXLlAd7KryGsLFayCUJSB0NEpFvKpVfY7INyK7uX5avqrtbKRzU4st6A5+oZ2q+Zl7Wa4TRGz3s/xO5brf7Zx+dgc/QYeeoXXc6gT2xgzjugtWM1d7IkXjsnD7m86FjP/rVJO/5VxPHVA70Oh33cbgsXvYqIClSjtrrX1KLR8vpSBS/Ig+g04dBuYRep9uHTic6O4t6Pfg0mRJHLUa9Qn0q3qCgLMVwqNbKYrvb6tYYNhwq9SBO5jUcxjcfw+nVn6PP7/u/z/GC83nY69N+eHZOfwsv+mfdcN49x/6Cvru46NM/4Jra9H3bm5tqKs0CdThyveWgT7TK0lI+IPcgf4UfNc0xvPIZMKdCxIPJ6Opm/Gn8uarMn8yAb8Zl9fSWR62VHir+SkN1XBflaAxdviIZfxkOR3H8X9qnwYl0SMNuE7yq7+rKIREplPHOUZuSiLSraVqDT1XDqO8aV3nuiNqQUmckIqm1hYna7Y1FSaXdtgxdibW0LFMlbzGVt0fDSZsWor06JwFZUS3ovParUvmxsep3d5wtaJm5rt9Fabvd3j81b+xSVWHNqRHMLZRGjB03R9pLkaiScemY+/XymrQX8oUn5EJ5SRcKF8zKR5cR1IUWBmHM/cxZw9A5DoPrMdzgAjVKhuTomTlUWYbMn0V+I3M0fsVytFRk+41uyqJQ2iKv71Kz38Wvs3gzGg/fuqijNpXl81an5SvSZT2nvuDrYfvaODtwobFJfx3Nv47mX0fz//9orsecxe+2XWRUSDcG/BDf1MP/jrww/O8DkrpNEd2RzWZODX7R2Xbrnv8uUa9JdHf/NN7dr+3uAvLb4gHX7oaohkY4dVyC3d464RTfBjsId+MV9ifKfoe7DbHfbtdX8ZQEZF7f/3m1GxvIQfOHo73d/gsVhK1a",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Assign Account to User",
+    "permalink": "/saviynt/assign-account-to-user"
+  },
+  "next": {
+    "title": "Remove Entitlement from Account",
+    "permalink": "/saviynt/remove-entitlement-from-account"
+  }
+}

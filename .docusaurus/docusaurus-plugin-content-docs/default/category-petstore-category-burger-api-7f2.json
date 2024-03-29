@@ -1,0 +1,15 @@
+{
+  "title": "Burger API",
+  "slug": "/category/food-api",
+  "permalink": "/category/food-api",
+  "navigation": {
+    "previous": {
+      "title": "Retrieve a bucket's headers",
+      "permalink": "/cos/retrieve-a-buckets-headers"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/food/burgers/burger-example"
+    }
+  }
+}

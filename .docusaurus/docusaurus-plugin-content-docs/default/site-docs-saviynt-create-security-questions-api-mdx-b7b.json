@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-security-questions",
+  "title": "Create Security Questions",
+  "description": "This API is used to create security questions in Saviynt.",
+  "source": "@site/docs/saviynt/create-security-questions.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-security-questions",
+  "permalink": "/saviynt/create-security-questions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-security-questions",
+    "title": "Create Security Questions",
+    "description": "This API is used to create security questions in Saviynt.",
+    "sidebar_label": "Create Security Questions",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWN9v2zYQ/lcIvrQFJFt2khZREQyu6w7BkMaNXaBDEsBn8WyxkUiVpOxohv73gZRsy3HiesMe9tC8RKLuPvLuvvtBr6iBuabhLT1vBWQIWi+lYuQGNRrq0a+aizkZfenRe48y1JHimeFS0JCOY65Jb3hJuCa5RkaMJJFCMEg0RrnipiA/ctRWXBMuyAgWvBCmdSfuxDhGMunlJpaK/wVWZELSXBsSwwLJ5AOCQjUhM5kkcomMTAsyGcsHFBOnfgWCgZGqIBkoSHVoFyfr3SbuDQXLJBdmxjFh1ZLGaPP92tkBCRk2EBoWTjyyAZSKobILIPQSlSkynJDX04IwnEGeGPLq081gMB58G796s5FS+CPnCtkTyRkkGhtiyLiBaYKTHSmj8kqoXllAkqM9QZ4xMJhrVBPqUZmhct67ZDSklfdHtfO/rH1PPWrPgtp8kKyg4YpGUhgUxj5CliU8chjt79oGdkV1FGMK9slaSkMqp98xsnTIlN3RcNROd8eAhrw2ios59Sg+QprZT9SZTUuP7jrnsJL1wlankjskr4BxaRWaXjusomHR6Z5UOg12H1Kxgq1WqwUZt3o7PDusGeXayLR2YtE9t+prjh3WXMZgbKIVMlcE0yyRBSJnvzURHEsPwzhD6yw4LNnb8oKMrVTp0S33DuvCUgNLuaBlWW7WHWP6VX1YU5RsORqu6CZaT3lVk2efOxVBdvlRk+ApB9aBflrFmsHci+V+wJrxejkoezGhduON3/edu+vbHQc6HyrUmRS6cmI3COy/XTte9qxHYwSGyun2ogi19vtSGCUTv2fLq99XyFAYDol+Nv1fzMzSex7wWvE5f76UPIMVG5OF7XYiI0hiqY3D7UMU4xr2WKRMauNHMUYPF4FHMoXrFwf5EQweizSOc4+cdMhHjEg36Aak2wlP3oWnHfL71dihDR4zrvBoh41y4ZF35AoK0jk/PyOdbhgEYRBs8IYK5hXIMXBC+pH1kFO9wZnNCuUPZcKj4lgMDSn6sgqVhRmhWlSpfYx2L6sjVEiD7U6rU2MYvy/lAz/a0/3+6OaTP77+Y/D5AoPuu7NzDHw4hcA/PX974k/ZKfOn3ZPu225nxrodfE+GYOKLdrWdUTwy/liB0JlUxl/z/9jdU3j0YY4XJ52zk7dBELwnXERJznCUT5lMgQvtNnI7zFD5AxFJZlGO3CCKc/GAzIF8c3xGYXyb9H41gRzNICG14LNZjfRJ2ej9Q4iPg89/1vrfRiN/qKTZ9oJjADrvSSoZXkwTGT1U5f0/miVQKakiyZrtWuTpFFXzAEHp0VTPf5Zqrib92+7TOElQ79aErAqyGzvRuKp6u6ICUld/wMTUo7b0rZ+3zcqWTO9FL5flvUdTNLFkdSGzLrIYIW3Xgx0snpvttEvb6hy5SuqCqsN2e2VQgDBlS1eTd5TInLUimbYH/as2ZLy9OKMeXYDittE6N1Qq+/2lXt+0VRpuPF66s69n/pE1sMKaguaRHfIb5tqz0doN9t3J2OFi6kb+n0k7IUdhS7Cb7Vg7WIf/1/jQGB8sF2fSOZSbKjkqKpCBMKgyxTWSS9f8TUH6lh/uSuc6CooI9wx2t76+TJLqNCRTcsEZamJiJAwN8EQTOXOvOs9sUUZGKmJrMpPKffn5KV4PLvtvLDlR6Wrns1bQCqxJNjlScNWlzrtDw8+TsX5Trn7dX/8H99c65ww+mnaWQEVZV8RWdfG7pQeK371H3cAY3tLVagoav6qkLO3yjxxVQcPb+215cwWScW2fGQ2dHQfo8fqmtv8Neemg9SKIwlXRqlBQjz5gsW4A5X25nr/d/tWn5hjQUN3rn6W31rBjdmYOyjb7x/B6NKYendb3/dR1M6pgaTsSLGlI7+gddT8gbBqgW1/RBMQ8h7mVr3Dt39/or1Bp",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Validate User Security Answers",
+    "permalink": "/saviynt/validate-user-security-answers"
+  },
+  "next": {
+    "title": "Create Password Policy",
+    "permalink": "/saviynt/create-password-policy"
+  }
+}

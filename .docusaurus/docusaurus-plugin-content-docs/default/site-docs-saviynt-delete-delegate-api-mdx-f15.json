@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-delegate",
+  "title": "Delete Delegate",
+  "description": "This API is used to delete a specific delegate.",
+  "source": "@site/docs/saviynt/delete-delegate.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-delegate",
+  "permalink": "/saviynt/delete-delegate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-delegate",
+    "title": "Delete Delegate",
+    "description": "This API is used to delete a specific delegate.",
+    "sidebar_label": "Delete Delegate",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlVttu2zgQ/RVinlpAspSL01SLPriuUxiLXBB7gQKuAdPUyGIjkSxJ2VEN/fuClJw4SVNnnxd+MDnknLnwzIy2YOnKQDKDfi8mX7DAFbWYkkFacsGN1dRyKWAeQIqGaa78NoFpzg0Z3IwJN6QymBIrSYoFWiSUGIWMZ5x5icPrke/C/aY5ksWgsrnU/JdHXpCyMpbkdI1k8RmpRr0gmSwKucGULGuymMo7FIueU7+kIqVW6pooqmlpEg+7qAzqK1rigoTEOr+4ITZH55cmm1y6vfeNi5U/2LkVePU7rFtN3Cnuzu+whgCkwjYL4xQSaIPcJQoC0PizQmM/y7SGZAtMCovCuiVVquDMq0b34WazCTOpy7DSBQomU0zdJcNyLKlb2VohJCCXP5BZCEBpZ9lyNO7U+fJ4yVjNxQoCwHtaqsKJjj9AE8AuF3++S93rQtM0D0Jv40v7gA/BJVtY06LCB/vOyL6NRyCPpdEoKUwLdhzH7u8pbZ5bCCBHmqJuzXc2X6TkNxFcaB6Q+IQMqhU5jo/OSRwn/X5yfEq+Xk7BOTNBvUb9VryBoizHcChraTE66h11GDYcSnnH3+zXcDi5vQin13+Prj6dUhovs2wZZmcnJ+Fp9jELz8/i45DRD+cf6Rnrp8v+X+SG2vxT5M1NNRUmQx2OHD8c9ButsrwSd5h6kG/hhaYlhtc+5+atEJPB5ej6dvx1fNXy4hUe/zDuHd9OW9Ra6qFMDxAydtwtzeqAjxVjaExWFf+Nu3tOQAydoWdoLYN9X0HrCTnbgmhZrqjNIQAuHteu6rl2JWx1hcGrKW6aeQAl2ly65qGk8SlyGAlEL3qJ8ZxtbVe6gARya5VJomhrUVBhm56ha14LywpZpT0my2g0vIyo4tG6DwGsqeZ02aWkVXlZhJ3ctfSMVoWF5CHHjffXIKs0t/XEBdViLanhzHXuvRCdb9CF7vb+jnvIpe/jh277S56yXGTS3+S2fec2RjISFrXS3CAZpygstzUZusD95LnFDDUKhvDb4TSURYHMSYjScs1T3DV3S3lhiMz81lRKSe1GXvtKhmRS+5PDXrwbjYfvXdZRm9Zyvxf3PJfdS5fUl0pHopet74nTe5Pj/zRcO3JYvLeRKqgbJkFL/W1XJrPnI3ceQO7qKJnBdrukBv/RRdM48c8KdQ3JbP5YCL6UUm7cOoUko4XBP2T+3W1X1+/Ja851QipqX2++xQAE3YD0PjfzZjfYvP32aNhaCacO4FH18FdCE+wgBoyhsq8o+9b8pN3cXE+mEMCy+zQp2w64hxzsb5LZvGmafwE5MXUI",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Edit Delegate",
+    "permalink": "/saviynt/edit-delegate"
+  },
+  "next": {
+    "title": "6.0 Attestations",
+    "permalink": "/saviynt/6-0-attestations"
+  }
+}

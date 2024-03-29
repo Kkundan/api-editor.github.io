@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/approve-reject-account-entitlement-details",
+  "title": "Approve Reject Account Entitlement Details",
+  "description": "This API is used to certify/revoke the user's access (account, entitlement). When an approve or reject action is performed for a line item in an Entitlement Owner campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+  "source": "@site/docs/saviynt/approve-reject-account-entitlement-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/approve-reject-account-entitlement-details",
+  "permalink": "/saviynt/approve-reject-account-entitlement-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "approve-reject-account-entitlement-details",
+    "title": "Approve Reject Account Entitlement Details",
+    "description": "This API is used to certify/revoke the user's access (account, entitlement). When an approve or reject action is performed for a line item in an Entitlement Owner campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+    "sidebar_label": "Approve Reject Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Lock Campaign",
+    "permalink": "/saviynt/lock-campaign-1"
+  },
+  "next": {
+    "title": "Certify Entitlement Owner for Campaign",
+    "permalink": "/saviynt/certify-entitlement-owner-for-campaign"
+  }
+}

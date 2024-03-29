@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/lock-campaign",
+  "title": "Lock Campaign",
+  "description": "This API is used to lock campaign after validating whether campaign is completed or not.",
+  "source": "@site/docs/saviynt/lock-campaign.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/lock-campaign",
+  "permalink": "/saviynt/lock-campaign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lock-campaign",
+    "title": "Lock Campaign",
+    "description": "This API is used to lock campaign after validating whether campaign is completed or not.",
+    "sidebar_label": "Lock Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlVm1P20gQ/iur+UQl5/VIoT71A3XTKrqjIEh1JwFSJvY43mLvurvrUDfKfz/N2oGEUkilfjs+BHs988zLzjwzK3C4sBBewVG3LyIsSpQLZSGAz5aMOEWFCzJwE0BCNjaydFIrCGGaSStOzidCWlFZSoTTItfxrYhbCIGpIyOWmMsEnVQLcZeRy8g8SEgrYl2UOTlKhDZCade9VtdqmpGYnVQu00Z+RzY4E0VlnchwSWL2jtCQmYlU57m+o0TMazGb6ltSM69+iipBp00tSjRY2JAPZxurk2QWXKvZkoxMJZkZfzzzUWG+q0DG3VLtpTmySBcFKWdnEIAuyXjHJgmE4L+28BCAoa8VWfdOJzWEK4i1cqQcP2JZ5jL2ir0vlvO4AhtnVCA/ubokCEHPv1DsIIDSsBknyXqYe/+3ZK0zUi0gAPqGnEgIYTg8gvV6fX/klf/mm7l3MVzBEvOKHsNudL26IVtqZRv9Yb/P/3ZLYBc0gIwwIePl36OjJ4N7wuF/KAlEfyTeUyyG/cGxGPbDwzfh8Eh8PJ0Cu3JJZklmX7yTEuOMOpGutaPeoDtoMVwn0vpW7u1XFF1efOhMz/4af3p79GZ0nI7mg84xvRl2DpPD1x2cY9pJ8Q+k40McEL3+U5yjy972vLmpQWVTMp2xinXC0HtajbNK3VLiQf7tRE3tdKZ1SZ2mSu2+SEpbJdO0RfpgsPhliMuT0/HZxeTj5FNTUr+plKfaYS4matP8gltNpi3clj4agzUEIB0VrLnecu7qhtPskbj/KNkb5ZmAHVnHZT0QHWELNF8r+i4OLjNUEsVp8/4KdtzYUyfYkYuNjDM0iRUHkU5qcdG+vgKOiozRJtIJPe9snx1pYm+5ao+gVVXMyWzjDIbD0WgnJH8S8O9rdqewixfKpIpjsvZXaOelEri6ef5yf3vad7IOffghsztZaZOyHXnDmn6AkPM0eLUChQXDlegyvgv18MxDQhpKIHSmouCn7bheszFymWaCLrX17cQYIfQeDR7rebKxXJkcQsicK23Y660cKVRu3bW4lLVyca6rpBvrojeOTntYyt5yBAEs0Uict5fXqPxI++05LwQpVrmD8L4U1t5bS3FlpKsvOaQGa45WxjzRtwJk36ANnN+9DJf03M/3l6S9kCc3pp+Lh5k73tTlU8ONLyHVHle6pnibjIixcmRKIy2JSULKSVeLiNPkt5wLSsmQigmeXIQinecU84kojV7KhKxwGYmEHMrcCp36V1uVpTa87TQ3akWqjf/yshcH40nE9cw33FgedftdzwFcFQX6BmsL7vFo3nF5ayX5n69xbW05+uZ6ZY5ScTZ956zaHrvaXe5uAsi4BcMrWK3maOmzyddrPv5akakb3tp0ke/DRFp+TiBMMbf0zFUcXLSU8Er8zLUNt6vaN6vnUoAAPEE1Hq+ZsZtNzNtvPm3vEVuqPwzxdbDROIljKt2zstvEdH52OYUA5u3OWzQ0avCOqQ7vIIRruAa/Od9vIP58BTmqRYULlm9w+e8/qONUrg==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Approve Reject Campaign Account Entitlement Details",
+    "permalink": "/saviynt/approve-reject-campaign-account-entitlement-details"
+  },
+  "next": {
+    "title": "Reassign UserManager Step 1 for Campaign",
+    "permalink": "/saviynt/reassign-usermanager-step-1-for-campaign"
+  }
+}

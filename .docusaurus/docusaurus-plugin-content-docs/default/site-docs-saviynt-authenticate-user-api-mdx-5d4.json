@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/authenticate-user",
+  "title": "Authenticate User",
+  "description": "This API call can be used to authenticate the user in SSM",
+  "source": "@site/docs/saviynt/authenticate-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/authenticate-user",
+  "permalink": "/saviynt/authenticate-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "authenticate-user",
+    "title": "Authenticate User",
+    "description": "This API call can be used to authenticate the user in SSM",
+    "sidebar_label": "Authenticate User",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzVVd9v2zgM/lcEPt0AO07SH8t82EOWS4fg0LVoMtyAtkAYmanV2pInydmywP/7gXLS5dZ07evlJbJEkR/1fSQ34PHOQXoNnx1ZB7cRZOSkVZVXRkMKs1w5MbycCIlFISRqsSBRO8qENwJrn5P2SqIn4fNwYIXSYjo9v9E3epaTmA9rnxurfiB7nIuydl7kuCIx/0Boyc7F0hSF+UaZWKzFfGYeSM8FXz9HnaE3di0u0WLp0hs95wgaS5pHN3peoXPfjM3mEIGpyIYQkwxS2EfGmUEElr7W5PwHk60h3YA02pP2vCzrwqsKrU+WxpZxhh5528mcyrDy64ogBbO4J+khgspyNK/I8ekOxZ6l81bpO4iAvmNZFby1s+oNoYlgl8bv79ybXGeGoAk/TsFVRrs2bL/b5b//0jXcZ4QTF2eoitqSSMTTs2ktJTkHEeSEGfOfbuAv9HQw/QMA/6EsEt2BGNZ3ot/tDUS3l/bfpUc98fF8Bgx5SnZF9rX+hhXKnOKRWRtPSa/T2/rw8ciYB/VqXKPR9Oosnl38Pf70vi+7hG97pzEenb6Nj+XxSTzon/Ti04U8ljh41x0c0Z/iEn3+PgnhZha1W5KNx1qajF2/MqrMa/1AWXDyJT6zWFJ8EZhxr3UxHZ6PL64mHyefIDC+p1KsqoK5U0Yn947Zfr1EyVpjRyZ7QW89lmZJzuHdC5Z7WlJGB5GFxJtHoxD3WTny4QqLmn5BBz3YQ/BsmOiA552Yn/Pc/Z3n7eVlXWyLLTyEzw03k8q48KToc0ghOdBbXFA599EN1LaAFHLvK5cmycaTRu2bjsOVWmsvC1NnHWnKZDw6T7BSyeoEIlihVbjYvlp75Wlxb/e5RS+xLjykj4w0TXPLMGRtlV9PWRatrwU6JTnZPT4ZG4MOVpC2Nkz9IjTkl6yDUSBB6aUJlsq36m1zFGPtyVZWORKTjJ/Kr8WIEw+T5IqWZElLgoPDZmSKgmRgpbJmpTJyYbZk5FEVTphl+HR1VRnrKRMtT04sjQ0nL6P4YzwZveFXJ+vayCedbqfLT8BclxiKq+3PT5X2K+y9WfL/GZdbcj1990lVoNJhKrF0N1uhXz8dorcR5FwL6TVsNgt09NkWTcPbX2uya0ivb39Kmb+a3WQJlfFAa+7N7WPFM0YQ7Wr14BBuot2loZRU+T3zJ92Q9f9YsZcX0xlEsNjO+rLtAOw4+I1+Lhlk0/wLRCIf7A==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Flat Response Role Details For User",
+    "permalink": "/saviynt/get-flat-response-role-details-for-user"
+  },
+  "next": {
+    "title": "Validate User Data",
+    "permalink": "/saviynt/validate-user-data"
+  }
+}

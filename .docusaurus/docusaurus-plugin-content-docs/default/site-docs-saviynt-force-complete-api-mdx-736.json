@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/force-complete",
+  "title": "Force Complete",
+  "description": "This API is used to terminate data import job.",
+  "source": "@site/docs/saviynt/force-complete.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/force-complete",
+  "permalink": "/saviynt/force-complete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "force-complete",
+    "title": "Force Complete",
+    "description": "This API is used to terminate data import job.",
+    "sidebar_label": "Force Complete",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzFVdtu2zgQ/RVinlpAsqQ07iYq+uDVOoWxyAWxAxRwDZiWRhETiWTJkVuvoH9fkFY3idM2edsnSdTMmds5ww6I31pIl5DEo5hlqmmUZDckakECLawCKNDmRmgSSkIKi0pYNrmaMWFZa7FgpBihaYTkhKzgxJlotDLE7tRm9EV+kYsK2XrSUqWM+Ic7mDVrWkus4ltk6z+RGzRrVqq6Vt+wYJsdWy/UPcr1iDn/C8U0N7yxEIDSaDzErIAUSmVyzFSjaySEAAxaraRFC2kHR3HsHk+zP3Me7JFLhbxA4x3+4oTuafMKG+7eaKcRUrBkhLyFAPA7d46+C23A4iM2aW/ZUZycsKM4fXeSJmP26XwBfR/AHM0WzWvxJprnFYaZ2inCKBklAwaFmVL34tV5Zdn8+ixcXP49vfiYJDniaXIc8tM8Do+TpAxP35+8D4/HyWnyboPl+I/NB3bFqfoY+XALw6Ut0YRTmavCQb8yal618h4LD/I5PDO8wfDSt9y+FmI+OZ9eXs8+zS6gdzC5koSSnBPXuha5n3p0Z90YfwKpNneYEwSgjeOI527aARqjTKYK/H30GPpgb3uO1vLbF8ydtSVOrX2hqJssm87n+4qGY+9yQMO0gy2vWzzIGGI4zArgIfJj+N6H8DJB8nxediB541w0pwoCEPLh3eDXVhgsICXTYvDLCfX9KoAGqVJOblpZ32GHkUJ0qD7rGb8P3ZoaUqiItE2jqCOUXFI/snwrdpLyWrXFKFdNNM3OI65FtB1DAFtuBN8MLdq7PFfwcO7WUsnbmiD9r+G9T9di3hpBu7mraY+14VbkbgM9qtDlBkPl7tvbuMFu/D56ydobecILWSpvKWg/9H2NbCoJjTbCIpsVKEnQjmWucL89r7FEgzJH+OmCzVRdY+5OmDZqKwq0jCpkBRIXtWWq9J+21W7VYsH2Q7KsVMb/eTmLN9NZ9tZ1HY3dRx6P4pFXght0w73QBg4925tPcu4e5Po/3w/DuAi/U6RrLqQrx5OxG3i7PLg1VgFUjtfpErpuwy3emLrv3fHXFs0O0uXqgZme24Ww7r2AtOS1xd/04s31oLO37Fe5DYdc7rwA/BJwIr/H3Q+59qv+xz3l4+9/TfIcNT1yerYmn2j36nLu7qV/AWGpsbY=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Check Import Status",
+    "permalink": "/saviynt/check-import-status"
+  },
+  "next": {
+    "title": "Send Email",
+    "permalink": "/saviynt/send-email"
+  }
+}

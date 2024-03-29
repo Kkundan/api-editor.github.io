@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/consult-entitlementowner-step-1-for-campaign",
+  "title": "Consult EntitlementOwner Step 1 for Campaign",
+  "description": "This API consults Entitltment Owner for Campaign at Employment Verification Stage in SSM.",
+  "source": "@site/docs/saviynt/consult-entitlementowner-step-1-for-campaign.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/consult-entitlementowner-step-1-for-campaign",
+  "permalink": "/saviynt/consult-entitlementowner-step-1-for-campaign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "consult-entitlementowner-step-1-for-campaign",
+    "title": "Consult EntitlementOwner Step 1 for Campaign",
+    "description": "This API consults Entitltment Owner for Campaign at Employment Verification Stage in SSM.",
+    "sidebar_label": "Consult EntitlementOwner Step 1 for Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWFFT2zgQ/isaPbUzNnFCgcYdHmgu3DBXLhxO7zoDzGRjrWNdbMmV5IAvk/9+I9lJDE0hdPpYXnCU3U/rbz/trrKkBmaahjf05CAgA8gL4DOhqUeHwnCTYY7CkNG9QEXvPMpQx4oXhktBQzpOuSZnVxcklkKXmdGkdjJbJ5JItYElYMgwLzJZOYO/UfGEx2DRSGRghoQLEkWXB7fiVoxTJJOz0qRS8f+czYTkpTYkhQWSyUcEhWpCEpll8h4ZmVZkMpZzFBPnfgmCgZGqIgUoyHVoFydxE4mAHCdEKrJZ4WxSW6Aym6haZqjMHKvaRuA9aM1nArFewC1X2q2MHEWQPd5c5luLSVkwMFhqVBPqUVmgclteMBrShs9WCqQlMzJYdM+lWvNJParwa4nafJSsouHSOhoUxj5CUWTNa3T+1TZfS6rjFHOwT6YqkIZUTv/F2FCPFspGYDhqB7MhpWWrjeJiRj2KD5AXmV06PqYrj7ZJfd5+eHUxGGNeZGDQyeOv7jlOuw7kKe8/hER88jnoHh4fHZI3gxQEU0A+caEzrN6ud5lj9Tx2r9/r9511k7DnzQd1spCRBQd7HKxrWxEtd1AKKupRbjB/AXYcBL2Tdw5rvXazXvTsQ9AN6N3Koy01Po/YDaxTz0Juxfe8C7CcC7pabaNwUTevTFoCrU+7VSjpPjr01n4BWYlPhWXV81Q831XIToH8kApaImgy3U70jmw+TeaOLDxJwobpx0Rv2XSEKtSFFLpmtBcE9t/j+voqmj2aIjBUDu4sjlFrfyCFUTLzz2yN9AcKmX0VyPTOYrAj/0aVSG2wOwFHis/47sKyAys1pgg7nUzGkKVSG4c7gDjFNey+SIXUxo9TjOengUcKhesPNaQUAuOawv3w5oiFDxlf1O/6Gxjc1zUC45Fuj0RYkF7QC0gQhEE/PHxPfr8cO7ThQ8EV7s14VAqPnJBLqEi33z8i3V5oIYMN3pWCWQ2yD5yQfmwpdq7XmKBSqPwrmfG42hdDQ46+rHNtYSI0/kDKOd+bpcEguj73x6M/hn+e9vvvj5Np/9Dv9/td/x0eJn6fHff9IOmygL2fTmN28oFcgUlPO/V2RvHY+GMFQhdSGT/CuFTc7B1/Dg8+zPD0sHt0eBwEwQfCRZyVDKNyymQOXGi3kdshQeUPRSyZRdlzgzgtxRyZA/nixIzC+OOqQL8eBPbOvpBa8CRpkM6VZf6VEGefPo3+8c+vR5fEnjgddjpa5z7Dha9RLXiMQt4faFjwSpg4kyU7iGXeGQ4uO5mccdGB0qRNAF+iyL9S0rzuOHU/kFwyPJ1mMp7XzeMnzSWolFSxZC80usC2uFzPXpB16WraT+xurfBoQJsQ2vvUhd/NhGhcqb5Z0qaXFWBSOxmI7bMd7rhCRkNbh73vkr9a3Xk0R5NK1lRHy5zFCGlnPUuOkkeDo9XCOoJSZU19tmpZGhQgzGq3RqDgncUR9egCFIdpQ1nt8m0Ha9btxSGBMjM03CRg5aLWzVmO7KvVWFPQPLaDf+tFbWy0IcB+djY2y1N3DXjJ2hk5TVvFXW9n5uFaDb9GEzeaWP0l0lFpYV2DcyKwhwFVobhGcuGmCFORgVWGuwC6zoIiRrrzjjiQWVbXEFIoueAMNTEpEoYGeKaJTNxHXRa2wCMjtZi1O2r2m5ejeDO8GFgGrajrnY8OggNXCeyByMEd1SY5rxysHr1R65L16wL88y7AzdE1+GA6RQa1GF1hWjal7IbuLGV3HnXTZHhDl8spaPysstXKLn8tUVU0vLnbFitX7hjX9pnRMIFM4zP5fXPdVOC35Hshri92onI10XUCSj1an2IX+cre0urh3O1ff9UeE1qu37THlbf2sDN4YZ61bfeBq1E0ph6dNj8N5HVfUnBvOwvc05De0lvqfnvYDBhufUkzELMSZta+xrV//wP0oj0v",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Reassign Certification at Account and Entitlement Level Copy",
+    "permalink": "/saviynt/reassign-certification-at-account-and-entitlement-level-copy"
+  },
+  "next": {
+    "title": "Consult EntitlementOwner Step 2 for Campaign",
+    "permalink": "/saviynt/consult-entitlementowner-step-2-for-campaign"
+  }
+}

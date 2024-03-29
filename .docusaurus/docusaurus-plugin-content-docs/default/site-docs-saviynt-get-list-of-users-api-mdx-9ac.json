@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-list-of-users",
+  "title": "Get List of Users",
+  "description": "This API returns the user information from SSM. This API will return only the user attributes which are not null or blank.",
+  "source": "@site/docs/saviynt/get-list-of-users.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-list-of-users",
+  "permalink": "/saviynt/get-list-of-users",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-list-of-users",
+    "title": "Get List of Users",
+    "description": "This API returns the user information from SSM. This API will return only the user attributes which are not null or blank.",
+    "sidebar_label": "Get List of Users",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV99v2zYQ/leIe9oA+WdaNNXQh8x1g2xNUzQusCEJ4DN1ithQpEpSTlxD//tASrItNGuE7GEP24Nhib777nh3/Ph5Cw5vLcRX8NmSsXATQUKWG1E4oRXEsMiEZScfz5ghVxplmcuIlZYMEyrVJkdvx1Kjc3Z5eT5kO/t7IWXjxLSSm70jOmfEqnRk2X0meMbQEFPaMVVKybRhK4nqbnhtrpX//KlLxlExS2h4xlJtGNZAK7SUMK0Yqg0r0GBOjoxlt2JNiq1I6nuGKgnYnRQU5rTDX2TEliely7QR38J2liwvrWMZroktfyU0ZJYs1VLqe0rYasOWC31HajlkLcY5qgSdNk0aNvaLy6/L9veLUE6UnZ91mlpyyyi85PjQPFlt2kVtEjLNM9elcn4XzXsqSCZ2Wbtk+t4SL41wG1T2noxdsgG7hvE1jK5hcg3MaZYIW0jcMFLcbApHCWt9WOMUitsWCSLQBZlQkbMEYrgl915Yd5HWoxLBvuQQX23BVxVi+AoRCD86X0syG4jA8oxyhHgLblN4C+uMULcQAT1gXki/hDzsb/5QCENJPIaqinaI9VafA5sKY51HiSQ2D23/OxF8zZ+D/yhY6Npz0PzJ6yKFCXkO1LSDk+PDPwd5DgJU1U0EhmyhlSXrjafjsf/qsswpOfa5nrmMMAkTtYW36Mh/94m0KCli41fspLxl0/HkmE3H8fg4nh6x0/OF3wdcklmT6Yt3UiDPaDDTG+1oNBlOGgw3mGl9J3rnNZtdfno3WFz8Pv/w5gUdJ0eT10cD/uLl68ELmk4GuEpfDabpmGhyjJgcpb+wj+iyN6MQbmFQ2ZTMYK64Tjx0z6g8K9UdJQHkj8E7f0wHNQfZvhCXJ+fzi09np2cfoPIwXCtHynknLAopeCCG0RfrG/gIpF59Ie5ntzCeRpyo2x+O+YGZKvNV6Psu8rSKgIzRZqYT+nGOY6giyO3tEzspOSdr01J68+ZMPTX4UXOMexzYMOCldPbAGI1Bf0iEo9w+XZX3aB37EM7Zj+K91eTD+ZPSw/qLzlRSe+x48Mcev+lM1d3erV11kgsZdBLYRekEaZCiJ51R0SPOqAiqmyqqebkvA+/TDjXdcUq8hTXKkg7Gb9oZMRhDM0aHs7IfFZjCbhzqnh+0/F8sUFufThGqUIicXKabSzvc1C6DGEbNvW4DFdbJl0ZCDJlzhY1Ho60jhcpVQ4trsVGOS10mQ67z0Xx2PsJCjNYvIYI1GoGrptC1y/ek3qx7RZliKX2ibd+qcC+08uPSc0eNtUIruBdjB133ubX3jX8PNn6qV0GaPWUdjAITesUaLIWriaHeI5srR6YwwhI7S0g5r4hmfuNByH6ilAwpTvCoNp5pKYkHFVwYvRYJ1Ro5IYdCWqbT8GrLotDGi666NXut9XQWP83PZj/7qpOxdeSXw/EwkF+hrcsxMHAzG37svUzzgVuh1kl7u6fy/9X9f1ndNwfG0YMbFRKF56OaDrYNYVwFZvF/CjNtnX/fbn1bPhtZVX651oKeRhJhPSEkEKcoLUVwR5vmz0BDvhDo7m/sdhK/j3Gj1vuYtlq8l22rtvsY15K6j2XH7GbPnRBf+Suu1ruhhrX9CedUHKbxndzyKDuCP517efsXx/dl0Q==",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get User Details",
+    "permalink": "/saviynt/get-user-details"
+  },
+  "next": {
+    "title": "Add/Remove User from SAV ROLE",
+    "permalink": "/saviynt/add-remove-user-from-sav-role"
+  }
+}

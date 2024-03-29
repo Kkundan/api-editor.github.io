@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/approve-reject-attestation-account-details",
+  "title": "Approve Reject Attestation Account Details",
+  "description": "This API can be used to approve or reject accounts or entitlements for a user manager attestation.",
+  "source": "@site/docs/saviynt/approve-reject-attestation-account-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/approve-reject-attestation-account-details",
+  "permalink": "/saviynt/approve-reject-attestation-account-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "approve-reject-attestation-account-details",
+    "title": "Approve Reject Attestation Account Details",
+    "description": "This API can be used to approve or reject accounts or entitlements for a user manager attestation.",
+    "sidebar_label": "Approve Reject Attestation Account Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Attestation Account Entitlement Details",
+    "permalink": "/saviynt/fetch-attestation-account-entitlement-details"
+  },
+  "next": {
+    "title": "Lock Attestation",
+    "permalink": "/saviynt/lock-attestation"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-auto-approved-request",
+  "title": "Create Auto-approved Request",
+  "description": "This API call can be used to auto-approve requests for a particular endpoint and security system. These requests can be used to create, update, or delete types of entitlement requests.",
+  "source": "@site/docs/saviynt/create-auto-approved-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-auto-approved-request",
+  "permalink": "/saviynt/create-auto-approved-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-auto-approved-request",
+    "title": "Create Auto-approved Request",
+    "description": "This API call can be used to auto-approve requests for a particular endpoint and security system. These requests can be used to create, update, or delete types of entitlement requests.",
+    "sidebar_label": "Create Auto-approved Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update Organization Request",
+    "permalink": "/saviynt/update-organization-request"
+  },
+  "next": {
+    "title": "Create Birthright Request",
+    "permalink": "/saviynt/create-birthright-request"
+  }
+}

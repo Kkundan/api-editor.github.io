@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-list-of-usergroups",
+  "title": "Get List of UserGroups",
+  "description": "This API returns list of UserGroups in SSM.",
+  "source": "@site/docs/saviynt/get-list-of-usergroups.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-list-of-usergroups",
+  "permalink": "/saviynt/get-list-of-usergroups",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-list-of-usergroups",
+    "title": "Get List of UserGroups",
+    "description": "This API returns list of UserGroups in SSM.",
+    "sidebar_label": "Get List of UserGroups",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Delete UserGroup",
+    "permalink": "/saviynt/delete-usergroup"
+  },
+  "next": {
+    "title": "Organization",
+    "permalink": "/saviynt/organization"
+  }
+}

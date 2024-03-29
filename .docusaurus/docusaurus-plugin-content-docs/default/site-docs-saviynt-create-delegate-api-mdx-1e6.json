@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-delegate",
+  "title": "Create Delegate",
+  "description": "This method creates a new delegate for a parent User. The input parameters of this method contains the details of the Parent User as well as the one to whom the Delegation is carried out.",
+  "source": "@site/docs/saviynt/create-delegate.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-delegate",
+  "permalink": "/saviynt/create-delegate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-delegate",
+    "title": "Create Delegate",
+    "description": "This method creates a new delegate for a parent User. The input parameters of this method contains the details of the Parent User as well as the one to whom the Delegation is carried out.",
+    "sidebar_label": "Create Delegate",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV19P4zgQ/yojP91KCU0LXSArHtjCnrgTC9p2dYtYpLrxtPGS2FnbofRQvvtpnKQUKLR3byftU2J75jd/PTN+YI7PLIuvWX8nghPMcMYdCjgWuVTSOsOd1IrdBEygTYws/DJmo1RayNGlWkBikDu0wEHhHESDAVNtgEPBDSoHXy2aHRilCFIVpaNtnqNDY0FPwa2iaeW4VBZciiDQcZk1NAiXj2DALcwxy+hLR1ohOA3zVOd+3ZgitQJpIeHGSBSgS7fzXX1XpMj4uHSpNvJvTzWGvLQOUn6HMP6I3KAZw1RnmZ6jgMkCxiN9i2rs2c+5Etxps6jtsDHQ7ri0aD7zHMcQ1iZJC7RHWnktyFFSzRrTWgUDz6waRvqSva0f69N2RXDqmQhCW4qxqS4zARMEbq2cKRSth5aBaZzZRIY4n8qwjhsnuPNCpKJA5tzB+fnJydXV1VNaVOJVSiK88AnDs9ZRnrmW/JopK3rRcQByCkpTyliLAqSDucwyyhMrBRpYcTu38BS7VXaZumMWMF1gndZngsWszt4281nADP4s0bqPWixY/MAoH1E5+uVFkcnEs3buw/l8HpLBYWkyVIkWKIjIJinmnP7cokAWMz35gYljASsMSXYSLZ0+8+AKg3VGqhkLGN7zvMhoKzroHvSiXsSqgL0I0wbW/e7ec9bWPW9zfo263X7/fc24cvnf4iHizcitHmQEcTwN2katdqP+LrG1gX+bgVMpY1VVLTe9/wc+7suSR1t3PCtxbWweA7DW/49OXufjpSOfF1HW+uqpQ176Y2n0qs2PhnnbDNpCK1sb14ui2o5Vcc8tDliKXKDxHMdJgtaGA62c0Vl4TIUvHBgUqJzkmV2b2mu87UyJjPRZC3hh5EyqbbFS54q408l0wrNUU6pUARvwJMUWdlukQlsXJikmt0dRAIXBduEhT5r4b4P0F4oAoi78UWZAEYdeL949jPcO4ffzkUc7vS+kwa0dNixVAPtwzhfQPTzsQ7cXR1EcRUu8S8NnNcg2cEqHCXnIs37BKRqDJrzUmUwW22JYnmOo61ARzBDNHZptuY+LJkIL7bDT3ek2GC4caH0rt/b0YDD88ikcXfx5+vloMun2JtGEh/vTpB/uHeBByJP3/XAP3/d393vRPp/uf4BL7tKjTi3OGZm4cGS4soU2LhxiUhrptvZBzu9DPsOj3W5/930URR9AqiQrBQ7LidA5TShekJcwRROeUgsglC0FJGmpblF4kG8+n1G5cLQoMKyb5tYZpLRVcjptkD7RYPVvIU5OP181/N+Gw/DSaIdJW+23Aeh+gFwLPJpkOrmti+0rjfOHfQV1Q5+8xcUGFagloDHaDLTY1BSJNrezt6mWpbIZccV/6yJec9ZlT7Rj1Cu8BuvF1EX9cUxm8fVD2y0K7lIWMCqk7T8NLdLQBEIFOHg1ZlV1E7B60m7Kom83LmUx67wYhay/+LXs0mRNSbZxp/PgUHHlqh3L7+RCuSTTpdhJdN45HZx3eCE7d30WsDtuJJ80vqpZXvalZp+645SXmWPxMgaV19c2d3dIRtVYE25lQgP8iomkG2tMp7WnoUBP/Di/idoT+Usg1VR7SunqEl3bCKfKoSmMtAhnvi+6BQzIcDi+PANfbFEl+KLP+8fSQGdZfaegMPpOClz7xLFlQfUKRfMesv4dRSebtfjt9GzwjryOxtaS+zvRjs91inTO/cVrkujlNPBsyFve31+PvV+Pvf/tY6+57Q7vXafIOE00QV3LHpq6d/38CXgTMD9txtfs4WHCLX41WVXR9s8SzYLF1zePlc3XRiEt/QsWT3lm8Y2r9NuXplC/g9eUaza5WvgC6psJPRXqNuJ1rm6qdnj38uuj1RlihXXzq7UKWgga2gv3CrPv3E/6x+XFcMQCNmmeynnd2VaQg9VFfH1TVdU/LbdgzA==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Delegate User List",
+    "permalink": "/saviynt/get-delegate-user-list"
+  },
+  "next": {
+    "title": "Fetch Existing Delegates List",
+    "permalink": "/saviynt/fetch-existing-delegates-list"
+  }
+}

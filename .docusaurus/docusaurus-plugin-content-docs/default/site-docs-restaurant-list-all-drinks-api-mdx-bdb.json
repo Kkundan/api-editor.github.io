@@ -1,0 +1,35 @@
+{
+  "id": "restaurant/list-all-drinks",
+  "title": "List All Drinks",
+  "description": "Froyo's the best!",
+  "source": "@site/docs/restaurant/list-all-drinks.api.mdx",
+  "sourceDirName": "restaurant",
+  "slug": "/restaurant/list-all-drinks",
+  "permalink": "/restaurant/list-all-drinks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "list-all-drinks",
+    "title": "List All Drinks",
+    "description": "Froyo's the best!",
+    "sidebar_label": "List All Drinks",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJx1kM1qwzAQhF/FnUsvwnFy1K3QtIcWCv05GR/kZBuLypKqXYcEo3cvalpICj0NDDvf7uwMMTuGbosuoYqs0ClsiTfJRrHBQ+MuhWO45koGqnpiuYJCIo7BMzH0jFXTFLlMPT0gZ4WRZAhbaOxIoBCNDNBYbJP1HwwF699DCYsVR9B4JhYzJeOlWh/MGB1BYU+JT9Rl3dQN/l748j1YnZk1skIMLKPxBe/NWOiPlqW6ca66/d1/AZqxCV7Iyz+t5RgLReggi+iM9WXLlFxJnpq1+GnWKQyBpTjz3Bumt+RyLvbnROkI3XYKe5Os6Uvvtjv/1f36FTl/ATtUigk=",
+    "sidebar_class_name": "get api-method",
+    "info_path": "restaurant/restaurant-example",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "List All Products",
+    "permalink": "/restaurant/list-all-products"
+  },
+  "next": {
+    "title": "List All Products",
+    "permalink": "/restaurant/list-all-products"
+  }
+}

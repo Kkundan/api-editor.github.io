@@ -1,0 +1,29 @@
+{
+  "id": "saviynt/6-0-attestations",
+  "title": "6.0 Attestations",
+  "description": "6.0 Attestations",
+  "source": "@site/docs/saviynt/6-0-attestations.tag.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/6-0-attestations",
+  "permalink": "/saviynt/6-0-attestations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "6-0-attestations",
+    "title": "6.0 Attestations",
+    "description": "6.0 Attestations",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Delete Delegate",
+    "permalink": "/saviynt/delete-delegate"
+  },
+  "next": {
+    "title": "Fetch Attestation List",
+    "permalink": "/saviynt/fetch-attestation-list"
+  }
+}

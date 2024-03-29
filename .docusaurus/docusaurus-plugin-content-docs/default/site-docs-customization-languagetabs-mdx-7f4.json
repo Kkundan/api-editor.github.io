@@ -1,0 +1,30 @@
+{
+  "id": "customization/languagetabs",
+  "title": "Language Tabs",
+  "description": "Configuring language tabs for the API Demo Panel.",
+  "source": "@site/docs/customization/languagetabs.mdx",
+  "sourceDirName": "customization",
+  "slug": "/customization/languagetabs",
+  "permalink": "/customization/languagetabs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo/docs/customization/languagetabs.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "languagetabs",
+    "hide_title": true,
+    "sidebar_label": "Language Tabs",
+    "title": "Language Tabs",
+    "description": "Configuring language tabs for the API Demo Panel."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customization",
+    "permalink": "/category/customization"
+  },
+  "next": {
+    "title": "Styling",
+    "permalink": "/customization/styling"
+  }
+}

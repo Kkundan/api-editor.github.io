@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/transport-status",
+  "title": "Transport Status",
+  "description": "This API obtains the status of the transport request (import, export, or transfer), and helps in confirming whether the transport was completed successfully or failed.",
+  "source": "@site/docs/saviynt/transport-status.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/transport-status",
+  "permalink": "/saviynt/transport-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "transport-status",
+    "title": "Transport Status",
+    "description": "This API obtains the status of the transport request (import, export, or transfer), and helps in confirming whether the transport was completed successfully or failed.",
+    "sidebar_label": "Transport Status",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV21P2zoU/itH/gQo6QuFMVLxgZVut/eKgWg3TQK0OslJ4zWxM9spdFX/+5XtpBQorJOmK11p/ZLGOT7n8fHxcx4viKYTRYJr0j5otGAkKVeFkJrceiRGFUlWaCY4CcgoZQpOLwcgQk0ZV6BTBKWpLhWIxL7pejZI/F6i0rDDcvPuAd67p5DOKkG56wHlMaSYFQoYh0jwhMmc8QncpahTlE+c3lEFkciLDDXGoMooQqWSMsvmxm1CWYZx44bf8L29j0Lj3l4AK9ASdSmfgRY8m4NOhcIasbGgGlI6QwgRORRSmDAYQ6kMNOOgz1PKI4wf0gUJUl1KtOFHKcL4tNSpkOwHNekbQ16qyuv4HVKJcgyJyDJxhzGEcxiPxBT52E4/pzymWsg5FFTSXAVmcCwKlJUvH5DrOjvzAm36n6e+Tnm9BeupB7jh44RlyGmOTzyuPBU0mtIJwg9WgLEFY2x2yuQcdhiPsjKuc9IwVnivkSsmuAtQQWHxeMf8ZRJjl3Lm6mW1JmCqgrn7CEu9lsEZTJAbY4whLmUdVJVhzpQJWJeg81JPJB5ZxRjEJCCrxQ1tDRCPVJbvRDwnwYJEgmvk2vylRZGxyM5tflPmDCyIilLMqflnEk8CIsJvGJk4hTSRNENlvtapXbNU2sAmHsF7amp4Hc1XGueMf91v7Xf8Vttvd762O/7+kX/Q2fk06u2a3JLl2lped+s2niyXy9WoBfVQrdXqgwWZ0azEx4h/DdYjVGuhbXSJqhBcufD7rZZ5PGGVJ5jAh3cZ5VO4etj6JmywGriN3vit71B4JEUao7TRezRK0e8JrqXINm7lhkwWks2oRmLW0hOcY1Rnf5vZU8TCpxmbOQdnxtOWU99L5kG7A39TDib90D4IOu2gfQwfzkfW2xC13xNiyrb22esNr977o4t/+h9POm/CiIZvEz+Kj9/4B8eHsU+PkmP/DT2gx+3joyTsvO3CZ5TmbJ20u3BJdXpyQ7r22ez+pXVxwbN594Z0YYhRKd0ah1qySPurPfHtN6bn24LM6b1PJ3jSPjzaP3jbanXB0QwOy/BM5Kbx2ECjisn8Po+EIaFtA0RpyacYWyefqdwa2KntNnUB+VV5+n9VFWbcfbFfkWt/NC/Qv7A1rrYNwIXiLEkqT+8lzX/ZxfD0vH9xNfgw+Fh5+TIc+pdS6F+r23YXchHjSZiJaOpo5DfRIkopZE/E67zIyzxEuQ6gvfRIriavgxzwGc1YvGoRl3SeCRoTN/dsnWRec3NVtyiIKOdCQ4gQGgL6OX1uoKpHjLq22Ha1oBdRPwf9KjJvE5iK9V6A0KohDJ1u2hTSCBfkMyYFz5E/CAAjvB7JLUfzGDdewuLY+T/B4jq+w1K1nRx1Kky7n6CtQapTEpDmqq9dOl8rDaBQzmybuF6QUmYkIKnWhQqazYVGTrleNhSdsTnXUSbKuBGJvNnvnTdpwZqzQ+KRGZWMhlWduCnPW101bnR1QstM23bp6nC5XN4aGI4rh+Y0OV8hVSwyUnKtig02A9pakcDZmLoPrbD8mbU1svtmTu/Vg/zp14fid4sBjzCeCIuJaUdULpvQN0qvkEwhDGLkmuk59EyKrWa/wgQl8gjJxrtIT2SZIzYj0mcsRifvY9SUZatLiSoLVyDgykJBIpy6/DmKnf6gt2v21zVCEpDDRqvRMksqhNI5texSZeqZvHqCek1c/rlM/blM/R8vUxWnaLzXzSKjjJuTYBlzUbHsNXmBZW89kgqljcViEVKFn2S2XJrh7yUaGXZ9+8Cj5m1Zy3dLy1OcGwm7pq8s7dre8lySLL16hpFthX7V9natYXzoj4hHwuoymNtuRSS9MxdFekcCckNuiKW5lTCz4wuSUT4p6cTYO7fm9y/jGhY4",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Import Package",
+    "permalink": "/saviynt/import-package"
+  },
+  "next": {
+    "title": "15.0 Policies",
+    "permalink": "/saviynt/15-0-policies"
+  }
+}

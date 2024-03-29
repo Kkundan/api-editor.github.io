@@ -1,0 +1,29 @@
+{
+  "id": "petstore/pet",
+  "title": "Pets",
+  "description": "Pets",
+  "source": "@site/docs/petstore/pet.tag.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/pet",
+  "permalink": "/petstore/pet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pet",
+    "title": "Pets",
+    "description": "Pets",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/petstore/swagger-petstore-yaml"
+  },
+  "next": {
+    "title": "Add a new pet to the store",
+    "permalink": "/petstore/add-pet"
+  }
+}

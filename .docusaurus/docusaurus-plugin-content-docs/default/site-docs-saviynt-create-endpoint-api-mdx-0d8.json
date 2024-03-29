@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-endpoint",
+  "title": "Create Endpoint",
+  "description": "This API creates an endpoint in EIC.",
+  "source": "@site/docs/saviynt/create-endpoint.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-endpoint",
+  "permalink": "/saviynt/create-endpoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-endpoint",
+    "title": "Create Endpoint",
+    "description": "This API creates an endpoint in EIC.",
+    "sidebar_label": "Create Endpoint",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Endpoints",
+    "permalink": "/saviynt/endpoints"
+  },
+  "next": {
+    "title": "Update Endpoint",
+    "permalink": "/saviynt/update-endpoint"
+  }
+}

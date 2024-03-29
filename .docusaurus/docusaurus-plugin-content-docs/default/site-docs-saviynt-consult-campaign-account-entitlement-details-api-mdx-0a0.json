@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/consult-campaign-account-entitlement-details",
+  "title": "Consult Campaign Account Entitlement Details",
+  "description": "This API consults User Manager for Campaign at Account and Access Certification Stage in SSM.",
+  "source": "@site/docs/saviynt/consult-campaign-account-entitlement-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/consult-campaign-account-entitlement-details",
+  "permalink": "/saviynt/consult-campaign-account-entitlement-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "consult-campaign-account-entitlement-details",
+    "title": "Consult Campaign Account Entitlement Details",
+    "description": "This API consults User Manager for Campaign at Account and Access Certification Stage in SSM.",
+    "sidebar_label": "Consult Campaign Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWNtu2zgQ/RWCT20g2XKcS6OiD6nrLgJsNkHsAl0kwXosjS02EqmSVBKv4X9f8GJbzs0Ktt2XbV4i0Zwzo5kzF3JONUwVjS/pYSsiPShKYFOuaEC/KJTkFDhMUdLrgKaoEslKzQSnMR1mTJHj8xOSCK6qXCtS308mQq7ACGhynCSi4poAT80zKkV6KDWbsAQMIhlomCJhnAwGpy1yxa/4MEMyOq50JiT7224akaJSmmRwi2T0EUGiHJGJyHNxhykZz8hoKG6Qj1pG/BR4ClrIGSlBQqFiszjieAdKsSlHHNmFxBvJocAREZKsVljqd9TtrG1DqW9w5vaA+zw1IuEV77SIWQDtf99tkVGlUK4Wui0y8m4DpUTCQGOKXDOdY4EGxoDu7OycXezs7FgFG7+SkDzUQp5Rg1yv3q/4mY0e5BsuSUSxVjqqyhQ0GpwRDagoDR4T/CSlMfU2L+PqY9pfm/YJNbDckEfi9wqV/ijSGY3nRlIj1+YRyjL3zmx/U4ZLc6qSDAswT3pWIo2pGH/DRNOAltKYoBkqK+vdXNsJUsKMBpRpLFQjBOeP2lalJeNTGlC8h6LMzVJ393AvoouAvhimlzEmkCs0GOugvCywf7h30KWLxaK2eLlhsrdrq1le96bqJf61+awVx7f44ch5oZYkLwssufHX3oEVfJg7jaVJSOBOQVowTt7AnSL28e0SdKszD951Do9cBIsGwdKo9K7Z/kx8fxrNuvtea6P97/beHbySUvudrZTq7tMNE7yex/QxWIY+tSr6sn7IGNeCW5NXhWWLiInzhsnWoz3H+HVTWXaUWvkhy/oTz+kt5BVu1oyfkUubqWTz5WG6bOTEkynRhPc12ntu16nt+fuQvv821A8ivQrnZjTXIbNRk6hKwZUL224UmX+bs8OrYhnQDCFFaeHc6BD2BNdS5OGxaf1hT7qYgYv8o2byVLrLCqkx9knAM8mm7OnG9ARWpnUZt9u5SCDPhNIWtwdJhkvYpkilUDpMMkxuPkQBKSUuXxyk66Hh78CnFUyxKSry8MvAInwC3VhqmFUB6XTJZxyT3Wg3IlEUd47ivQPy2+nQovXvSyaxscsHFQ/IITmFGekcHe2Tzm4cRXEUrfDOJUwdSBM4LsLE+NiKXuAEpUQZnoucJbOmGAoKDIULtoEZoLx15amJ9HHpYzwTGtudVsdhaMkSHQ4lcFUKqcMBJpVkurFRBdyHMMUP3c5+9yCKoveE8SSvUhxU41QUwLiyiqyGCcqwzxORGpSGCpKs4jeYWpCv4ZJVw1mJoZsPG4eUC8XZZOKRPkvjzldCfOr/8aeX/zoYhOdSaExcmWgG0HlPCpHih3EukhvXNn7QsIlSCpmIdEuLswNSoaZbqFbZQvMD+1rNPGqajjWhrsdVYzvpo7b183JOfcMpQWdmmuHrZzOxM4kpjU1xDJ51/sK0hQJ1JlJfsoznDEZM249PCP36qUDZBHOWVDL3xVPF7fZcIweuFy0Ft2zGdZKLKm0lomj3e6dtKFn71nSuW5AMxt51TuRxe/Hr5sQ6gSrXpgb6QCys9cqn5MB8osMag2KJOWzWPtjYRr0jzLvdY6I9tkfPbbvtJsttw7yL9YGov2TFr+HkvxtODNknwsbL2GAakmOaSTSUpWQKyYlz74z0DP3s9YZtLcgTpE/egPREnruCRUopblmKiugMSeo4T8TEvqqqNM0AU+IyR9kLEvPLdive9E96xsUmc5zm/VbUsmXHZF8Btqotg/W60Wrji2rH9F/XO/+L6x1fujTe63aZg8sTW5jnvqRfPnHpUyvp1wG1I298SefzMSj8IvPFwix/r1DOaHx5vS7aNuVTpsxzSmNbul6g4JsL35HekudMXR7O+cz2BtsZKQ2oKxT2C+x51Z0grH73U33qqYk+GhcWwVLCsLrUL+6t98Xzs8GQBnTs778K16cl3JlOC3c0plf0itobttW8ZNfnNF/N99Thmr9/ANvxeyY=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Consult UserManager Step 1 for Campaign",
+    "permalink": "/saviynt/consult-usermanager-step-1-for-campaign"
+  },
+  "next": {
+    "title": "Reassign Certification at Account and Entitlement Level Copy",
+    "permalink": "/saviynt/reassign-certification-at-account-and-entitlement-level-copy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/find-pets-by-tags",
+  "title": "Finds Pets by tags",
+  "description": "Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.",
+  "source": "@site/docs/petstore_versioned/1.0.0/find-pets-by-tags.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/find-pets-by-tags",
+  "permalink": "/petstore_versioned/1.0.0/find-pets-by-tags",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "find-pets-by-tags",
+    "title": "Finds Pets by tags",
+    "description": "Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.",
+    "sidebar_label": "Finds Pets by tags",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Finds Pets by status",
+    "permalink": "/petstore_versioned/1.0.0/find-pets-by-status"
+  },
+  "next": {
+    "title": "New pet",
+    "permalink": "/petstore_versioned/1.0.0/new-pet"
+  }
+}

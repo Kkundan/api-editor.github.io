@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-connections",
+  "title": "Delete Connections",
+  "description": "This API deletes Connections in SSM.",
+  "source": "@site/docs/saviynt/delete-connections.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-connections",
+  "permalink": "/saviynt/delete-connections",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-connections",
+    "title": "Delete Connections",
+    "description": "This API deletes Connections in SSM.",
+    "sidebar_label": "Delete Connections",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlV1FP4zgQ/ivWPO1KCQ0FlpIVD2zprqq7LhztSSvBSnXiaeOtY2dtp5Cr+t9PdkIbjgJd3b0dL8SO5/smM+OZryuwdG4gvoW+khJTy5U08D0AhibVvHBriGGScUMuroeEoUCLhrROEy7JeDw6uJN3cpIhmV6UNlOa/0Xd6ynJS2NJRpdIpp+QatRTMlNCqHtkJKnIdKIWKKfefEQlo1bpihRU09zEbnNaFoxaLA3qqV+nG+4/StTVlChNWpsLrKbk3XBGEmUzQjWSghqDjNgMJXlyjtxzIUiCbtdwhhrZewhAFai980MGMdSf3A5PABp/lmjsJ8UqiFeQKmlRWvdIi0Lw1Ft3fhgXvBWYNMOcuidbFQgxqOQHphYCKLTjshxNA7P1rXWcak0rCIBbzE1r31jN5RwCwAeaF8Jt9WDdWt5CD76vA9hG8HVrynIuYb3eYni6Sx+Bds7d7pKKEne47Umfcm6B1wFYfLCdQlDuY7M3D3jztYu9KZQ0tUk3ity/p9W6AyeADClD7Y0u0hSNCftKWq1EeOGKMexrZCgtp8LszNmOcFldIjiXdgJeaT7nu/O/AyuztjBxp8NwGZpUl3lYWhEeHhi65JW0qVAlO0hV7vn6NM3wkW5fhkIZG6YZpovzKCCFxsdFDbkJ1r54C8QipIIv6xhcUov7mo6UDEi3Rz5jQrpRt0uiD/HRh/jokHwZTTza4KHgGvfOxLiUATklI1qRw7OzE3LYjaMojqIN3rWm8xpkHzipwtSF2Jve4Ay1Rh1eK8HTal8MVaffIYzRhn2lFnzvAPX745vP4eTqt8HX8x72jk7OEgyj6LgXHp91j0M6O+uFH+hpt0ePZlHSjT6Sa2qz805NZzVPbTjRVJpCaRuOMS01t3u7ntOHkM7x/PDktHvci6KPhMtUlAzHZXKpcsql8USeYYY6HMhUMYeyJ0GalXKBzIN883WM0oaTqsDwqthc/P0yZSSfzRqkz5rmvwwxvhgNrm6GX4ZfG5Rv43F4rZX9tetw+JHkiuF5IlS6qHvofz4W2s3/paHwAkjvjYLbcJC6ezIyLl1Tm5VCVE9GAsS3Hu5NGzd5UGulU8XwdfrIja3czF8/ZUrfZ//FgDL7O//Ed4ig8a/tRD2PvFRB62fL7QokzX23pTZz2ZHbZycauEYGsRscwYtVtXbkOdpMbeWHy6dDiaHzTz0CARjUy0f+UovWOFlZlFTa9bM50hn0Rx1a8M7yBAJYUs1p0kSzNnk+Vpt9pw1ntBQW4k1u1t5n0/SZsfuwGiuhhqdOELY+0/kGzee7tT/jCiDx8vCt0/6Qv6ruIt1sldjgsVB+RZK4FM2U5+O27gd1pMhAWtSF5gbJ0CsDW5G+C58Xwn4qoEwRdmrlvhKiKa9CqyVnaJz+JAwt5cIQNfNLUxauQyMjdb4NmSnt37ztxbvBsO/Uqst8zXxyEB34m+RGfU59k2nKcackeuJ3S8X+z+R+U2gtXeoks/bCqr50t89+BLhyypSx7t1qlVCDf2qxXrvtn85LiG+/b6+Vv5iMG/fMIJ5RYfCV8L+7aTrFe/KSe49DQFb+9jYKOQBf7rXXvv/Wqtfz16/aw7Zl+mw+rYNHCyduC/vq2Xa/uhz8PpgMIICk+XGU1x1U03vXA+k9xHAHd+B/Z216td9fgaByXtK5O18ju7+/ASlJDn4=",
+    "sidebar_class_name": "delete api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Connections Details",
+    "permalink": "/saviynt/get-connections-details"
+  },
+  "next": {
+    "title": "Dataset",
+    "permalink": "/saviynt/dataset"
+  }
+}

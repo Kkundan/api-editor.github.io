@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/certify-user-manager-for-campaign",
+  "title": "Certify User Manager for Campaign",
+  "description": "This API will do employee verification for a particular campaign.",
+  "source": "@site/docs/saviynt/certify-user-manager-for-campaign.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/certify-user-manager-for-campaign",
+  "permalink": "/saviynt/certify-user-manager-for-campaign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "certify-user-manager-for-campaign",
+    "title": "Certify User Manager for Campaign",
+    "description": "This API will do employee verification for a particular campaign.",
+    "sidebar_label": "Certify User Manager for Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWG1P2zoU/ivW+bRJ6Qu9QEeu9oF1ZUITFLXd3ZUoUlznlBgSO7MdWG7V/35lO6XpKG338uHqaghB4hyfN5/zPLbnYOithvAaus026dEsp/xWaAjgk0ZFLqigt6jgJoAYNVM8N1wKCGGccE1Or87JI09TEkuCWZ7KEpE8oOIzzqgVJDOpCCU5VYazIqWKsMpCcyImYpwgiU4Lk0jF/3ETIpIV2pCEPiCJ3iFVqCIyk2kqHzEm05JEY3mPInLTL6iIqZGqtAZopkM7GNXt64g0yEQcNEm0NHweRxPRaZLoyWErw6ggUyRS4CoQqUjKtSFy9jSmScrvkTTI9QTuYokTCCbg/uiMm8Q93clETOAmIBPxR5NU7qCKJuKwSSLKfJgN8hdNeUz8uyZUIfk8GH4cnQ2GF/3W+0F/dDkY2xE/cDkY9kdXg8tRP5iIIxsPKnOPZWRjHrhVoelaHpjMMhRGR4QLYmym1zMDAcgclXs7jyEEq5HPSrvu1bKfSbWsCAhA4ZcCtXkn4xLCOTApDApjH2mep5Xe1p229TEHzRLMqH0yZY4QgpzeITMQQK6sXcNR269rTtXEqVK0hAC4wUzvVuPzWJPTRnFxCwHgV5rlqR36NqmwCGBVFtvndjpvnLjP+nbZg6Oj7pGTrpZgu7hBbchS1HcMk/LeKljW3XYFT+LLWtsuHk8pT7GExWJRG75e5fB5otbz5JJRy0UVcD3eF4OqxwTLoZXfK+eCmj+rxtjHk+NdnjDFWUJVrNe9qQ9v8uimnjC3pj3fMaQOlc7CU9fYAqdpgRsq/XfC90m4y7lCnUuhfdI77bb9t05Hz7FrtsIu0iK7VyqABGmMytl4Tw1uBLEN7fQZ44C0j8h7ZKTTPnhDDk7Cdjc87JAPF2Ow7o9QPfim3EffaU5Zgo2eLKXB1kHzoNJhGj0p7/nefvV6o+FZYzz42L98e4wddnJ82GnQ7slB47AzjRv08CRuxEfTQ/vLjg+7f5IrapK3LWdurKjQM1SNvmAytqr3tMqSQtxj7JT83eh5jmiMyxwbnqX0vpqE1ILPZpWmM0Wz71YxOr3oD4bnH84vPdj9IspisvBKKjFRZFNUdcsdCxRKSdWT8Q7wtrid6dvdQr+IKL+TUvaMom1l+U4O7e4VrS4YQ62fE9QGJKv5B23wPjhDlZ2VsmD+Evbsr+NnKaCqnM6z1fw+MuhuRvVv41h3/udQv/sydP+I2ZtFtZl6EbRfyFvd2JMt2JTP/0SxeP5y23I0jlyu5yBoZmfn1CRWgVg92y02VxhDaFSBwYsgt1jcBJChSaS1nkvt+tzqCKG1Pa0BaEdH3pVCpRBCYkyuw1ZrblBQYRZNTR94KQxLZRE3mcxa/d5Fi+a89WB3HQ9UcTqtGsBPec7I1bg9N85okRoIn1p54dzXyArFTTmyMXpdU6o5s+fBWsTWN6gyYd+djIWRqTsd7pJ2Qo5DLMoPV0eY/hJXfm/MfmBjZst2Jl3iufFc60uG9IVBlSuukZzHKAw3JenZOnK3BUOcoULBEDZeKPRkmqKLleRKPvAYtTu6xmgoT7U9ittXXeS5VAZj4nvAB2O/7PbiVf+899rHpb3lo2a76fjL9lFGHfJULbrPtnEtjNqx+PcVyf/hiqTCFYNfTStPKRe2UBxqzivAvd7BYzcBJBagw2uYz6dU4yeVLhZ2+EuBqoTw+mYFqQ59Yq7tcwzhjKYat5TYq2FFGK/JS74ud4midMjtCNUSpkcJF4LrZ3/6cfb9p/revTb12cbZ4pOfccoY5marbJ22rgajMQQwre6TMs+pij5aIqSPEIItHHdN9bTndeNzSKm4Leitlfd67c+/Yc4HCA==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Campaign Details",
+    "permalink": "/saviynt/fetch-campaign-details"
+  },
+  "next": {
+    "title": "Fetch Account Entitlement Details",
+    "permalink": "/saviynt/fetch-account-entitlement-details"
+  }
+}

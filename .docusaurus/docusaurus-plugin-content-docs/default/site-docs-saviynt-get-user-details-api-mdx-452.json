@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-user-details",
+  "title": "Get User Details",
+  "description": "This method returns a `List` of Users in SSM.",
+  "source": "@site/docs/saviynt/get-user-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-user-details",
+  "permalink": "/saviynt/get-user-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-user-details",
+    "title": "Get User Details",
+    "description": "This method returns a `List` of Users in SSM.",
+    "sidebar_label": "Get User Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Bulk Upload Users",
+    "permalink": "/saviynt/bulk-upload-users"
+  },
+  "next": {
+    "title": "Get List of Users",
+    "permalink": "/saviynt/get-list-of-users"
+  }
+}

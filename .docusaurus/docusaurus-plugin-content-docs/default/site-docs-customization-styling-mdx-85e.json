@@ -1,0 +1,26 @@
+{
+  "id": "customization/styling",
+  "title": "Styling",
+  "description": "Styling tweaks for docusaurus-openapi-docs.",
+  "source": "@site/docs/customization/styling.mdx",
+  "sourceDirName": "customization",
+  "slug": "/customization/styling",
+  "permalink": "/customization/styling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo/docs/customization/styling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "styling",
+    "hide_title": true,
+    "sidebar_label": "Styling",
+    "title": "Styling",
+    "description": "Styling tweaks for docusaurus-openapi-docs."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Tabs",
+    "permalink": "/customization/languagetabs"
+  }
+}

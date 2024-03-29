@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-job-metadata",
+  "title": "Fetch Job Metadata",
+  "description": "This API call return job metadata for the last run of a job in SSM.",
+  "source": "@site/docs/saviynt/fetch-job-metadata.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-job-metadata",
+  "permalink": "/saviynt/fetch-job-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-job-metadata",
+    "title": "Fetch Job Metadata",
+    "description": "This API call return job metadata for the last run of a job in SSM.",
+    "sidebar_label": "Fetch Job Metadata",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV21v2zYQ/ivEfVkbyLbsNAsgDANSN+kSLG0RO8iAJIAp6WwxlUiVPDn1DP334Sj5JambZEO3TzNgWKbv7bmXh+clkJw5iK6hH3ZDMTRFYbS4JJUrUugggDMTi6HRZE0OtwGk6BKrSlJGQwTjTDlx9OlUJDLPhUWqrBZ3JhYFkkwlSTE1VlCGIpeOhK20MFMhvYjSYjQ6797YG83vcYZiclRRZqz6U7L9iSgqRyKTcxSTtygt2omYmjw395iKeCEmY/MZ9aQrVjbOpU4lGbsQpbSycNH6l8mdibUscLI6+OghyHwluRYkq2YztA+EWXtmTVWuT/b29j4Ywr29vUhw5I5slVBlkfExXouuyqmxzlAtutJohyKRWiSZ1DMUsXSYiqo02qtwpn9Tzsfv5BzTNkUQgCnR+pycphDBFCnJzkx83iYZArD4pUJHb026gGgJidGEmvhRlmWuEq/cu3NctSW4JMNC8hMtSoQITHyHCUEApWVXvvTREtqkbQk6skrPIAD8Kosy56MxOhoarTFhH+7MxFAHrOpIWkolPaM/CAdhJ+x3+ociPIwODqP9N2xgqw5P6xM6SozWUNf1+tyHf8J58mldZypawlzmFT5AtwvCYwQ7w3wU5YNQfDSrqvtwBmHIHw8naEeMAWQoU7ReadhUsvM76hllO4u3IychsPd3be5fonGFaSD6A3GCsWCoYrAf9cNofyDen4+9tRHaOdqX2jsqZZJhZ2gWhrDX7/a9jaurqw7POGrinnxxdM30exN/dE6sLLDTDLB7qYXR0fnxx4vT96cfmj75QROC1ho7NOl2j+qqiNFuew/rAAo3eybCKknQOWjapsrpee87+vZZnWOdjtVzM3VilTiTWrTN/iY6OBSX46HvDA7wzMRDw7KE6dOWNmJ1ABePce1Q+CW2v757y8jCMBSR2OATJ1LlmHqBOI0HIhKX+rM291rw3DCbip8S5RLzEzsb8fD+A6j7P29BXQ3y36CVrZYI27Kva7td2t3FW5fn6Ro8LsFWnjdp/kG5fJDKF+WLM+ZvPiRPY9dLaBmylJRBAEpvnvnqUpZBkK0w+O401/VtAAVSZhhvaZzvbbYRQW/Hleg8XzXeK5tDBBlR6aJeb0mopaa66+RcLTQluanSbmKK3vHwvCdL1ZsfQABzaZWM26I3Kt/yd3vOi9FUNllf9VbtI3aYVFbRYsSwGluxdCphGtwCybFBC56/exlu49hT33PSG35kBrvYbAPHq0b/d+87LunU+AgVNXTW5FYca0JbWuVQnKbM+7QQQ0643xsvcIoWdYKwc7UcmjxvG7a0Zq5SdH5VSpGkyt1q2XJVWRpLmIqmP9x67Xw+ilfHp8PXXG20rvF80A27nuW4xwrp74MW8M7b+kHcW7vX/9vxf7Qdt0NB+JV6ZS6V70c/8suWIK6/3ZlvA8iYQ6JrWC7Z16XN65qPv1RoFxBd324owJNIqhw/pxBNZe7wicK/umg57bX4XnjtodQLzzT+7gAI4DMuVtRY39arVdD7b35aLYRjNrBR/WaJqYOVxlGSYElPym4z66ePozEEELd/JQp/k4GV98zV8h4iuIEb8H9K1huYP19CLvWskjOWb+zy6y8VaeZQ",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Run Job Trigger",
+    "permalink": "/saviynt/run-job-trigger"
+  },
+  "next": {
+    "title": "createTrigger",
+    "permalink": "/saviynt/createtrigger"
+  }
+}

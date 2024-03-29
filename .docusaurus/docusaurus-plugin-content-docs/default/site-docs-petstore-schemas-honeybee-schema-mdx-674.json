@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/honeybee",
+  "title": "HoneyBee",
+  "description": "A representation of a honey bee",
+  "source": "@site/docs/petstore/schemas/honeybee.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/honeybee",
+  "permalink": "/petstore/schemas/honeybee",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "honeybee",
+    "title": "HoneyBee",
+    "description": "A representation of a honey bee",
+    "sidebar_label": "HoneyBee",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Dog",
+    "permalink": "/petstore/schemas/dog"
+  },
+  "next": {
+    "title": "Id",
+    "permalink": "/petstore/schemas/id"
+  }
+}

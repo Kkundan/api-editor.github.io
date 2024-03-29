@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-user-request",
+  "title": "Update User Request",
+  "description": "This API call can be used for updating user request in the EIC.",
+  "source": "@site/docs/saviynt/update-user-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-user-request",
+  "permalink": "/saviynt/update-user-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-user-request",
+    "title": "Update User Request",
+    "description": "This API call can be used for updating user request in the EIC.",
+    "sidebar_label": "Update User Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV91v4jgQ/1csv9yulEBo6faaVR9Yjl1Vp26rQqWVSiUm8UDcJnbOdtpyiP/9ZDtAUFngpHvYh+PJMTO/+fR8LKiBmabxA+22ItJLU9Sa3OFfFWpDA9pXCAYbF/cale7Qx4Ay1KnipeFS0JiOMq5J7/aKpJDnJAVBEiSVRkamUpGqZGC4mNkbRZRHI1wQkyEZXPVbYzEWowzJpFeZTCr+N1jcCSkqbUgGL0gmXxAUqgmZyjyXr8hIMieTkXxGMXHs1yAYGKnmpAQFhY7t5cQKFFDghIRe+GsmSQaaGGk1LCTjU47MIdw4YyDfBrCqo2W1EPc1nIPhemOYNaS2K3B8lvI3TdhcQMFTAsYonlQGJyvnlKA1shYhYzF4g6LMMSZjOuVKGythTN2nGNPAkowpCsPN3F2PH/xVz+QgDIyp+xw/0oDKEpXz3RWjMfXKW1U2Eay1/CLZnMYLmkphUBh7hLLMeeq420/ahnVBdZphAfZk5iXSmMrkCVOLUyory3DU9l+Gms8E+GxYE2ujuJjRgKK3kMYubegyqM1p0IJSMKcB5QYLvR+jttvBrC4f1rePy2Djxv1AU2ExcjiG9jvMIbfkBQiYodpPPUtAwJkl3yTQfg5gBXfqrFJ2P/mTzASTSJfLjRec2+6dPJep63cbL+gL5BW+i5QPxyYaDS9uOdF6qumo2hsNZ6ws3ja4tqppVFNzp7xCXUqhvfYnUVQr2SgudRVqmkTaZJehAc0QGCqH5atZ2JfCKJmHPVs3wr5CZq2FXO/M7x2uNqqy2ga7AW8Un/Hdb2UHVmZMGbfbuUwhz6Q2DrcPaYYr2GORSqlNmGaYPl9GASkVrj4c5B9g8FikUYUBOYlIr5qRk6hzQaKzuHsRn56Sb9cjhzZ4K7nCox02rERAzsk1zEnn4uKMdE7iKIqjaI13q2DmQY6BEzJMrYcc6x1OUSlU4a3MeTo/FkNDgaH0obIwQ1Qv/kUew90r6wjNpcF2p9WpMUzYl/KZH+3pfn949zUc3fw5+H55EjHonJ2lYbdzkoTdBH4Pk273JAToTPHi/DxJk+gzuQWTXba9OKN4asKRAqFLqUw4xLRSdRE9RnoBbyHM8PL8/PxTFEWfCRdpXjEcVgmTBXChnRwnYIoqHIhUMgtyJH6aVeIZmQP54dIZhQlH8xJD31qPTiAhteDTaY30Vdng/UuIYe96cHN39e3qe43yYzgMb5U0mK6a1DEwnc92RsDLJJfpsy+2/1HHRKWk6kt2oM5HrstZ2vQ42qekLDg74Bx3uPa1u1eWSr5A3jrtRFEUdVyP07NDT9zVwmnlWmI9UxwS2734tBJQczzjfD/L6Xn30/set6MhbPW4hm9pRDc+OWB4bfeWccvgYEdtRMdJ8yDag9At76xdsO2BtZm+I7r5E41rYw8LWvfNEkxm5yOxOVsMrpDR2Pao4KcZvVw+BrRAk0mrQ1m5bLQQMW3vmhG1q45eeqXyum/puN1eGBQgzLKl4YXPhUlzWbFWKov2oH/dhpK3X+wM8AKKQ1JHy7O8b+v1vV0lplDlhsbrwC+dxroucENrlsdKQPPULgkNI61utDbefjsam2SJWxkOUTsiF2j7hO824/FglYW/0tBkE2AqnT3c1I/ZRYIMhEFVKq6RXDGvG+nb8Li9zPVNFCnSnatbX+a5r4zEPgrOULudhqEBnmsip+5TV6VtPciIzybt1jv7z2EtPgyu+h9tbqDSXvJZK2q5mmVnmQJc+azt3T3cbSne2F3+Xz9/kfWzfmMG30y7zKFeaJQban3BedixlD4G1M3C8QNdLBLQeK/y5dJe/1Whsi/scVNSXFFiXNszo/EUco17MuPDXV0jP5Kf6bdaQMXcVS5X1SkNqC/NTu2lXSr9auHk+7+aI06D9d1UsAxWHHaDKM1e2malvr0f0YAm9ape+Baj4NWWfnilMR3TMXVb/3o2cvcLmoOYVTBzpcPB2t8/dpAd6w==",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create User Request",
+    "permalink": "/saviynt/create-user-request"
+  },
+  "next": {
+    "title": "Get Requestable Users",
+    "permalink": "/saviynt/get-requestable-users"
+  }
+}

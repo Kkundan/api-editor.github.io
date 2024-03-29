@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/add-pet",
+  "title": "Add a new pet to the store",
+  "description": "Add new pet to the store inventory.",
+  "source": "@site/docs/petstore_versioned/1.0.0/add-pet.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/add-pet",
+  "permalink": "/petstore_versioned/1.0.0/add-pet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "add-pet",
+    "title": "Add a new pet to the store",
+    "description": "Add new pet to the store inventory.",
+    "sidebar_label": "Add a new pet to the store",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Pets",
+    "permalink": "/petstore_versioned/1.0.0/pet"
+  },
+  "next": {
+    "title": "Update an existing pet",
+    "permalink": "/petstore_versioned/1.0.0/update-pet"
+  }
+}

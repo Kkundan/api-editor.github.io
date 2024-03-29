@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-organization",
+  "title": "Delete Organization",
+  "description": "This API deletes organization in SSM.",
+  "source": "@site/docs/saviynt/delete-organization.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-organization",
+  "permalink": "/saviynt/delete-organization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-organization",
+    "title": "Delete Organization",
+    "description": "This API deletes organization in SSM.",
+    "sidebar_label": "Delete Organization",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzNVttu2zgQ/RVinlpAimSnbhMFeUgdd5FdpDFiL9BFEsAUObZYS6RKUk60hv59QUpOnK2bOMA+rF8sXubMcC5nZg2WLgwkN3ClF1SKv6kVSsJdABwN06L0ywSmmTDkbHxBOOZo0RC1dZ0ISSaTy4NbeSunGZLZWWUzpbvTGSkqY0lGV0hmn5Fq1DMyV3mu7pGTtCazqVqinHnxSyo5tUrXpKSaFiZxm7NtZZIWOAtu5awyqP0CAlAlan96wSGB1sZnDwpA448Kjf2seA3JGpiSFqV1n7Qsc8H8vei7cc9dg2EZFtR92bpESECl35FZCKDUTpkVaNzpvy3bkjBWC7mAAPCBFmXutiwaq/SiB00AG/NflqC8EBKapnnc9GrP/QvJsycma1jRvMLdZj3p3lb9hO9VaDSlkqbV0Y9j9/c8D3YpDiBDylF7qTPG0JhwqKTVKg/PXJjDoUaO0gqam53O3eUqXSE4m3YCXmmxELsDtQMrs7ZMoihXjOaZMtbjDinLcAO7L1KpjA1Zhmx5Ggek1LhZeMhzanFfpGlWBaR/SH6vctKP+zHpHSeHn5L4A/ntcurRRg+l0Li3wyaVDMgncklr0js+HpBeP4njJI4f8caaLlqQfeCkCpnzkBe9xjlqjTocq1ywel8MQwsMVRsqBzNBvUK9r/RZ2UWoVhaj3kGvw7DhUKml2NvTw+Hk+ks4vfpj9PX0+MPg6Dg9OgpZGg/CDxgPQtrr8ZCzj308GqRp//DohIypzU6jVp3Vgtlwqqk0pdI2nCCrtLB7+6CgDyFd4Olhb3D4MY7jEyIkyyuOkyrlqqBCGq/Ia5ijDkeSKe5Q9lTAskoukXuQbz6fUdpwWpcYXvmq3TuDpDJSzOcd0hftovdGiPPR1786+W+TSTjWyiLbsNM+AL0TUiiOp2mu2LLlvf+IqVFrpZnirxBu7Li5MItXMrvyrPR2Yt6yAmLoNG3DtUTsmx9az6k3a+jIuqQ2gwAc8W2+XVcTGjkkjjCDX/q4ae4CKNBminc05hzkMBKIdvZL44u11V/pvKNRk0TR2qKk0jYHhq5ELS3LVcUPmCqi0fAyoqWIVgMIYEW1oGnnl1bk537S7btxY06r3ELy6OXG22y6epu4h7VYKTWCuRFj65nONuie79b+jgtl6geO1277Sz5xXVpdP40Ko03I395TXaDmymsVtqXo1l9kJC3qUguD5ML3RVuToXOin7A82aJkCDuHsKHK87amSKnVSnA0xGZIOFoqckPU3C9NVTq+Qk7aqBsyV9qfvG7Fu9HF8L2LIGrTah4cxAe+MlzmFNTndPfa3RPBM8O3pq3/+yDZJYjFBxuVOW3j6NN/3ZXLza7x8i4AP1gkN7Bep9TgnzpvGrf9o0JdQ3Jz91QQvqS4MO6bQzKnucEXPPbuuqvx9+RXBnabVNa+7jzXAASwxHpDFc1ds5nTvP72aLtdbIn+xLNNsJFw41hpX7y7zTTjq8kUAki7qbtomU/Te8dd9B4SuIVb8BP8Y6Px+2vIqVxUdOHut7ju9w8fcV+x",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Organization",
+    "permalink": "/saviynt/get-organization"
+  },
+  "next": {
+    "title": "Connections",
+    "permalink": "/saviynt/connections"
+  }
+}

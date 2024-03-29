@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/export-package",
+  "title": "Export Package",
+  "description": "This API creates a compressed file containing objects specified for T2P migration.",
+  "source": "@site/docs/saviynt/export-package.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/export-package",
+  "permalink": "/saviynt/export-package",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "export-package",
+    "title": "Export Package",
+    "description": "This API creates a compressed file containing objects specified for T2P migration.",
+    "sidebar_label": "Export Package",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "14.0 Transport",
+    "permalink": "/saviynt/14-0-transport"
+  },
+  "next": {
+    "title": "Import Package",
+    "permalink": "/saviynt/import-package"
+  }
+}

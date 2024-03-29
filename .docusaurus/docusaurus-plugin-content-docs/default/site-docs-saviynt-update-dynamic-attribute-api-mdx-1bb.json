@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-dynamic-attribute",
+  "title": "Update Dynamic Attribute",
+  "description": "This API updates dynamic attributes in SSM.",
+  "source": "@site/docs/saviynt/update-dynamic-attribute.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-dynamic-attribute",
+  "permalink": "/saviynt/update-dynamic-attribute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-dynamic-attribute",
+    "title": "Update Dynamic Attribute",
+    "description": "This API updates dynamic attributes in SSM.",
+    "sidebar_label": "Update Dynamic Attribute",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWVtz2zYW/isY5CXxiKaUxs2aqTsjK4xXU90qUtt0bE8EgUciahJgAdA269F/7wCkZMmSLWZ3H3ZnrCcBPOfDAfCdC4AHrMlCYe8S+zzKBONa4esGjkBRyTLNBMceDmOmUHvURXkWEQ0KRQUnKaOIaC3ZLDddjKMg6B9f8SsexoCm7VzHQrK/iMGYojRXGsXkFtD0HIgEOUVzkSTiDiI0K9A0FDfAp1a9T3hEtJAFyogkqfJM51QBzSXThSqUhnRq+6AyuWyVxuUKZNmujHy0cYocNF03OUnBCg7tNEmyOZyD9qsLHYPcnLaY71kMq79u6iKD6dvz4bDntwfuYNI/98duEI67gwvXH0z6bn/SC7ujno8Cv+d3QvRlPOyjXjcI938Jfu2hXyf++Hc36A4unv04agfBb8PxZ7fXHl/4KPS/hm7nn37nF3Q+/Op+bof+O2unhD9zULq0st3pDCeD0B2Nh6Nh4H9G/iDshj2/7w9CNPxt4I/dnR7UDkM/CNthdzhwx8Oe7wb++F/djo8qtHfb65GQWQJTDwUZUDYvkI4Bmc0wa2n+rwUb6C5mNEaFyNEd4RppgSKmsoQUhm5Gtk0pKIXG5RwUqiaD5kKmx+h3kSNKOCJZlhQV3xhfoLngGildJKahhUVKyAwS74ojhJCDjo7evAnI7blIokATqd+8OTr6dnTUXpn2bUBSsF1rOZ9HRuoJQleThNE6GKXkfpQJj0AmjMN/DCSTOhATmezXb3MaC1lB7CBe/jT7OdY6U57rwj1JswSEXBxTkW6hrhoh3OtK9yd39vP1t6Ojybj3zXRvmWI6HhVLEyrzcAOLDKQNMt0Ie7gMAp9Ll1xPDzdwxYxzERXYe8BUcA1cm7+GHcbPmeDuH8oEvAesaAwpMf+MX2APi9kfQDVu4EyaATUDZb7uBIkNFSIlKXADMw2pOgw1IhK4XiNtKCgtGV/gBq7WFHsYLxuYUCpyrhUVSZ7yl+VprrRIqwGLVqluZlzJ1hjMSGujb3zrLgaebRtMY8IXWwvwHNRKYyFFnn2HvA0c3yFvgsrL4oTJky2VUvQllSqOb2ndkiSvYVgEc5Inurb0OgUTRdXtYQ2ImD68RFrmYKRjFoHgVAI5RLY5SdSGSuliNVWEjEAyHsH9YfslLOqJrRPWy8JP0tBKl0mIalqvYnEnOI1ZUk9judzovNzj0xjv+u2Ocz71TYy/y/+s+BMf2+qr/Girr/SV0iF2/GFN+l3OG5BtXpc9T7lreh/5WZLwKQerVXzKs3X3JpcwXvMF4yec2Nn4zX1fo23t7WoDr80GVlXlAXLZOtRG0u3StLaaqVRrhKgoZXyLWTbETuzioCrRofZm2lgHmD3Z6ZWU/4ek3OTkmkG7vNv49MitRwJZDklQmeCqJNH7ZtPSZOuw9yyzGjgGEoG0qmXh7XQE11IkTtuU1k5HQgRcM5KovUXUs9lo2dgPOJRswfYXZHuwTOnpuW4iKEliobTF7RAawwq2LlImlHZoDPTmrNlAmYRVw0J+rtJfHaS+4A3UPEHtfIHeN1un6P0PXutHr/UBXfRDi+bfZ0xC7QULct5AH1GfFKh1enqCWu+9ZtNrNtd4I0kWJUgdOC4calbIqo5hDlKCdEYiYbSoi6FICo4ot8rABCBvQdbVbmfVDhVCg9s6blUY2ukIccNqr3SnE4y/OOHwF39wNvvHfEZ/OKUONE/A+dBszp1TaBKHzD60ZicRoS06/4RGRMdnbjmcloxqJ5SEq0xI7QSVb9UdPSX3DlnA2cePH39sNpufEOM0ySMI8lkkUsK4suPYAeYgHZ9TEVWVdx18Guf8BiIL8tXSGbh2wiIDp7y/qE0gLhRn83mF9EWazftOiKDd94fj7kV3UKF8DQJnJIUGWgaRejCtTygVEZzNEkFvyhT3XzqWgZRCUhEdyK1Nk4ZTdeD4E+Q2NP2bOXjDFNzE1XCbmGVctndPoG10vXzAVezOiI7NCZI//n9MGiZ0Np5d6KVJGynoWJhMkuV2kQyEh91nD8nKem5pQi6TKqaa4/yDycZcL48VuWUF1zQReWRO9q7f6bskY+6tydG3RDKTTctjoFXZzTBV/zpHY2+92ktr9iqxBWZuJdaMKEbNneLGTI1tuFoB07YyZktn9obxkLQVsgQ29Bo/3g/4q61/raBeK6jHCsr44VxYRjFdRobSF5DPNchMMgWoawsgXaCOcRB7aW6zKnAKeO+9ekckSRk3USbFLYtA2QvJCDRhiVrdiqo8M4kJIlQ6tTJ3nPbLYSve+t3OO+OdIFU58slx89hGP1PppMQG12q2L9R/W9Zv3KG9PhC8PhC8PhC8PhD8bz4QVNlDw712s4SUodxWNw9VRXT53LPBdQPbg6R3iR8eZkTBRCbLpen+MwdZYO/y+rHmsaVBxJT5H2HPpp4XYubbcZW83qHnjFw9JPDCllbrPHwDxaogtDdW5bncjl9+2jwfbKjulNTLxkrD+EmmX5TdrCdHE5N+Z9VjSlqWt5LcmZxM7rCHr/AVto8z64OF7X/ACeGLnCyMfAlrfn8DPuZeoA==",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Dynamic Attribute",
+    "permalink": "/saviynt/create-dynamic-attribute"
+  },
+  "next": {
+    "title": "Fetch Dynamic Attributes",
+    "permalink": "/saviynt/fetch-dynamic-attributes"
+  }
+}

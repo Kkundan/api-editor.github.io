@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-access-recommendations",
+  "title": "Get Access Recommendations",
+  "description": "This API provides the count and details of all the recommended entitlements associated with that entitlement type and displays relevance scores to requestors while requesting access.",
+  "source": "@site/docs/saviynt/get-access-recommendations.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-access-recommendations",
+  "permalink": "/saviynt/get-access-recommendations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-access-recommendations",
+    "title": "Get Access Recommendations",
+    "description": "This API provides the count and details of all the recommended entitlements associated with that entitlement type and displays relevance scores to requestors while requesting access.",
+    "sidebar_label": "Get Access Recommendations",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "13.0 PAA",
+    "permalink": "/saviynt/13-0-paa"
+  },
+  "next": {
+    "title": "14.0 Transport",
+    "permalink": "/saviynt/14-0-transport"
+  }
+}

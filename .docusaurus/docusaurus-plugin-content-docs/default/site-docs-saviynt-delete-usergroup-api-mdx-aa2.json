@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-usergroup",
+  "title": "Delete UserGroup",
+  "description": "This API delete usergroup in SSM.",
+  "source": "@site/docs/saviynt/delete-usergroup.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-usergroup",
+  "permalink": "/saviynt/delete-usergroup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-usergroup",
+    "title": "Delete UserGroup",
+    "description": "This API delete usergroup in SSM.",
+    "sidebar_label": "Delete UserGroup",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzNVl1v2zoM/SsCnzbAztda3MYXe8iyrAguuhZJClygLRBFomOttqRKcjov8H8fJDttunb9APawvESmKR6S4jnyFhxdW0gu4NyiIcdGldrCVQQcLTNCO6EkJLDIhCWjsynhmKNDUlo0a+9LhCTz+UnnUl7KRYZkOSpdpoz4Qf3OJSlK60hGN0iWn5AaNEuSqjxXt8jJqiLLhbpGuQzbT6jk1ClTEU0NLWzijUuPJGmBy6h9CLBLiEBpNAFlyiGBJrHznQNEYPCmROs+KV5BsgWmpEPp/JJqnQsW9na/WV/gFizLsKB+5SqNkIBafUPmIAJtPJITaP3buxT2XK0zQq4hAvxOC517k0PrRloMoI5gV8LzO2xBzU2JP6Cu6zt7gPzc9NzXdrxD3tC8xF/yuQfdx3wQOMQ2aLWStgk+6PX838PjfoQYQYaUo2nyoQ6fbNkTVc2pi8hgSD4jI4Ne/4j0+snBh6R/SI5PFuCzmaPZoHltvJGmLMN4rCrlsNvv9NsYLh4rdS1endd4PJ99iRen/02+fjzgaf+A8V7cG/T/iQ9WQ4yPhr2jeDhkg0EfPwyR47/kjLrsYzfALQyVNkUTTyRT3Id+JSrLSnmNPAT5Px43ExkvKo3xaei9fW0kqawUadpG+mJo8eYQ89HJ5HQ2PZ5+bUbuDxEEjVFmrPgL497zzCjs+oUcS8bQ2jdyYi8F6EELsx+r4UGQGXRhqi+20NJFU5dBBELer72SCIMcEmdKjH7b3bq+iqBAlymvSFrZ0B0fI4HuvUDtKGXD5Dfgpckhgcw5bZNud+tQUunqjqUbUUnHclXyDlNFdzI+6VItuptDiGBDjaCrtiPNlsdcbu1e0VNa5g6Su/7WIWGLrDTCVXNfVRNrRa1gXsn3avS5QVu7fw4+/hBXQddf8g5OYVz9QM3utXmyO+y3aZk/oVQFROFaqQm9IhPp0GgjLJIpR+mEq8jYNzBcYDNM0aBkCE/ecWOV58i8hWijNoKjJS5DwtFRkVui0vBoS62VcchJc9yWpMqENy9n8W4yHb/3p4fGNsiHnV4n8MGPTEED3dqCn1DiB1nv3Wt/5SXdjoPD766rcypkuBD9sG9bZlzAr8y4iiDz3EkuYLtdUYvnJq9rb74p0VSQXFzdz35gDxfWrzkkKc0tPtOjd7OWy+/J77JrjVRWgWJBUwAiuMZqJwn1Vb27EQN+82pfz/e2PhLTOtrtGDGG2j3ru68oZ6fzBUSwar9oikbhDL31GkVvIYFLuITwaXR3EwT7FnIq1yVde/8mrv/9BKufcRU=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Add/Remove User From UserGroup",
+    "permalink": "/saviynt/add-remove-user-from-usergroup"
+  },
+  "next": {
+    "title": "Get List of UserGroups",
+    "permalink": "/saviynt/get-list-of-usergroups"
+  }
+}

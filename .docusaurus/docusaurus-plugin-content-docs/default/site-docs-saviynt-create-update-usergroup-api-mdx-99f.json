@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-update-usergroup",
+  "title": "Create/Update UserGroup",
+  "description": "This API create or update usergroup in SSM.",
+  "source": "@site/docs/saviynt/create-update-usergroup.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-update-usergroup",
+  "permalink": "/saviynt/create-update-usergroup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-update-usergroup",
+    "title": "Create/Update UserGroup",
+    "description": "This API create or update usergroup in SSM.",
+    "sidebar_label": "Create/Update UserGroup",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "User Groups",
+    "permalink": "/saviynt/user-groups"
+  },
+  "next": {
+    "title": "Add/Remove User From UserGroup",
+    "permalink": "/saviynt/add-remove-user-from-usergroup"
+  }
+}

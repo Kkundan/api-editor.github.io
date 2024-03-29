@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/sod-evaluation-for-sap-functions",
+  "title": "SoD Evaluation for SAP Functions",
+  "description": "This API can be used to evaluate SOD for new SAP role that is being requested for a user based on the selected ruleset. (If no ruleset is selected, it uses the default ruleset)",
+  "source": "@site/docs/saviynt/sod-evaluation-for-sap-functions.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/sod-evaluation-for-sap-functions",
+  "permalink": "/saviynt/sod-evaluation-for-sap-functions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sod-evaluation-for-sap-functions",
+    "title": "SoD Evaluation for SAP Functions",
+    "description": "This API can be used to evaluate SOD for new SAP role that is being requested for a user based on the selected ruleset. (If no ruleset is selected, it uses the default ruleset)",
+    "sidebar_label": "SoD Evaluation for SAP Functions",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVs1u2zgQfpXB+JIAip0WKLDQzU1cIMC2CeIsekiNmhbHEVuKVEnKjtcQ0AfZfbk+yWIoyZaTNulhjzmJGs7PN//cYhB3HtNb/GN4ClO6c3QngrIG7BLOq6DI4yxBST5zquQLTPEmVx7GVxeQCQMLgsqThGCBVkJXIhBML89haR0YWsN0fAXOaoKQiwDKw4KUuQNH3yrygWRkFKzDwUKwJmsg5ASeNGXM4CpNnsIQji6WYGz3z7o6ngRUYBU+SkpaikqHjvH4k/lk3gsjRbBuA6VwovApE+delNdWk5/DCYy1jtIMOBJBklaFYgiLDfz4/s9gMPjx/d/GkbXSeuc7uzC15zBpAsDhO1KmrAJo5QP43FZaQmZNEMoA3SsfOAbCw5q05i8b5mi5aDhaMNREdUFQOrtSXllD8ngYgRta97FPDy3sXWBk61xlebTgyHNcWjwLgqXSgRzHj4Z3w/beQ9bdR8My5kRvODGG1noDQjItYm3gkJGlVSYwlg+iIK4eNjhp6ZBZ58iX1kh2PNgm0pRVToUNTDc+UDEE1nUZq0zogzy1mWT11232jSgoAcUVEXY4E/BRVZOeytPP6qGBLLLMVg3icXOMKhnbPmBd8fpdvnupiHpucoL5uAq5dervmPo5FJUPkIsVwfwtCUduDkurtV03lTS/sV/JzIeYoC3JRaELiSl6K/cV9M66qSjfVSbjP48Jti3z1soNplvkZJMJfBRlqVUWxUb3J+v1+mRpXXFSOU0ms5IkM/ksp0LwKWxKwhTt4gtlARMsHeOIvc7Kmmj0GH1wytxhgnQvilIz6YvNjbSEdYJd7p8WaFL8igV6tfu0zIfJx8/T8dXn68s/JyzY5u+3Df2elc7Cq8Fg0J1fY13XO6ao4EF/x5YfX8E+QekW+ZoOYrgLVD9OO4wPYnHocM/fnkCP+5fAI/am3XwD/vXpKX8OxzgyW+wyCuR4CWyRWwBTLEXIMUFl9meuPuW4lIKrKHlcTm1o63qWYEEht1zSpfWxwlhHiiMvyunl+T6M7BC5VWe9chpTzEMofToabQMZYUI99GKlNiZk2lZymNliNDl7PxKlGq3eYIIr4ZRYdGmOIo99bem8yeIswHRXAXVE7NtZNGW3Gl0L4VXGrd1zkrFh6zz/Rx6utUVs9Oe4I1OMuzJLGzlVaKqw8REmJpArnfIEF5JM4PF4xo7HhXtNS3JkMsKf7uQzq3kfcn22E7FbiEEo7bup7KuytI73WpOnZk3EefcsiqPJxdkxR52cbyy/GZ4OTzkEnOtCGPaqLaNne+aBF72h9vLIeHlkvDwy/pdHRjuMAt2HUamFMtyscdRu28F8i48G8yzBnGd3eovbLbfMX07XNZO/VeQ2mN7O9qM3Dm+pPJ8lpkuhPT3R2kfX7S45hl/Ba4nCbOKEj2sVMcGvtOlWUj2rE8xJSHLRfnN11lg5uWEFe9HnX0gHa+vqcnqDCS7ap1ZhJSvpcSf9n/R2Vtf1f5kUrh8=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "8.0 Segregation of Duties",
+    "permalink": "/saviynt/8-0-segregation-of-duties"
+  },
+  "next": {
+    "title": "SoD Evaluation for Non - SAP Functions",
+    "permalink": "/saviynt/sod-evaluation-for-non-sap-functions"
+  }
+}

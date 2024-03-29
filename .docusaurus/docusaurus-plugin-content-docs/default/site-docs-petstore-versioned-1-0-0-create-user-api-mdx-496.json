@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/create-user",
+  "title": "Create user",
+  "description": "This can only be done by the logged in user.",
+  "source": "@site/docs/petstore_versioned/1.0.0/create-user.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/create-user",
+  "permalink": "/petstore_versioned/1.0.0/create-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-user",
+    "title": "Create user",
+    "description": "This can only be done by the logged in user.",
+    "sidebar_label": "Create user",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Users",
+    "permalink": "/petstore_versioned/1.0.0/user"
+  },
+  "next": {
+    "title": "Get user by user name",
+    "permalink": "/petstore_versioned/1.0.0/get-user-by-name"
+  }
+}

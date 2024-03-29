@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/remove-entitlement-from-role",
+  "title": "Remove Entitlement From Role",
+  "description": "This API removes entitlement from role.",
+  "source": "@site/docs/saviynt/remove-entitlement-from-role.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/remove-entitlement-from-role",
+  "permalink": "/saviynt/remove-entitlement-from-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "remove-entitlement-from-role",
+    "title": "Remove Entitlement From Role",
+    "description": "This API removes entitlement from role.",
+    "sidebar_label": "Remove Entitlement From Role",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWG1v2zYQ/isEPyWAFMtO3S4q8sF1nM1Y8zLbBVokQUyRZ4sNRaok5UQz/N8HUnKiNK7jYUO/bPkSSTk+d/fc8V6yxJbMDY6v8EBabgVkIK3BNwFmYKjmueVK4hhPUm5Q73KINGRqAQbBkziaaZUhrQQcXMtrOUkBTXuFTZXmfxJ3foqywliUkgWg6QcgGvQUzZQQ6h4YSko0nag7kFN//IxIRqzSJcqJJpmJ3cepQ5ckgylSGvm3OyinaI/PUKJsiogGlBNjgCGbgkS1BLrnQqAEEFXScAYa2H6Apg3jzXTvntuUSyS4sUjNmp49c3NBRAFB84stc/+B5YpL623I1tbvO7MvPH1EPHcFvhVgrNLTAE2pyiorcIBVDtrzNWQ4xhXRjaicapWNlAAc4Brig2IljpeYKmlBWvdI8lxw6lFaX40L3RIbmkJG3JMzGMdYJV+BWhzgXDudloOpYCpbGpLGai7nOMDwQLJcwKNdDBWGy7lLCbwKcJOzxnGiNSlxgLmFzLxuwJrJ7QZcaEIFfKe1Et96bPBhHI7A5C4TEi64Lb/D8AHeDnI6/Dw4ue2Nx4PJ7fD8j0/D0ZfbyaD/2+3wHK9Wq4boVdOdtc0bTN5o1yaztuu+WT1mhdLbfSAs49K5Xt+R7dLtdnct6+7fduGPJEsYue1rIBZ6gujsGSs+yCOfP6iR2MhlNvKpHS/xYxSe0nFDzn2fcj+b7mds15Q2GPW0NVn7ATWeHV1ZU9HTiSL363n13cpZgFMgDLQ/3qMUjAn7SlqtRNhzNTbsa2DOQyLMxnqwIZJWF4CdcRsBLzSf8821ZQNWam0et1pCUSJSZazH7ROawhp2V6RcGRvSFOjdcRSgXMP6xUOeEAu7Ik3SIkCHbXQCFHWiToQ6nbjzNu600a9nE482eMi5hp0JGxcyQO/QGSlR++ioi9qdOIriKHrEu9RkXoHsAidVSB1D/ugIZqA16PBSCU7LXTEMySBUVagczBj0AvSup3t5HaFSWWi1D9o1hg37St3xnZnu98ej03By8fvg/PhN+23UfdOJQpK864RvyFEnTLqzbkijo+5hm7HuL4fkPbokNj1uVeqs5tSGE02kyZW24Rhood2d3VF7Rh5CMofjw3b38G0URe8Rl1QUDMZFwlRGuDRekdcwAx0OJFXMoeyogKaFvAPmQT77fAZpw0mZQ1h1/50zSCoj+WxWI51qF72/CXEyOP9Sn/88HoeXWlmgVQ3ZDaD9HmWKwXEiFL2rave/NFyA1kpTxZodRBZZArppQLQKcGbmr+R14WvSP2gtDWOiWmETtSrLfmYD6wvr1RLXdTwnNnUTjXx6dp2Aa2A4dlUz+CHRK9c2MrCpYnUtcyw5jBi3Xox7pjHvGX9zKzsKLeqaauJWa2lBEmlXB4YseCktFapgB1RlrUH/rEVy3lq4RrQgmpOkpqk68rLL1N/d6D8jhXCNdE36yttu6ss3dg5WWAkxnLphv+Gusw3XNLh3L+OGiMSP/q9JeyGfxS7HRk+j7mCdAf+F2cCl2Ex5npx212GqCLv0Bp1rbgANfVu3Jeq7sPv9zPcKkBTwxhWur4SoSgLKtVpwBsYtTIiBJVwYt/+4V1PkrtwCQ1W+GjRT2v/ldSv2BsP+vss50KbS3D2IDiLnksv5jPi6Ubv+ymTzzIPGovP/PvoT9tH6Vlh4sK1ckGpp8OVnWZetq5db6lPZugmwn/biK7xcJsTAJy1WK/f5WwG6xPHVzVNh8reUceOeGY5nRBjYEv69UV1z99GPDF2voLL09a+6uDjA1R309vutqRqevf7qT80e3jj6ovmtgvUJNyPndqtss/JfXownOMBJvb1nvg9hTe5dVSD3OMbX+Br7fwg8dn//fYkFkfOCzJ18het+/gLOliwV",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get List of Privileges for Entitlement Type",
+    "permalink": "/saviynt/get-list-of-privileges-for-entitlement-type"
+  },
+  "next": {
+    "title": "Privileges",
+    "permalink": "/saviynt/privileges"
+  }
+}

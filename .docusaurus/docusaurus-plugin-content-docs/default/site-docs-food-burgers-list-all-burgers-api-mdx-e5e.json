@@ -1,0 +1,35 @@
+{
+  "id": "food/burgers/list-all-burgers",
+  "title": "List All Burgers",
+  "description": "Burgers",
+  "source": "@site/docs/food/burgers/list-all-burgers.api.mdx",
+  "sourceDirName": "food/burgers",
+  "slug": "/food/burgers/list-all-burgers",
+  "permalink": "/food/burgers/list-all-burgers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "list-all-burgers",
+    "title": "List All Burgers",
+    "description": "Burgers",
+    "sidebar_label": "List All Burgers",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJxdkDFrwzAQhf+KebNw3I7aWggdWsjQdDIelOQSC2RJ0Z1NgtF/L0poG3c6eLz7ju9mHIj3yUaxwUPjdUwnSgyFRByDZ2LoGc9NU8ayu3lHzgoDSR8O0DiRQCEa6aGxOjozhRvJ+mMo22LF0e+Nan0xQ3QEhYkS35FPdVM3UP8Ofd6K1UNYIyvEwDIYX9DeDIX8YVmqF+eqP40FacY+eCEvC1O5xrIsdJFVdMb6Ah+TK/27TYsfm06hDywlmuedYfpKLucSn0dKV+i2U5hMsmZXXNvu8UFv6y1y/gZr9ny8",
+    "sidebar_class_name": "get api-method",
+    "info_path": "food/burgers/burger-example",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/food/burgers/burger-example"
+  },
+  "next": {
+    "title": "Yogurt Store",
+    "permalink": "/category/yogurt-api"
+  }
+}

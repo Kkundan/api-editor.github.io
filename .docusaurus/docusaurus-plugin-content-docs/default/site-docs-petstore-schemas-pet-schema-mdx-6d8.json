@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/pet",
+  "title": "Pet",
+  "description": "",
+  "source": "@site/docs/petstore/schemas/pet.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/pet",
+  "permalink": "/petstore/schemas/pet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pet",
+    "title": "Pet",
+    "description": "",
+    "sidebar_label": "Pet",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Order",
+    "permalink": "/petstore/schemas/order"
+  },
+  "next": {
+    "title": "Tag",
+    "permalink": "/petstore/schemas/tag"
+  }
+}

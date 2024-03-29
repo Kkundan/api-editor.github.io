@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-runtime-controls-data-v-2",
+  "title": "Fetch Runtime Controls Data V2",
+  "description": "This API is used to fetch runtime analytics data from ES.",
+  "source": "@site/docs/saviynt/fetch-runtime-controls-data-v-2.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-runtime-controls-data-v-2",
+  "permalink": "/saviynt/fetch-runtime-controls-data-v-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-runtime-controls-data-v-2",
+    "title": "Fetch Runtime Controls Data V2",
+    "description": "This API is used to fetch runtime analytics data from ES.",
+    "sidebar_label": "Fetch Runtime Controls Data V2",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Runtime Controls Data",
+    "permalink": "/saviynt/fetch-runtime-controls-data"
+  },
+  "next": {
+    "title": "Fetch List of Analytics ES",
+    "permalink": "/saviynt/fetch-list-of-analytics-es"
+  }
+}

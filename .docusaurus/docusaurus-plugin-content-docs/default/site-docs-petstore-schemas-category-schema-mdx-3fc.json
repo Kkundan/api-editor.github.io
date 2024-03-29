@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/category",
+  "title": "Category",
+  "description": "",
+  "source": "@site/docs/petstore/schemas/category.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/category",
+  "permalink": "/petstore/schemas/category",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "category",
+    "title": "Category",
+    "description": "",
+    "sidebar_label": "Category",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Cat",
+    "permalink": "/petstore/schemas/cat"
+  },
+  "next": {
+    "title": "Dog",
+    "permalink": "/petstore/schemas/dog"
+  }
+}

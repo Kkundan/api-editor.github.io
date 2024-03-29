@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/consult-usermanager-step-1-for-campaign",
+  "title": "Consult UserManager Step 1 for Campaign",
+  "description": "This API consults UserManager for Campaign at Employment Verification Stage in SSM.",
+  "source": "@site/docs/saviynt/consult-usermanager-step-1-for-campaign.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/consult-usermanager-step-1-for-campaign",
+  "permalink": "/saviynt/consult-usermanager-step-1-for-campaign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "consult-usermanager-step-1-for-campaign",
+    "title": "Consult UserManager Step 1 for Campaign",
+    "description": "This API consults UserManager for Campaign at Employment Verification Stage in SSM.",
+    "sidebar_label": "Consult UserManager Step 1 for Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV99v2zYQ/leIe2oBKZbzo2lU9CH13CLA3ARxuhVIgvksnS02EqmSVBLN8P8+kJQdOXUdDdvblpdI9N3H03fH744LMDjXEF/D8V7EBliUyOdCQwBfNCk2QoFzUnAbQEo6Ubw0XAqI4Srjmp1enLFECl3lRjNr35izmVRrLIaGDYsyl3VBwrDfSPEZT9DisLHBOTEu2Hg82rsRN+IqIzY5rUwmFf/T2UxYUWnDMrwnNvlAqEhN2EzmuXyglE1rNrmSdyQmzn2EIkUjVc1KVFjo2C5OkiYSgQVNmFRsvcLTibcgZdZRtcxImTuqvY2gB9SazwWRX6g0KWdr384dMZhvbiwL+826sS9TNGS9JhCALEm57c5SiKFh0XJYeA7Hhsr+R6lWNEIAir5XpM0HmdYQL6yPIWHsI5Zl3kTf+6Ztghagk4wKtE+mLglikNNvlBgIoFR2c8NJO5g1Fy1bbRQXcwiAHrEoc7t08PYElgG0ydztsIr8j6MD5/ic487eLGT4oDEtuGCv8EEz9/h6BXpH9W6oN2/7x8fOusnHbvMmUFvGSha2yK1vK/273THjwkhhfZ4y/oKL/R7n0JRUyxyVwhoC4IaKFwLvnxwevu1bnPXa9WoxgP2To8PjQ7hdLp8MHODA197GAbbVx/ob59ia3mNe0fOicZXxvDA2sr81+V0y3Epwk8V2Erdl6lmi1tnYTEbDeJvw7Uw5shTpUgrt2dqPIvtvUw23UbjBXQAZYUrKQZwmCWkdDqQwSubhqdWycKAoJWE45nrr6d2Sb6MqAhvgVsBzxed8uxJswcqMKeNeL5cJ5pnUxuEOMMloBdsVqZTahElGyd37KGClotWLh/SiFf6KYl7hnLqikgi/jB3CL2g6e/1OacD6++wjTdl+tB+x/kl8cBj3D9in0ZVDGz6WXFFnyseVCNgxG2HN+icnR6y/H0dRHEVrvAuFcw/SBU7IMLEcO9dLmpFSpMILmfOk7oqhsaBQ+mRbmDGpey84XbxPyybHtTTU6+/1PYZRPDHhlUKhS6lMOKakUtx0DqrAxxDn9P6gf3TwJoqid4yLJK9SGlfTVBbIhXYbuR1mpMKhSGRqUTpukGSVuKPUgXwNV1V1VZcU+lbcOaVCasFnswbpo7J0/k2I8eloeH559unsc4PydTwOL5Q0lHiB6AbTf8cKmdL7aS6TO3DS8y/1eFJKqkSmL7SuyPaOQs9fKLjKyQ10aiQ/7SCtkCCCZts2ttdeN06Rccp5vYCmdZRoMtsTxdOzHY64ohRiK4vBTwlfLm8DKMhkMm3EyrJlMWLotcaw5gNmGxOYdmfLh1KpvNFNHfd6C0MChVnuabzntTBJLqt0L5FFbzgY9bDkvfsjCOAeFcdpw5d3+bGbNOt25J5hlRsrfw37Sxe+bk7j2H6jx5qi5okdnFtfbGODhgn77mxsiqdujH7J2hm5grbldvk0fA5XpfBfmQNspc2k44obf+J9ltlQGFKl4prYmWvfpmYDm3p3N3KKTiIh2Hp9Gsg89wrBSiXveUqamYxYSgZ5rpmcuVddlVaDKWW+bLU7VPaXl6N4NTwbWPps1fqdj/aiPXfObekX6A7lKhEdB8FnH9O6ifx/Lfyn18LmMBp6NL0yx+ZaoNz05VXqGnar1G0AboCLr2GxmKKmLypfLu3y94pUDfH17ZMOOSVLubbPKcQzzDXtSO+ry0ZlX7Ofxbq6tojayZ1Te4AA/OF1n7C0J8rPw25//1O7h7dcf2h7y2DlYcfe0uy0bWv9xfn4CgKYNtfnwvcehQ+2e+ADxHADN+Cu5uvu79YXkK+nVfC49u8vwfrwTw==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Reassign UserManager Step 1 for Campaign",
+    "permalink": "/saviynt/reassign-usermanager-step-1-for-campaign"
+  },
+  "next": {
+    "title": "Consult Campaign Account Entitlement Details",
+    "permalink": "/saviynt/consult-campaign-account-entitlement-details"
+  }
+}

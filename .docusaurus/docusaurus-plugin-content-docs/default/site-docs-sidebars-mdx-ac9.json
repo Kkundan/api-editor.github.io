@@ -1,0 +1,29 @@
+{
+  "id": "sidebars",
+  "title": "Sidebars",
+  "description": "Overview",
+  "source": "@site/docs/sidebars.mdx",
+  "sourceDirName": ".",
+  "slug": "/sidebars",
+  "permalink": "/sidebars",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo/docs/sidebars.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sidebars",
+    "hide_title": true,
+    "sidebar_label": "Sidebars",
+    "title": "Sidebars"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus OpenAPI Docs",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Versioning",
+    "permalink": "/versioning"
+  }
+}

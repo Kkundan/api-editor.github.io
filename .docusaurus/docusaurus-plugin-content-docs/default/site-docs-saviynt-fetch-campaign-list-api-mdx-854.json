@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-campaign-list",
+  "title": "Fetch Campaign List",
+  "description": "This API returns list of all campaign's pending to be certified.",
+  "source": "@site/docs/saviynt/fetch-campaign-list.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-campaign-list",
+  "permalink": "/saviynt/fetch-campaign-list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-campaign-list",
+    "title": "Fetch Campaign List",
+    "description": "This API returns list of all campaign's pending to be certified.",
+    "sidebar_label": "Fetch Campaign List",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "7.0 Campaigns",
+    "permalink": "/saviynt/7-0-campaigns"
+  },
+  "next": {
+    "title": "Fetch Campaign Details",
+    "permalink": "/saviynt/fetch-campaign-details"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Yogurt Store API",
+  "slug": "/category/yogurt-api",
+  "permalink": "/category/yogurt-api",
+  "navigation": {
+    "previous": {
+      "title": "List All Burgers",
+      "permalink": "/food/burgers/list-all-burgers"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/food/yogurtstore/frozen-yogurt-example"
+    }
+  }
+}

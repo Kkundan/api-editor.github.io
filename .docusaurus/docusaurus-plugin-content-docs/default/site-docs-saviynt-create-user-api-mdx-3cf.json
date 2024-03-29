@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-user",
+  "title": "Create User",
+  "description": "This API onboard or create a new user.",
+  "source": "@site/docs/saviynt/create-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-user",
+  "permalink": "/saviynt/create-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-user",
+    "title": "Create User",
+    "description": "This API onboard or create a new user.",
+    "sidebar_label": "Create User",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Users",
+    "permalink": "/saviynt/users"
+  },
+  "next": {
+    "title": "Update User",
+    "permalink": "/saviynt/update-user"
+  }
+}

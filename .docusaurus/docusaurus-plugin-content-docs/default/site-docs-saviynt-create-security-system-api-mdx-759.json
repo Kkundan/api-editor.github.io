@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-security-system",
+  "title": "Create Security System",
+  "description": "This API creates Security System in EIC.",
+  "source": "@site/docs/saviynt/create-security-system.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-security-system",
+  "permalink": "/saviynt/create-security-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-security-system",
+    "title": "Create Security System",
+    "description": "This API creates Security System in EIC.",
+    "sidebar_label": "Create Security System",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWOtv2zYQ/1cIfloD+RUnaaehH1zXKYwtD9geNiAKYpo6R2wkUiUpp5qh/304Sk7kxK+u+zBgzQdHOt4dj3e/e1BLatm9of4NHQPPtLA5GefGQmLorUdDMFyL1AolqU8nkTCkdz0kXAOzYMgLESIkGQz7zUAGchIBmfYyGykt/mKoYEqSzFgSsQWQ6QdgGvSUzFUcq0cIySwn04l6ADl14hdMhswqnZOUaZYYH4lT47aRLIEpIYGchsKkMcsvkYAMV85SFq8JRcrYZ5FUaVs+Mc7BmF4Y/qH0wzxWj3XyCBK1gBcrYTgGvRAcepyrTNr1Ze1EdnFwJSVwNNHZBxa0qVRnViXMQnit1UIYoaSQ9yStvUy0AOMOeXR0qSz4R0fkXKuEjCAGZoAsjrvNjkdylRHOJDEpcDHPyfS1EjID+wggSYdYRY7bZMYMhERJFNZEw5dMaEhA2ib1qEpBu/gNQ+rTMvKruJdhpx5FGTD2gwpz6i8pV9KCtPjI0jQW3ClofTYIoyU1PIKE4ZPNU6A+VbPPwC31aKpxOyvAONmXEaqJGKuFvKceha8sSWMkXUm4+w0WEN9dMMnuQd/1Ujw9i2nh0U1x/S5929DwXUo34WC3QqszQNFN4NotuQycUJUsAfUDasHYgBaor5Zbu9WY3HQ/CpOi0CrXdktE1qbGb7Vwtyb+3OEPymN27pbttNtt5NyVbd8TgecSs//UtCiKJ5pzdt+lx8u6iCsLFmewBdS7TNoG3D0y28G5R3AzAEuUbQPZLiS9ANIzWupg2YaIFSDKqO8L+u6T1QP7FL3Coxa+2lYaM+FK0zcFky4DGdigpjqgxCeO0A2oV67Wzl9bRh88saw84Ty32RdPvOiRSg965Yn+ClcBRZ7tPnkhuQ6waodDpLdB7XAVu8J6uJZN2Kykl0GwjtAAPR1UKA0CWjwfZ1MCVGowCRwjIYQENF3jCGQRSIcpV51MqqQpcXTcbuO/9VlqC7g8GgELq9L9kVnY2C831KNzLTzS+ZlccUuO2513pPPOPznzj8/Ip4sJRZvQv6AP1ddLGY+g0Ve5stDqNDuVDtvoK/UgDrar3x+PzhuTq18Hl+/P3r7l3ZP5rNFlHd44gVPeYOFp2GDtkw47mZ11Wbf7C7lmNnrfcttNNJNmDroxkFyFVSs8ZFceZfIBQqfkz0a/HEcakzyFRjkjmkM1SWWkmM8rTecIrG9VMe5dDK5Gw0/Dy7Jh/EvTEWitdF+FexqV65aJ2TNFjDNXBP5RR6sZQrFKu83qGsucqHeMmyWtKnHKbEQ9itV39VwNoCH1MeG8rT4uiluPJmAjhZNpqsqGgTp82toyqBqXBKUFmY5rrWdpQTJpi6ZhC5FLy2OVhU2uktagf9FiqWgtTqlHF0wLNqucU4q8Tu6KjvenOcti7GArVxfOarOyC49W6poxIzhemGoHRdto5QB8dzwYz5m7Pu3jdkwOuYit0fOMPljF/cc48h8aRzAL5soFVNgyK0sokoG0oFMtDJBhCNJiIvYRn+42PoI5aJAc6MYLe1/Fcemk8kIZgiE2AhKCZSI2RM3dq8lSPB2EpEwpQ+ZKu5X9Vvw0GPbfYHKANuXOp812s11O9MYmzBW26rBbO9+a7bVL5I/vDv/H7w5VUauN54VXluxlVeRvNn+NuC1TGdeXS9zidx0XBZK/ZKBz6t/cPpdx1whCYfA5pP6cxQZ2IPGnUdWb3pBtJlZEJnPXLcqLAvXoA+SrFlfcFqs5z+1fLtWnlJroqxGh8FYSPc4htTt56x3y+mo8oR6dVR9pkrJja/aIpYxhxQpoQN0nn6f5xtGXNGbyPmP3yF/qxb+/AdVzKk0=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Security Systems",
+    "permalink": "/saviynt/security-systems"
+  },
+  "next": {
+    "title": "Update Security System",
+    "permalink": "/saviynt/update-security-system"
+  }
+}

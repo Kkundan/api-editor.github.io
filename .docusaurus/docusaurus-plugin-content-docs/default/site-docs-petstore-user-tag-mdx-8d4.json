@@ -1,0 +1,29 @@
+{
+  "id": "petstore/user",
+  "title": "Users",
+  "description": "Users",
+  "source": "@site/docs/petstore/user.tag.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/user",
+  "permalink": "/petstore/user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "user",
+    "title": "Users",
+    "description": "Users",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Subscribe to the Store events",
+    "permalink": "/petstore/subscribe-to-the-store-events"
+  },
+  "next": {
+    "title": "Create user",
+    "permalink": "/petstore/create-user"
+  }
+}

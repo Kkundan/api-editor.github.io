@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-account",
+  "title": "Create Account",
+  "description": "This method creates a new 'account' for an 'endpoint' in SSM. All the input parameters it requires are attributes with which the new account record would get created.",
+  "source": "@site/docs/saviynt/create-account.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-account",
+  "permalink": "/saviynt/create-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-account",
+    "title": "Create Account",
+    "description": "This method creates a new 'account' for an 'endpoint' in SSM. All the input parameters it requires are attributes with which the new account record would get created.",
+    "sidebar_label": "Create Account",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Export Account",
+    "permalink": "/saviynt/export-account"
+  },
+  "next": {
+    "title": "Update Account",
+    "permalink": "/saviynt/update-account"
+  }
+}

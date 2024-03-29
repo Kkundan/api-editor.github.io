@@ -1,0 +1,29 @@
+{
+  "id": "saviynt/request-history",
+  "title": "Request History",
+  "description": "Request History",
+  "source": "@site/docs/saviynt/request-history.tag.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/request-history",
+  "permalink": "/saviynt/request-history",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "request-history",
+    "title": "Request History",
+    "description": "Request History",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Add Approver to existing Request",
+    "permalink": "/saviynt/add-approver-to-existing-request"
+  },
+  "next": {
+    "title": "Fetch Request History (my pending requests)",
+    "permalink": "/saviynt/fetch-request-history-my-pending-requests"
+  }
+}

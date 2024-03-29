@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/get-pet-by-id",
+  "title": "Find pet by ID",
+  "description": "Returns a single pet",
+  "source": "@site/docs/petstore_versioned/1.0.0/get-pet-by-id.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/get-pet-by-id",
+  "permalink": "/petstore_versioned/1.0.0/get-pet-by-id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-pet-by-id",
+    "title": "Find pet by ID",
+    "description": "Returns a single pet",
+    "sidebar_label": "Find pet by ID",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Update an existing pet",
+    "permalink": "/petstore_versioned/1.0.0/update-pet"
+  },
+  "next": {
+    "title": "Updates a pet in the store with form data",
+    "permalink": "/petstore_versioned/1.0.0/update-pet-with-form"
+  }
+}

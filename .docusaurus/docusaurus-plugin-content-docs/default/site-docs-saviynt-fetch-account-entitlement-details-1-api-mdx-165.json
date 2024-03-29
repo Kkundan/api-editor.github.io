@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-account-entitlement-details-1",
+  "title": "Fetch Account Entitlement Details",
+  "description": "This API returns user details, account-entitlement details of a particular campaign required for certify/revoke API. If last certified actions and last certified comments are configured during campaign creation, then it is displayed in the API response.",
+  "source": "@site/docs/saviynt/fetch-account-entitlement-details-1.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-account-entitlement-details-1",
+  "permalink": "/saviynt/fetch-account-entitlement-details-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-account-entitlement-details-1",
+    "title": "Fetch Account Entitlement Details",
+    "description": "This API returns user details, account-entitlement details of a particular campaign required for certify/revoke API. If last certified actions and last certified comments are configured during campaign creation, then it is displayed in the API response.",
+    "sidebar_label": "Fetch Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Consult EntitlementOwner Step 2 for Campaign",
+    "permalink": "/saviynt/consult-entitlementowner-step-2-for-campaign"
+  },
+  "next": {
+    "title": "Fetch Entitlement Owner Campaign Details",
+    "permalink": "/saviynt/fetch-entitlement-owner-campaign-details"
+  }
+}

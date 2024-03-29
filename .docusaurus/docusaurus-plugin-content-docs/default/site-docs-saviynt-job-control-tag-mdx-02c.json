@@ -1,0 +1,29 @@
+{
+  "id": "saviynt/job-control",
+  "title": "Job Control",
+  "description": "Job Control",
+  "source": "@site/docs/saviynt/job-control.tag.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/job-control",
+  "permalink": "/saviynt/job-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "job-control",
+    "title": "Job Control",
+    "description": "Job Control",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Send Email",
+    "permalink": "/saviynt/send-email"
+  },
+  "next": {
+    "title": "Create and Update Trigger",
+    "permalink": "/saviynt/create-and-update-trigger"
+  }
+}

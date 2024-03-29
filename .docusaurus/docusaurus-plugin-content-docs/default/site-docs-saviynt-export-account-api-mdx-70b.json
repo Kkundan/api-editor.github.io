@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/export-account",
+  "title": "Export Account",
+  "description": "This API call can be used to fetch all the existing accounts in a particular endpoint and security system along with the account attributes.",
+  "source": "@site/docs/saviynt/export-account.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/export-account",
+  "permalink": "/saviynt/export-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "export-account",
+    "title": "Export Account",
+    "description": "This API call can be used to fetch all the existing accounts in a particular endpoint and security system along with the account attributes.",
+    "sidebar_label": "Export Account",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV01v2zgQ/SsET7uAZDtJkyZa9OC6bmEs0gSxi10gCeCRNLbYUKRKjpyohv/7gpQcKx/ruFgUPWx8kqnRmzfDeUPOkhPMLY8ueT9JdKnI8uuAp2gTIwoSWvGITzJhWf98xBKQkiWgWIystJgy0myGlGTMvaAMGd4JS0LNGTRoTCgGrABDIiklGIYqLbRQxEClzGJSGkEVs5UlzBlIrebsVlDm0RoQBkRGxCWh7VypKzXJkE37JWXaiO/gSE5ZXlpiGSyQTd8jGDRTNtNS6ltMWVyx6UTfoJp2mPv+FFQKpE3leEFuoys1XdOaspApTd59KmwhoWIKcgyu1HTNtib7b5Y84LpA43mNUh5xvCu0oSa9POAGv5Vo6b1OKx4teaIVoSL3mJeShMtVd6ZNHqZA4JZtkmHun6gqkEdcx18xcVCFca5IoHVv1zG454c7mK8j5sEaw5IRas4DjneQF9ItjX1ce3wV8Ieh/mdA/3OR20IrW7Pd7/We4g59rtgmWRlCisZ/8AEIn03HM57/wjRgvWPWL+dsv7d3zHq96GA/2t9jn04n3HEZo1mg2RWvX0CSYTjQlSbs7nX2GgwKB1rfiJ15DQbji4/h5OzP4ed3cHx0sH+UzsJ4dpiGbw57h+FJgm/DNycnR3HcO0hncPAHOwfK3nW9u4kBZWdowqFKdOqgd/SaZKW6wdSD/B1+NJBjeOZTbneFGPdPh2cXo0+jz9xvZatqoSikSHy9d79at40/ULLGaDPQKW733nM1maO1MH/BcvxlMBiOx7yutlLSyxzWraplCcaAK21BmNudEUYftnNTpZSOWGNeG26tOmfdVvVO2vVNaKuxzcF8K/G7VzoBlXa7fd0SvIeXwVuiby1fPshSnYpHmeB93o72Hmgd0Yb2hjV3r9vMWonYwWOzuM0pxfrWNaCWz1NQJUhZsXOjF8IKrTD92TTSGITE6lfTyJMMihzUr+Yxl3r+kMVPLwR5Y6C0uJvP61XASRPI7Vo54s3J2Cx5HT46A6MlX4As8VG75D3eaon3fa/d9jaN7VV9r+r7P6nvXnxrhXmR5UiZdjfyQlt/iANlPOLdxxd066+GtWxK41AyosJG3e6SUIGiVcfCQlSKEqnLtJPovDscnHahEN3FIQ/4AoyAuJFz/cnTq26z7oatGXjF3jeG1cqFsL6Dj91dqsaKwYrETT6ttuK4OdLeike1jTuwYz8HvWTtjfzNUKiZ9paC6oO8jpENFaEpjLDIRikqcvPawAXuZ8ILnKFBlSB/dmwcaCkxcSuscAWaoq0nJiQQ0jI9839tWbg9wJTVm2TZTBv/5mUWvw1Hg99d1tHY2vNhp9fxV0a30U4v0XJdR08GjAecW9PY69T7o1NvU2GEd9QtJAjldsDrZ9lI7fLRLHwd8MxJMbrky2UMFr8YuVq55W8lmopHl9cbMbl/q/VA6LV5g5UbqeodCyfOfbA+K5+dpV0zqj/qJwkW1DJ/MsQ4Bd43jPOz8YQHPG5G9rw+gR2wxw02j47kavUPpHj1mQ==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Account Details",
+    "permalink": "/saviynt/get-account-details"
+  },
+  "next": {
+    "title": "Create Account",
+    "permalink": "/saviynt/create-account"
+  }
+}

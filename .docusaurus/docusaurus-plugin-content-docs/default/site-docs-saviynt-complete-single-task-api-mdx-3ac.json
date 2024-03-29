@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/complete-single-task",
+  "title": "Complete Single Task",
+  "description": "This method closes a single open task in SSM - both in 'New' and 'InProgress' state.",
+  "source": "@site/docs/saviynt/complete-single-task.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/complete-single-task",
+  "permalink": "/saviynt/complete-single-task",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "complete-single-task",
+    "title": "Complete Single Task",
+    "description": "This method closes a single open task in SSM - both in 'New' and 'InProgress' state.",
+    "sidebar_label": "Complete Single Task",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWG1v2zYQ/iuH+9QCUvyyZu20ZIDruoUx5AWxgw2IA5iWzjZriVRJKq5m6L8PJOVYTuMkA1ZsH/rJ4svdPbw7Pnf0Bg1baIxu8M1RG3pxTFrDFX0pSBsMcMz0SmOA13nCDIEd4m2ACelY8dxwKTDC8ZJryMgsZQJxKjVpYKC5WKQEMicBhukVcAGj0RmEMJNmaUcTPKf1BIGJBCY4FJdKLhRpPUHQhhk6moiJOGMiYUaqEnKmWKYjOzm1CnkyhRCuBf9SEAw/gJyDWZKz5SQvHDyW7gnmSt5xzaXgYmHFjSoIpII5SzUFtW61IHO/8dtdkNCcFamByE84qcI5qNCkrID9FSwjC8p+w3opgWtwu7hY3CP1JmOZ5SkZYlrLmDNDiV3TBwBSxnhq5NSPhDR8XtZGwdhQ8DmUsoA1EwaMhJzHKyhySJhhMFcy21kHzaxlCGGCXtEEo5sJXo8GVxMMJqh8JkjlRme9894nu3LbQDKTSVlj0cXsM8WmHllTU/s1XhJMe4VZSsX/YsY5NSu0gSW7I5i+J6as2+YyTeWaEpiVMB3LFYnpEQYoc1JOaJhghFtXjVx6uXwMtijfy6TEaIOxFIaEsZ8sz1MeO/HWZ22zdYM6XlLG7Jcpc8IIpUONAebKGjOctFtlerWi0sitzYYIU4qVGCA3lOnnVTXTri+zjIRpSmmjuFhggPTVxcOf0++qAgfEBu9piZxpvZYq6WxFePK0QKfbedvFqqoakzeHsO4ANfE0jO5sbhUHm8d2dh/u/Amr2yYI55h+7XJ4X6Qr8CwUbfCOpQUdiM1/B70K9vLsa7her8O5VFlYqJRELBNK/kniNY/xdAgtO7w83N3Ofrj3Pe1vlKf4pqv30XiTe36o1TrNinQuhfaqu+22/dkvFo/ZgxbcT7uxjcmSWELKKfrA/OX7xoGPHPMPSgJov4NesYBuu/MOuu2oexy1j+HT2RgtxhGpO1Iv1dfLWbyksC9LaajVOerUOkzYl3LFX4yr3x9dfQzHF78Pzk/jt29mb97GnZB+mcfhm1m7E7JO3A1/Zt3j+c+sk3STzq9wyczytOXMjRUTek4qHNhsqtPiJVbjZSFWlDglf4YfFcso9IVRv1TFqHc2uLgafhqe++T5l9h1e3F9qXsBtYoim5FqQnOpt8debubWTiklVV8m9PTZ2vbyzBlPn4exZ8eayEhrtnjGwKhwHRX6q1Gkzm27ZTix6e6bq9/G7kq5I5zaW3bSaiwCnFw2LmK9GdxuOPVtwklrbwtggEyUF3PHjYcxfmcQjkz3UuEpvj/EQg/TpQ71XqSxjQ+ieXPbiNN9MHax+O5nrwJ8yGzNUz0E/xTWTV2cdhSaYFCXoeZcVW3J2DW+ZByJ3mzQNqSumpmlzWux+7b9E1e2SNljBAdpoaqcP22jb4WleyI4HRG2thEyvifTjmW95UKlGOHSmFxHrdbGkGDCVEea3fFSmDiVRXIUy6w16J+1WM5bd8cY4B1TnM3q/PAi31aTet6+SFxPjtF9YlcOraa4UNyUI3skr2vGNI9tO9o4oMWG9cHt2O2xt3bmmtPndrtNLtqWBq927ehge8v+Vy2Ljf5cOlDceJ7yoYCBMKRyxTXBMCFhuCmhb+MDvcshXNGcFImY8NEnYF+mKcV2BtyxEtLuqZGQYTzV2xeaLvJcKkNJ/WbUMJfKrTyP4tVg2H9tk4OU9paPj9pHjsZtOmbM1aA60x8llQfIG6+FH+/YH+/Y7/iOrbnD0FfTylPGhU1ax4ybmkNvcI9DbwNcWoqNbnCzmTFN1yqtKjv9pSBV+uq2ZUlHJgnX9jvByLv5cKq/uqop/zUcgrbtg0TpyNhVLMQAV1RuK4ejEt+nO/t+qe+thGOrYCf6/BPJcphXYf+Hys0BYddp7lWiy4vRGAOc1e//zBfUhuagObDtW1X9DSz1iq0=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Task - Remove Entitlement",
+    "permalink": "/saviynt/create-task-remove-entitlement"
+  },
+  "next": {
+    "title": "Update Tasks",
+    "permalink": "/saviynt/update-tasks"
+  }
+}

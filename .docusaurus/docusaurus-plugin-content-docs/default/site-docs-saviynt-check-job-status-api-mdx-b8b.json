@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/check-job-status",
+  "title": "Check Job Status",
+  "description": "This API is used to fetch the status of any job other that Data Import Job.",
+  "source": "@site/docs/saviynt/check-job-status.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/check-job-status",
+  "permalink": "/saviynt/check-job-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "check-job-status",
+    "title": "Check Job Status",
+    "description": "This API is used to fetch the status of any job other that Data Import Job.",
+    "sidebar_label": "Check Job Status",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzdVm1v2zgM/isCP22AnbhB27U+7EPmZUV66AuSDDggKxBZZmq1tuRJdDZf4P9+kOysr1vz+QwEliWKfEg+JLMF4rcW4iUcRIOIJbostWJfSRaSJFoI4FynLNGKjC7gJoAMrTCyIqkVxLDIpWXj6ymTltUWM0aarZFEzihHZolTbZleM64adqdTpilHwyjnxD5z4mxaVtoQO9fp4Jv5ptxvkSNbjWvKtZH/cmdnxcraEsv5BtnqE3KDZsXWuij0D8xY2rDVQt+jWg3YTscFVxknbRpWccNLG/uT1Z1Ob42uq1Ww+1S8xBUEoCs03tY0gxhEjuL+XKdzjx8CMPi9RkufdNZAvAWhFaEityzrgmTFDQ3X2pRhxom7bStyLP2KmgohBp3eoSAIoDLOlo9tvIUdokeSloxUtxAA/uRlVbitseJFQ1JYaAPoUe9541yn0PrHeWErrWxneRRF7vU0nYlz3GWD/XI9R56h8Vc+c8JXnXsFwCKvAxaN2Li+ZaPo4ISNRnF0GB+dsrOLBTg0czQbNPvqG1dc5BgmutGEw4PBQa+DwkTre7k3riSZz76Ei6u/J5cfj0/SKD0Ux+GR+HAcHqYfDsPT48N1GPGT9GDET0diFP3FrjnlH4fe3MJwZddowokSOnOq97Qq8lrdY+aV/BN+MbzE8MoH3e6rYj6+mFzNpmfTS/DJfMRBXlWFFJ6+wzvrErk/AdEYbRKdvcGnyDGvtLd/lppehtezq7PZZD7vQPZH3tILbsVb2PCixmcwIILe1HN9HYt9RSN5Ti630NUCVJxyCECqh7UrWmkwg5hMjcFvo9y2NwGUSLl2tV9p66PkdMQwfNEKrKdtZ7s2BcSQE1U2Hg63hIorageWb2SjSBS6zgZCl8NJcjHklRxujiCADTeSp31QuisvC7Hfd+12zeuCIP4V5tbjtShqI6mZO6c6XSm3UrjG+chFhw161923l3G5TH0bfUvaC3nWSrXWXlJSR8fORzZRhKYy0iKbZqhIUsMS57ifCjNco0ElEF4dHIkuChRuh1VGb2SG1s+NDInLwg8OP0bqyk0JzFiXJcvW2viTt1G8m0yT9y7qaGxn+WgQDTydXaZL7qulJ9Er7e8J6ked/38z+frUE/6kYVVwqVxoPLG3fREsn8/DmwByVyXxErbblFv8aoq2ddvfazQNxMubB5r7QsmkdesM4jUvLP4hrO9mfdW+Z78D129y1fhq8h0EIIB7bHbF3960u8nl7XdHSWclXDgFD1dfG+FtsLs0FgIreiT+ots+aR/XV/MFBJD2/xTKrqU5xV5v8LCMlzdt2/4HhltACg==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create and Update Trigger",
+    "permalink": "/saviynt/create-and-update-trigger"
+  },
+  "next": {
+    "title": "Delete Trigger",
+    "permalink": "/saviynt/delete-trigger"
+  }
+}

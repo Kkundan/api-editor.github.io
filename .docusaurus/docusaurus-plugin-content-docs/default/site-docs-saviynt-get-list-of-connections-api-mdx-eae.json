@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-list-of-connections",
+  "title": "Get List of Connections",
+  "description": "This API returns list of Connections in SSM.",
+  "source": "@site/docs/saviynt/get-list-of-connections.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-list-of-connections",
+  "permalink": "/saviynt/get-list-of-connections",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-list-of-connections",
+    "title": "Get List of Connections",
+    "description": "This API returns list of Connections in SSM.",
+    "sidebar_label": "Get List of Connections",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlV1tv2kgU/iuj85RKNtiEqNSrPhCHRmgbQOBot00jMdjHeBp7xp0Z07CI/76aMQmQkMDzLhJiPD7X71xZgaZzBcEdhIJzjDUTXMG9AwmqWLLSPEMAUcYU6Y76RKKuJFckZ0oTkZIdLsI4mUxuGuSH/MHNN8qQTLuVzoRk/1BDMyVFpTTJ6ALJ9BKpRDklqchz8RsTMluSaSQekE8bTyKG1gCak5JKWqjA3E0L+jh1piJNFeqpY6/iZzP0ssRXl5wWOAUHRInSGtJPIIA56q9M6WG667oDEn9VqPSlSJYQrCAWXCPX5lhUuWYllbqZClm4CdXUXKs4w8KejHIIQMx+YqzBgVIajZqh2kjasWeHXmnJ+BwcwEdalLm56l6RCJWGtQP7vh1jg7X9GDdUKbiqVbc8z/zsB/UaNdl3PUOaoLQcV1TjQecOaP0LE4d4HdKt5qTl+R3ieUHrY9D+RK5vIjDGTFAuUJ4qr1vSOEM3FEuhsek3/I0M7YZCPLCT7QrDyfiLGw3/7A0+I/VjP6FtF5NO221jOnM7LT9xZ7NzP/EuqIfp7A8yojr73LTqIkm5SlG6PR6LxIg+UWucVfwBEyvkb/eLpAW6dR6rU0VMuje94bh/3R+AjeVODtKyzFlsk7j5U5k4np6A22CbvN+hp1LSJTjANBbqBDnDwaAXRv3h4Ko3Ccf9kTm+75FJ5C3boHvTOzn/t2zRt9FRNssx7nWj3tXlt/eJaVIwfkbMp3t10x982OE95k/L8z+63rnbOo88L2h3glbnu2GfRN3odrLDy6tihnKX1187cDu6Ot1Ca9yekRv204zsuH4n8tqB3wn8T9/rhHqmuXszmgCvI/YcltdRMdDvIX8A3j10D0O4RdDfQ+kwFHtIvOHuvXFXSiFDkRzpnp7BtlDzI8VZxTEqlVb5Hpa2Ml621GAFC5pXeKj6/gfQ7yEPHmzQfQFhPa/shEdtx8/dCuoRCSXVmWlMfHs285lJTCDQskLnzYa6NvoL1Jkww74UFjsrI4DmHPX+6FN2QtW6K5lDAJnWpQqazZVGTrleNxRdsCXXcS6qpBGLotkLb5q0ZM3FBTiwoJLR2SYPapbXI3dzb9arlFa5huA5sdbWXoVxJZleToxTtawZVSw2a9SOi8Y22Lhuni2Nyd6ZXaqOUVsiO6AYT4WlZLpO7tpH0uMaZSmZQtJPkGumlyQ0jtstcIwpSuQxwsFFMRR5XiNLSikWLEFFdIYkQU1ZrszeaB5VVZZCakxIHSVFUiHtm+NWnPX6oUlCE7Na80XDa9gCNpEuqB2MmyQyVfn19cL60vidXe+/svBuEkDjo26WOWXcAGTTe7UphTt4UQr3DmTC9idYrWZU4a3M12tz/atCuYTg7n6b7LZcEqbMOYEgpbnCd1A9G29q9wN5y7injYQvbU3Z3mn64QMun1qAben1qmr116/CWosbGQFb1kM7+9p5YurGMZZ6h/zVerXXREbDSQQOzDZ/DYq6rxnBVq6zPQZ39+v1+l91El+G",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Connections",
+    "permalink": "/saviynt/connections"
+  },
+  "next": {
+    "title": "Get Connections Details",
+    "permalink": "/saviynt/get-connections-details"
+  }
+}

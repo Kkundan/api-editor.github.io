@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-authorization-token",
+  "title": "Get Authorization Token",
+  "description": "The `Bearer Authentication scheme` is dedicated to the authentication using a token and is described by the [RFC6750]. Even if this scheme comes from an OAuth2 specification, you can still use it as a way to exchange between a client and a server.",
+  "source": "@site/docs/saviynt/get-authorization-token.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-authorization-token",
+  "permalink": "/saviynt/get-authorization-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-authorization-token",
+    "title": "Get Authorization Token",
+    "description": "The `Bearer Authentication scheme` is dedicated to the authentication using a token and is described by the [RFC6750]. Even if this scheme comes from an OAuth2 specification, you can still use it as a way to exchange between a client and a server.",
+    "sidebar_label": "Get Authorization Token",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVttu20YQ/ZXBvLgNaN2ANAFRBFAUJzUQ14atAgVkwVqSI3ETcpfZXUphBf57MUtSluQ40UNfCkQvIpdzO2dmZ2aLTqwshjMc9gYwLl1KyslYOKkVzgNMyMZGFv41xGlKsHhLwpA5kgUbp5TTAqSFhBI+pQScBpcSiEPR0kq1AgFOfyYFQiWNEjuKKIGo8kqz2/eT3169HMx7cLEmBXIJLpW2dQSxzsnC0ugchIJrjmYEtqBYLls/AVS6hFgosE5mGZSWQDoQFgRsRMXB0dc4FWpFEJHbEAcDcSZJOR+VAEtmTaZ3r+4VQ7+7u4LxzSXEpTGkXFaBoS+lNGR9xH9MpzfHWNtoW9IWsNTmSKQH4yzzhsg6C3lpHaRiTSBgLTKZwGLKPC06cJSAVI/+GLg28p/GXUoiIQMb6VIvsvPbxOGRvIHUucKG/X6lS5PoXEjVs2ItK+XiTJdJL9Z5/2Jy1ReF7Gd6JRWw3hgWN9d300UXKyeqENYn86y0ZJTI6cwzd8bnG22SM4518clqtQBHX10X+iLSSbUIYCM9dlca5r5D2goZsoVWlmCTyjj1mYzIu2w4ELBo8C5gLYwUUUaeX1tGlkNUbkcrBqgLMp6kywRDXJE7YM57xgBbhbc6qTDcYqyVI+X4URRF1qasz4D4zLMq+MlVBWGIOvpEscMAC8P+nCTLXzs69iStM1KtMED6KvIi4yOsA+x4/JFkXe/evYcP5I5KoUEUbnEtsrJTYrWOVq83Ggz47/Cas7GOkIZhLzsRcUrnE62c0dk34X8jVKXPrdOGkF1PGjrPP5JaufRUE6Phb6+8+jvh6FSl90YGMHwF43IFo8HwNYxG4WgYjkbw4Wrqrd0YsWqsnIgjZvxe9c73hVNVx0VLXKUd9Ye9obfx9/l7I3I6v/as21ON3Y2vLq5vLz9c/tkUwX9UoSKOydoH1xXN8wG84B/68iu49T3IfQVV5hGZfYXh68HAV93SkE1P8dCK+goUUZy8eLHzaXRb7622MEZUGKB0lNvvW729/njxMH53xcTtnc/2P8zrAH2AD42d79lrOuvpd1YkuVTfvrjHV/U4HS3nh5Qzr09ofZa7HXWHeA/hdpj2IT3G3XQPS3FppKswnG0x8vLcdzCczet5gDm5VHODLbT1VSb4Gz6OEmQTfHust1CaDEPsBtLWkRLK1c+Po/VLDLDr9k3GvcrTJtae8wqzFGXmMNwlo6451A7JnR+N3lYkrIwbOLtUcmwctJfCsJHhtO+Df166rZI6QL6St4/j5aKrjP3xgIfcsxuplto7kK5pAA01cKEcmcJIS3CZ8DrhKpgwX35FuaUlGVIx4dMdTlqY6Cyj2M+Jwui1TNoVJiEnZGZBL/2rLYtCG97kmrxaP1/5y4+j+OXicvIrJ4uMbTy/7A16A4bEtZELX/Et0OfG11HwewP55y76cxf93+6ibbPgKPpFJri/Bk0r3LYdc4aikBhg0zPnAabcT8MZbreRsPSXyeqaj7+UZLgXzx+7om/F3eLmm+xnqjDcLV9Tdh7s1sInW0MddBrjOKbCfVd2v+VzRjDAqN2dc534aS42PH3EBkO8x3v0q/hu5fHnW8yEWpVixfKNXW6Y4rC1Rt1wah8YWbcGqGovyt/bruAz+AaDFk0zIut5Xdf/AukfLO4=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "1.0 Authentication",
+    "permalink": "/saviynt/1-0-authentication"
+  },
+  "next": {
+    "title": "Refresh Authorization Token",
+    "permalink": "/saviynt/refresh-authorization-token"
+  }
+}

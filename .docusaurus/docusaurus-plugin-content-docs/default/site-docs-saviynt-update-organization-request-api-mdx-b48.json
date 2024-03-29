@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-organization-request",
+  "title": "Update Organization Request",
+  "description": "This API call can be used to create update organization requests.",
+  "source": "@site/docs/saviynt/update-organization-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-organization-request",
+  "permalink": "/saviynt/update-organization-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-organization-request",
+    "title": "Update Organization Request",
+    "description": "This API call can be used to create update organization requests.",
+    "sidebar_label": "Update Organization Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Organization Request",
+    "permalink": "/saviynt/create-organization-request"
+  },
+  "next": {
+    "title": "Create Auto-approved Request",
+    "permalink": "/saviynt/create-auto-approved-request"
+  }
+}

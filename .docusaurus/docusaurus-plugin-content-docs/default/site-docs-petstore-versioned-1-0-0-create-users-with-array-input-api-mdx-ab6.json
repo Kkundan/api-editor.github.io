@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/create-users-with-array-input",
+  "title": "Creates list of users with given input array",
+  "description": "",
+  "source": "@site/docs/petstore_versioned/1.0.0/create-users-with-array-input.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/create-users-with-array-input",
+  "permalink": "/petstore_versioned/1.0.0/create-users-with-array-input",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-users-with-array-input",
+    "title": "Creates list of users with given input array",
+    "description": "",
+    "sidebar_label": "Creates list of users with given input array",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Delete user",
+    "permalink": "/petstore_versioned/1.0.0/delete-user"
+  },
+  "next": {
+    "title": "Creates list of users with given input list",
+    "permalink": "/petstore_versioned/1.0.0/create-users-with-list-input"
+  }
+}

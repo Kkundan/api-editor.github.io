@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-child-entitlements",
+  "title": "Get Child Entitlements",
+  "description": "This API can be used to get the list of all child entitlements.",
+  "source": "@site/docs/saviynt/get-child-entitlements.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-child-entitlements",
+  "permalink": "/saviynt/get-child-entitlements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-child-entitlements",
+    "title": "Get Child Entitlements",
+    "description": "This API can be used to get the list of all child entitlements.",
+    "sidebar_label": "Get Child Entitlements",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Entitlements",
+    "permalink": "/saviynt/get-entitlements"
+  },
+  "next": {
+    "title": "Create/Update Entitlement",
+    "permalink": "/saviynt/create-update-entitlement"
+  }
+}

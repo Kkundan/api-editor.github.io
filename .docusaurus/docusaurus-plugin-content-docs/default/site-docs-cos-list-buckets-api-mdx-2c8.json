@@ -1,0 +1,35 @@
+{
+  "id": "cos/list-buckets",
+  "title": "List buckets",
+  "description": "A `GET` request sent to the endpoint root returns a list of buckets that are associated with the specified service instance.",
+  "source": "@site/docs/cos/list-buckets.api.mdx",
+  "sourceDirName": "cos",
+  "slug": "/cos/list-buckets",
+  "permalink": "/cos/list-buckets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "list-buckets",
+    "title": "List buckets",
+    "description": "A `GET` request sent to the endpoint root returns a list of buckets that are associated with the specified service instance.",
+    "sidebar_label": "List buckets",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVE2P20YM/SsD9pIAku1NehKaFtlgm0uAFs22l62BpSXamrU0VIaUdw1D/z3gSHbWyW6BtNeeOB8cziMf+Q6guBEobuCyL7ekjjuKqJ6DwDKDiqSMvrM9FPDW3b6/ur51kT71JOqEgjplpzU5ClXHPqiLzOoiaR+DOHSNF3W8dqsUXpzWqA4jORTh0qNS5e691imIdFT6tafKCcWdL8n5IIqhpNnf4VeOruVoZ2uObQLpcMW9nj6XzAmRu7k67h2GyolyxA25hssxs+WLWrWTYj4vG+6rmV+1s5LbecWljEc5r+6o1Hx6+oty58s3T13lp79/OK1eziCDDiO2pBStugfwVsBPPcU9ZBCwJSiAHpRCRRV8XejfI+98ReJuP0yY33EQjeiD3rqWFCtUdD6kqlmJfdjYp8aMj1RBscZGKAMpa2oRigPovrM/V8wNYYAhA2wavr9qO93/hU1PUGjsacgOR3h+1eYTD/mRh9wb2pRMTVhR/Ab7ByP8jO17iuTKSInrhNnLtwSfoTckT4AXjT5sYBiWGQiVffS6T9W9JIwU3/ZaQ3GztBzOTzK4RPHlyWFpn0nHQUgs/qvFwsx5JryFYcigJa25ggI2pIlXiwFzMAhxd+S3j43VZOoreT07RNp4DsPsqa6ZYddV3KIP4zVksMPocdWMeMa3tqLQtzaevUAG1EMG2EEGveTClk1aEoqm63yzGm1F5tnnsrfYd12uvLWTVhavIYOypsUFZFBvN4tXYDk+pH3rm9FySJZl3HcYk5W7cvGjWeRxT5MNm2SVzS8Jxxr7RqEw4MMZYR+N1THNxySdSLYawkR+6tjkZA37iMPnvc0n8WYykRy9Nnbzzgrtfks8uI8jD1Z3ijLyfTFbzC7sn45FW0zln0bhcVN/3fEHKDkoBf1fIb9PIScGlR503jXokyilOTpMU3YD1ks1i9r6cFih0J+xGQY7HsXUZq/yYpPzRfWe5edfC+uTWLe0P1fx3aijANbvx4EeFekol9+H98UfkyS+dP9BV/8B/PMaf5bLSQPfX10nYTmbwWlCs+PCcpyuMOwfxfppHHh3zVsKP8MRhNoWhuUwDJ8BCFz3eQ==",
+    "sidebar_class_name": "get api-method",
+    "info_path": "cos/cloud-object-storage",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Generating an IAM token",
+    "permalink": "/cos/generating-an-iam-token"
+  },
+  "next": {
+    "title": "Create a bucket",
+    "permalink": "/cos/create-a-bucket"
+  }
+}

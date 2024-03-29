@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/discontinue-tasks",
+  "title": "Discontinue Tasks",
+  "description": "This method discontinues open tasks in SSM.",
+  "source": "@site/docs/saviynt/discontinue-tasks.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/discontinue-tasks",
+  "permalink": "/saviynt/discontinue-tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "discontinue-tasks",
+    "title": "Discontinue Tasks",
+    "description": "This method discontinues open tasks in SSM.",
+    "sidebar_label": "Discontinue Tasks",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV9tu2zgQ/RWCTy0g2ZJTNxsVeUhdtwgWaYLYBQokAUxTI4u1RKok5URr+N8XQ8qJ0jqJi71gH9YvFi9zZjgzPDNcU8sWhiZX9E0vIiecgzHkEr7XYCwN6JSZpaEB/VKlzALBIb0JaAqGa1FZoSRN6DQXhpRgc5WSVBiupBWyBkNUBZJYhCBCksnkrHctr+U0BzI7qW2utPiDIcaMlLWxJGcrILP3wDToGclUUahbSMm8IbOpWoKc9QjKnzGZMqt0QyqmWWkSnJyhmiU0VnUsmIW4FPfcokhnODp3VrNif+Hanb02aFRI8F+yEojK3De5zRURhrhdQi6IzcGdOUDxQW/WgWTGKC6YhRQ3IJrVNRClScYKA07ioDfjqixBWjP7i96iAVUVaCd0mtKEdkzZBlb7UL9XaUOTNcVlkBY/WVUVgjvh/jeDgV5Tw3MoGX7ZpgKaUDX/BhwTpdKoygowbnWHPztSTGvW0IAKC6V5GW3rj85OY7WQCxpQuGNlVeCUBWNJu5VuAvqk31+A0TWguE+Z5/fGg0F8QDebTWfyqmvvY6OetckrftC7Bb/pwjsXfHgAIT6MyZquWNG6eKfr/wmrnGEaTKWk8ZYNogj/HrPDz+YGNAeWgnYynnLCkZJWqyI8wTQORxpSkFawwuxMuyfjtgl2A55rsRC7U3gHVm5tlfT7heKsyJWxDnfEeA5b2H2RKmVsyHPgy+MoIJWG7cBBfmAW9kWa1hCQeEjOuSWDKD4i8W/JwTB5MyCfzqYObXxXCQ17O2xSy4AckjPWkPjoaEjiQRJFSRTd411otvAg+8BJFXL0kBO9hAy0Bh1eqELwZl8Mw0oIlQ8VwkxAr0DvK31StRFqlIV+3ItbDBuOlFqKvT09Gk0uP4bT89/Hn48zgHl6wI5CGMwhfJPFg5AN4rchz474MBseHRymh+/IBbP5cd+rs1pwG041k6ZS2oYT4LUWdm8flOwuZAs4Pjw8fBtF0TsiJC/qFCb1PFUlE9I4PU5BBjocS65SBNkTn+e1XELqQL66dAZpw2lTQehL494JJJWRIstapI8ag/eLEJOTs/H55emn088tytfJJLzQygL37LEfTPyOlCqF43mh+NLz8d9UyEBrpblK4XkDIqwYpVm8dOMcNVFPm3VhX9bv6fZZ1A6/YlR/sVx0Dkgj2h7i3tKuoa0pO/Q5la6dAutY/WpNsUVC/mM2x0IvH76x4xAaUpogZQdPBnizuQmo7ypbIkXvIEZC+z90MjSgxnGFV17romVxk/T7awuSSbvpGbYSjbS8UHXa46rsj0dnfVaJ/mpIA7piWrB56zQv8nMxa+exA86Yc8x9JDbOYNNe9wmeymPNmREcO7jOGdE22p4dx24PJsbc9XMv7Xab3JXBhL586OHG27T49xoBjG6mnEZhfZ57P5OxtKArLQyQU1fObUNG6HxycnFKXI0AyYHufE+MVFF4FiCVViuRgnGtdQqWicJg+41DU1dIs5C2DxBDMqXdystWvBqfjl5j5EEbr3nYi3ruLmO6lcxRRZvJu9qYR2Z3muf/X0T/3RdRe6Us3Nl+VTDsNAJPGOuWXa5+fCfhi9e1gckVXa/nzMAXXWw2OP29Bt3Q5OrmgT/cHUuFwe+UJv4cT6fKq8uWD1+Tp6zbvppk42jKMTelAV1Cs6VVdw99V+30+6Vude+I/lQQN8FWApvnyj67t8vKF+eTKQ3ovH09lr6OaHaLPM9uaUKv6TV179D7vsDNr2nB5KJmC9zvcfH3J6v/xJg=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update Tasks",
+    "permalink": "/saviynt/update-tasks"
+  },
+  "next": {
+    "title": "Discontinue All Pending Tasks",
+    "permalink": "/saviynt/discontinue-all-pending-tasks"
+  }
+}

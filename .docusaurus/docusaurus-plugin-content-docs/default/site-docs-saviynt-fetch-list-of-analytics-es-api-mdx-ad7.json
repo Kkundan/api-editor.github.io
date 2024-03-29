@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-list-of-analytics-es",
+  "title": "Fetch List of Analytics ES",
+  "description": "This method fetches a list of Analytic Controls in Elastic and support the usage of GET and POST methods.",
+  "source": "@site/docs/saviynt/fetch-list-of-analytics-es.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-list-of-analytics-es",
+  "permalink": "/saviynt/fetch-list-of-analytics-es",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-list-of-analytics-es",
+    "title": "Fetch List of Analytics ES",
+    "description": "This method fetches a list of Analytic Controls in Elastic and support the usage of GET and POST methods.",
+    "sidebar_label": "Fetch List of Analytics ES",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Runtime Controls Data V2",
+    "permalink": "/saviynt/fetch-runtime-controls-data-v-2"
+  },
+  "next": {
+    "title": "Fetch Control Attributes",
+    "permalink": "/saviynt/fetch-control-attributes"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/cat",
+  "title": "Cat",
+  "description": "A representation of a cat",
+  "source": "@site/docs/petstore/schemas/cat.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/cat",
+  "permalink": "/petstore/schemas/cat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cat",
+    "title": "Cat",
+    "description": "A representation of a cat",
+    "sidebar_label": "Cat",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "ApiResponse",
+    "permalink": "/petstore/schemas/apiresponse"
+  },
+  "next": {
+    "title": "Category",
+    "permalink": "/petstore/schemas/category"
+  }
+}

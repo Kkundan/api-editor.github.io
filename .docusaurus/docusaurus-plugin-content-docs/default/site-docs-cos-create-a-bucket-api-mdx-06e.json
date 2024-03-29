@@ -1,0 +1,35 @@
+{
+  "id": "cos/create-a-bucket",
+  "title": "Create a bucket",
+  "description": "A `PUT` request sent to the endpoint root followed by a string will create a bucket.",
+  "source": "@site/docs/cos/create-a-bucket.api.mdx",
+  "sourceDirName": "cos",
+  "slug": "/cos/create-a-bucket",
+  "permalink": "/cos/create-a-bucket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-a-bucket",
+    "title": "Create a bucket",
+    "description": "A `PUT` request sent to the endpoint root followed by a string will create a bucket.",
+    "sidebar_label": "Create a bucket",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "put api-method",
+    "info_path": "cos/cloud-object-storage",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "List buckets",
+    "permalink": "/cos/list-buckets"
+  },
+  "next": {
+    "title": "Retrieve a bucket's headers",
+    "permalink": "/cos/retrieve-a-buckets-headers"
+  }
+}

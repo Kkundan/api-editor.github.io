@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-role-request",
+  "title": "Update Role Request",
+  "description": "This API call can be used to update the enterprise role that was already created in the Saviynt Security Manager.",
+  "source": "@site/docs/saviynt/update-role-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-role-request",
+  "permalink": "/saviynt/update-role-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-role-request",
+    "title": "Update Role Request",
+    "description": "This API call can be used to update the enterprise role that was already created in the Saviynt Security Manager.",
+    "sidebar_label": "Update Role Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Role Request",
+    "permalink": "/saviynt/create-role-request"
+  },
+  "next": {
+    "title": "Get User Requestable Entitlements",
+    "permalink": "/saviynt/get-user-requestable-entitlements"
+  }
+}

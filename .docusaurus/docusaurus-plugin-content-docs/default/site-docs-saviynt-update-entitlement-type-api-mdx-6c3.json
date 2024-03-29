@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-entitlement-type",
+  "title": "Update Entitlement Type",
+  "description": "This API updates Entitlement Type in SSM.",
+  "source": "@site/docs/saviynt/update-entitlement-type.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-entitlement-type",
+  "permalink": "/saviynt/update-entitlement-type",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-entitlement-type",
+    "title": "Update Entitlement Type",
+    "description": "This API updates Entitlement Type in SSM.",
+    "sidebar_label": "Update Entitlement Type",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWFFz2jgQ/isavbSdMRCStE25680Q6rRcA/SMc9ebkLkIeYnVGMmVZBKO4b/fSLbBEGPoTR+TmSS2tPtptdZ+u9oF1uRO4dY1dnkQC8a1wjcODkBRyWLNBMct7IdMofaXLkrigGhQyOWa6QimwDXy5zEgxtFw2KuP5IibXz8EdNtOdCgk+5cYlFs0TZRGIZkBuj0HIkHeoomIIvEAARrP0a0v7oHfriB6hAdECzlHMZFkqlp2Qt/CemlOpnDrrMZT84uD5u/AboJEu2EKe12hPQh5P4nEw2qAJkqLaSxFDFLPf+3/tpohM8IiMo7gjwTkfAhyxii0KRUJ1yshBRFQDUGpDMqRpPLgewJKG7iCj63Whtwww3sihFZSVALR4BN136bpF6ghphElHI0BCQ5oRqIEkJAoYkojMUkHVB2Zz5c+5+LXI8xFijPCzghLmIqZBb8Q0n1kSjN+VzBGjbCDRhi42YknomhM6P0I3+T+kOk+P5jT1BF88rsyBq5sV5pIO9nlHszEPWR+2RZxeZBL5fO5j8zJ8qyV7SgqWFaUzbGEDEAyHsBjYdCYyCQEjMtt8JABkTSc5yJbWqC0SI/T+himf7em0zO55eqahRp+Gvz1z/mV/09/4HvulTv02+eX7rDb/3jpNiokeleXfvdLLtMf9HPpguamjFVLHy88170YeD3f/eoXJvsDz+0N/syEvPaH7uD8yu+nr51Pbufz+eBr9uq57Q+D/uXfBVRjhDW047lt3/Xbw8/YwSaQLDN0A9zCKbEUPpNhFezgzF/nIpjj1gJTwTVwbR5JHEeMWoTGN2VoaoEVDWFKzJM26i0sxt+AauzgLHAZKKu793AUMJSWjN9hB8MjmcaRGZqQSAFeOrg6YqtBYFZXmuhEvW8iwgMEs/omyTTfv/C9K/dFttCukK9eRYPSCiKLUUFU+0HQdzk3KNu0UtAkUpI5djDTMFXViDmZGMTV6PV62NnPMNjB45DMDOwGy+CbEiub1ebsX8xgbn6dakQaN5/qvNun8876o5DJqhXaH5BvDqtVKstne05guc4m2n4rzOlwuT6zG96mxgMDac3A1QrHRrgseRxwgA3DFNTFAR7aoL9cdyMpHLi/ivxfjaBSWUQozSNwV3I81JSyxHmgbl4WVYsP7UOPcHIHsh3HUsxIhJfLdaxbdriynP+kljRTNiMeytSZefvZ+Acodw/jrmh1H6uuqbOMOX8W4ZXy3UGATzjNElcJb1ly2uamFQHt5p9dEyUcUyCSMh5ZfeYiV+BjvIsPCkH/JOa3Ars0rlfrVcbukwCtis81ZHkMrubXcbY7mGw8SVCx4CoNqOOjI/Nv0/+7oszBIZAApNU0dpQWUGWcGCYOap6hAdXo+Kh5ho5PWq/PWicn6GPPx8Yo4yOQh+K1Y0JDqHXEXGhoNOvNDEPXOkLcs4Pt6nSG3kXNH3x2++/H0AwonEHtZHx2Ujs9fdusnZ29eVt7Mz49Im9fn57SCf0FfSE6fN+wy/mScDUBWXM5FYGBPnBVGib8HgIL8rXWSevTmvFwLb15qkORuFCcTSYZ0oUk0x+GGLZ77sDrfuz2U7b9SeUySClkRwR76oAjkyGm6m6PjQmloNT/SwcFS/ARzlYrQqZRYa9VoO3hvl7gjF5iokNTnfL185pdtEzA2enk5fLGwVPQoTBEFCfWRwaihRu7ri7KRkFqQSIj3MKh1rFqNRoLDZxwvawrMmNzrmkkkqBOxbThdnoNErPG7DV28IxIZng+LaWtytPwzsZNx2ZCksiQSO7rpbVaAU0k0/Oh2VqKNSaKUdOdKWzU2IYzB5h3K2M+6Nj2avZJWyF7dM3h8ta3Njf/8M+5/DmXP+fy0lxuOGkibHgZL1pBSwyGDEHGkilA3cA6eY46hi1sN9aDCUjgFHBpw7YjIrNZJjgyK7EAFNIhoAA0YZEyDT/zqpI4FlJDgFKCU2gipJ3Zb8VLt9t5ZagKpEpXfl0/qttEEAulp8TmmexI7K5Etm6sq7T13Hh+bjw/N56fG88/tfGclTAaHnUjjgizDS9boC2ymu56Rzv6xsGhMNx+jReLMVFwJaPl0gx/T0uJ65t11WbrvoAp8xzgls0GFUz30ss+6Su0y8a8y8rntji0JTHGDr6HeV7RLk3vM73X2fXTqeKtpKD65EqwdHKNNqUQ60rZYkH85co3BU3WpJ+m9bkkDyYZE5P4RniEbc9/dZ2x4wscEX6XkDsjn8Kan/8AG/MqDA==",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Entitlement Type",
+    "permalink": "/saviynt/create-entitlement-type"
+  },
+  "next": {
+    "title": "Get List of Entitlement Types",
+    "permalink": "/saviynt/get-list-of-entitlement-types"
+  }
+}

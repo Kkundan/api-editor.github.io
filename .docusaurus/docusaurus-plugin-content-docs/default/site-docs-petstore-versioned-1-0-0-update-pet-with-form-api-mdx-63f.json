@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/update-pet-with-form",
+  "title": "Updates a pet in the store with form data",
+  "description": "",
+  "source": "@site/docs/petstore_versioned/1.0.0/update-pet-with-form.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/update-pet-with-form",
+  "permalink": "/petstore_versioned/1.0.0/update-pet-with-form",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-pet-with-form",
+    "title": "Updates a pet in the store with form data",
+    "description": "",
+    "sidebar_label": "Updates a pet in the store with form data",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Find pet by ID",
+    "permalink": "/petstore_versioned/1.0.0/get-pet-by-id"
+  },
+  "next": {
+    "title": "Deletes a pet",
+    "permalink": "/petstore_versioned/1.0.0/delete-pet"
+  }
+}

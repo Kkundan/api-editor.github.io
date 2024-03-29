@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-technical-rules",
+  "title": "Update Technical Rules",
+  "description": "Starting with Release v23.11, you can use the REST API to update the existing technical rules in a readable and organized manner.",
+  "source": "@site/docs/saviynt/update-technical-rules.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-technical-rules",
+  "permalink": "/saviynt/update-technical-rules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-technical-rules",
+    "title": "Update Technical Rules",
+    "description": "Starting with Release v23.11, you can use the REST API to update the existing technical rules in a readable and organized manner.",
+    "sidebar_label": "Update Technical Rules",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Technical Rules",
+    "permalink": "/saviynt/fetch-technical-rules"
+  },
+  "next": {
+    "title": "Create Technical Rules",
+    "permalink": "/saviynt/create-technical-rules"
+  }
+}

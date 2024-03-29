@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-task-details",
+  "title": "Fetch Task Details",
+  "description": "This method returns a `list` of provisioning tasks, that correspond to a particular IT Application (e.g Microsoft Active Directory) modeled in SSM as 'Endpoint' of a 'Security System'.",
+  "source": "@site/docs/saviynt/fetch-task-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-task-details",
+  "permalink": "/saviynt/fetch-task-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-task-details",
+    "title": "Fetch Task Details",
+    "description": "This method returns a `list` of provisioning tasks, that correspond to a particular IT Application (e.g Microsoft Active Directory) modeled in SSM as 'Endpoint' of a 'Security System'.",
+    "sidebar_label": "Fetch Task Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Discontinue All Pending Tasks",
+    "permalink": "/saviynt/discontinue-all-pending-tasks"
+  },
+  "next": {
+    "title": "Fetch Request Access Attributes",
+    "permalink": "/saviynt/fetch-request-access-attributes"
+  }
+}

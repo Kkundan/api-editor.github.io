@@ -1,0 +1,35 @@
+{
+  "id": "petstore_versioned/1.0.0/place-order",
+  "title": "Place an order for a pet",
+  "description": "",
+  "source": "@site/docs/petstore_versioned/1.0.0/place-order.api.mdx",
+  "sourceDirName": "petstore_versioned/1.0.0",
+  "slug": "/petstore_versioned/1.0.0/place-order",
+  "permalink": "/petstore_versioned/1.0.0/place-order",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "place-order",
+    "title": "Place an order for a pet",
+    "description": "",
+    "sidebar_label": "Place an order for a pet",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore-1.0.0",
+  "previous": {
+    "title": "Returns pet inventories by status",
+    "permalink": "/petstore_versioned/1.0.0/get-inventory"
+  },
+  "next": {
+    "title": "Find purchase order by ID",
+    "permalink": "/petstore_versioned/1.0.0/get-order-by-id"
+  }
+}

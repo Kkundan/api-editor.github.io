@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-delegate-user-list",
+  "title": "Get Delegate User List",
+  "description": "This API returns list of users that are allowed to be added as delegate for a parentuser in SSM.",
+  "source": "@site/docs/saviynt/get-delegate-user-list.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-delegate-user-list",
+  "permalink": "/saviynt/get-delegate-user-list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-delegate-user-list",
+    "title": "Get Delegate User List",
+    "description": "This API returns list of users that are allowed to be added as delegate for a parentuser in SSM.",
+    "sidebar_label": "Get Delegate User List",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV1lv20YQ/iuLeUoCypIV261Z5MGRFcNoHAe2AhSwDGjEHYobk7vM7tAxK+i/F7ukrvhsUKB9qF60XM59fDOcA+PMQXwF+zs9cUw5zZBJiiNZKK0cW2RlNFxHIMklVpXhMYZRppw4+nwqLHFltRO5cixMKipH1gnOkAVaEpjn5jtJwUZMSaCUJAU6IVtFIjVWoCjRkmbPKpQWl5dnO2M91qOMxOSo4sxY9WewYyKKyrHI8JbE5D2hJTsRqWl1TGsxGZkb0pPAfoZaIhtbe/FYuNhfTtaqNBY08XfnwSnMt+gKvJtEYmLS1BFPonDnCG2SDaxisgonoiPoDosyJzEGfjMGYawYwxum1ZnJ8Ri89w2vd2+p21OkyjpePuTYnn1QOKN1lDwLRGBKavJxKiGGGfEyX18c2Y/KMURg6VtFjt8bWUM8h8RoJs3+iGWZqyTwd786n8U5uCSjAv2J65IgBjP9SomXU1qvjRU5/7bAuw0ix1bpGUTQug8x9GERwXZsn2bAxJgbz7Qd1KeZ5BtYLBarm2DaCfGqboUPhAiRiOdwi3lFK+uhD/ctbM24b0WrKmiz5EqjXaOu3+v5v+1ueMSGCDJCSTYwHiPTgyF/wM9RVkWidyCOKRH93u6vot+P93bjt31xcjYCb9Ml2VuyL5V3VGKSUWdgasPU3d3ZbWVwZ2DMjXqxXYPB5cWHzuj89+GndxKnvf4hHnawJ/c6e/tp2sEDiZ39fu/wkPaS3V+mb38Tn5Gzd92gbmRRu5RsZ6gTI73oF2pNskrfkAxC/ugMmorujOqSOk3rupdK0sZplaatpA8Wi78t4vLobHh+cXpy+qkpxX+owaRyZY71wFSNrGc6jaw1dmDkM03W87SFmz3jUpUk5Bw0pV7lmwagtVhDBIqpcM+7scKzpzUeY6FIe4VLzHua/j3mimpP/zJwkVNUuWfYAAuIr7bsWxqxacNS0aaetbDoB35CrXGb/1warSnPf5BglteL60UEbBjzF2R69+Dgp+Buu5YC7m3UC/SgrYlV4td5/0+EaDtCyzA0WBxGNHHA1Ks5tNwlcuaLVK/Pfg4qSxJithVFj/b2wusriDPTztQwJTiDGLoPT1gXoLfRX9kcYsiYSxd3u3MmjZoXOw5vVa05yU0ldxJTdIeDsy6Wqnu7DxHcolU4bfPZsNwfKe2937tSDLlZVcYi2Owoqazi+tI71siaolOJX5g23PS2Qeu+fw40vpOmYX16jjoQBbz0iHaxXi6GyzL9+fHqE5aaoF1xg0RN3MRQM9nSKkfiVJJmxbUY+GCGlfOCUrKkE4IHt9KByXNK/I0orblVkly7TTGq3Pkl1T+6qiyN9btuk323Wruet+LV8HTw2meSrGs07+/0dgLalsZxgQH72xg8uhxs2b6xqv2/XP8by3XbAUx33C1zVGE8hf6et4Bw9eDKfR1BZjwCX8F8PkVHX2y+WPjrbxXZGuKr63XLB9CQyvmzhDjF3NEThfDqokWx1+IxC5dzWtcBWcIIAIjghuolGIah02yiQX/zanOP2mC9t8R4TG84jpKESn6SdhNLT4YjiGDafogUzfCx+N2DM36HGMYwhvBVs1rAwv0cctSzCmeevhHrf38BTrIKoA==",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "5.0 Delegated Administration",
+    "permalink": "/saviynt/5-0-delegated-administration"
+  },
+  "next": {
+    "title": "Create Delegate",
+    "permalink": "/saviynt/create-delegate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/test-connection",
+  "title": "Test Connection",
+  "description": "This API is used to save and test a connection.",
+  "source": "@site/docs/saviynt/test-connection.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/test-connection",
+  "permalink": "/saviynt/test-connection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "test-connection",
+    "title": "Test Connection",
+    "description": "This API is used to save and test a connection.",
+    "sidebar_label": "Test Connection",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Upload New File",
+    "permalink": "/saviynt/upload-new-file"
+  },
+  "next": {
+    "title": "Import Application Data",
+    "permalink": "/saviynt/import-application-data"
+  }
+}

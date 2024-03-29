@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/remove-role",
+  "title": "Remove Role",
+  "description": "This API removes role from user.",
+  "source": "@site/docs/saviynt/remove-role.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/remove-role",
+  "permalink": "/saviynt/remove-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "remove-role",
+    "title": "Remove Role",
+    "description": "This API removes role from user.",
+    "sidebar_label": "Remove Role",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzNVttu2zgQ/RVinlpA8jVXLfrgum5hLFIHtha7gG3AtDSKGEskS1JOVUP/viAlJwqaJi6wD+sXUyPOOTPDmUMdwNA7DcES5iJDDWsPYtSRYtIwwSGAMGWajG6nRGEu9qiJEhmSRImcFBpVZ8VXPEyRbEaFSYViP6h13JC80IakdI9k8xGpQrUhicgy8YAx2ZZkE4od8o1zv6E8pkaokkiqaK4Da9xYdE5z3HgrvrGk7gE8EBKVI5nGEEAdlg0ePFD4rUBtPoq4hOAAkeAGubFLKmXGIufWvdc2swPoKMWc2pUpJUIAYnuPkQEPpLIkhqG2b4/krZ3aKMbvwAP8TnOZWZMNIURtoPLgGPvrHvci5bFAqKrq0ewI5y4n4pIKDrCnWYHPA3lia5O1ER2oQi0F1zXqoNezf8+Pt03lQYo0RuV2f6IGXyzSC4n8jbFHBmdkFhky6PWvyKAfDIfB+Rn5chOCDWSBao/qVLyRpFGK/liUwmC33+k3GMYfC7FjJ8c1Hi/mn/1w9ufk64fexdX2vNfv+8OL88g/w97Qp9eDC/9627vCs+H19gr7f5BbatIPXUcXKsp1gsqf8EjEFvpE1igt+A5jB/KPP6570A9Lif7MlV2fisSF5ixJGqTPiua/DbEY3Uxm8+mX6de6zf6jkchRa3r3Rn+TkOqdJpFCajDukOknHQTk4nJ4fXlJTu/6R663AeuudyqCxjXy8gDNbEhqUvCA8ae1lQumMIbAqAK9Xxa0qtYe5GhSYRVHCjd2DiOAbi1Aqh4g7fq85i1UBgGkxkgddLsHg5xyU3U03bOSmygTRdyJRN6djG+6VLLu/hw82FPF6LapSO3y89A2divVCS0yA8Fj1SsXq8aoUMyUC5tQjbWlmkVWo1vp2digSds+uz1Wv7ZOsd/a7Ta55rTtM3/S3smxBX5HsuzRJMLxMVP3bl0pMuEGlVRMI5nGyA0zJRnb8rl7aY4JKuQRwotX11hkGUbWQqQSexajJiZFEqOhLNNEJO5RF1IKZTAm9Tlrkgjl3rwdxbvJdPzenh0qXTOfd3qdnk3J9kpO3Wgdq/BMcJ8F3Lqw/ofXbtMFBr+brswo4+6isz1+aGZhCa1ZWHuQ2kEJlnA4bKnGv1RWVdb8rUBVQrBcP3W7m5eYabuOIUhopvGV4rybN4P7nvwqsMZIeemGykkJgAc7LI/zX62r443n+OtXbb1uuf4klpV39BhFEUrz6t62fNzOFiF4sG2+UXIRWx9FH6wg0QcIYAUrcN85j0rv7AfIKL8raimsce3vX5tNV1w=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get FireFighter Role Details",
+    "permalink": "/saviynt/get-firefighter-role-details"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/saviynt/endpoints"
+  }
+}

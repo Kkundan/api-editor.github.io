@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/certify-entitlement-owner-for-campaign",
+  "title": "Certify Entitlement Owner for Campaign",
+  "description": "This API will do entitlement  verification for a particular campaign.",
+  "source": "@site/docs/saviynt/certify-entitlement-owner-for-campaign.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/certify-entitlement-owner-for-campaign",
+  "permalink": "/saviynt/certify-entitlement-owner-for-campaign",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "certify-entitlement-owner-for-campaign",
+    "title": "Certify Entitlement Owner for Campaign",
+    "description": "This API will do entitlement  verification for a particular campaign.",
+    "sidebar_label": "Certify Entitlement Owner for Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Approve Reject Account Entitlement Details",
+    "permalink": "/saviynt/approve-reject-account-entitlement-details"
+  },
+  "next": {
+    "title": "Reassign Entitlement Owner for Campaign",
+    "permalink": "/saviynt/reassign-entitlement-owner-for-campaign"
+  }
+}

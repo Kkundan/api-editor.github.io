@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-organization-request",
+  "title": "Create Organization Request",
+  "description": "This API call can be used to create new organization requests.",
+  "source": "@site/docs/saviynt/create-organization-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-organization-request",
+  "permalink": "/saviynt/create-organization-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-organization-request",
+    "title": "Create Organization Request",
+    "description": "This API call can be used to create new organization requests.",
+    "sidebar_label": "Create Organization Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Request to Create Entitlement Based Role",
+    "permalink": "/saviynt/request-to-create-entitlement-based-role"
+  },
+  "next": {
+    "title": "Update Organization Request",
+    "permalink": "/saviynt/update-organization-request"
+  }
+}

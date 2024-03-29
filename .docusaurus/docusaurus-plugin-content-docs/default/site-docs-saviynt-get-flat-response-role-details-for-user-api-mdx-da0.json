@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-flat-response-role-details-for-user",
+  "title": "Get Flat Response Role Details For User",
+  "description": "This API call can be used to get a flat response consisting of user details and details of all the roles the user has access to.",
+  "source": "@site/docs/saviynt/get-flat-response-role-details-for-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-flat-response-role-details-for-user",
+  "permalink": "/saviynt/get-flat-response-role-details-for-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-flat-response-role-details-for-user",
+    "title": "Get Flat Response Role Details For User",
+    "description": "This API call can be used to get a flat response consisting of user details and details of all the roles the user has access to.",
+    "sidebar_label": "Get Flat Response Role Details For User",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Flat Response Entitlement Details For User",
+    "permalink": "/saviynt/get-flat-response-entitlement-details-for-user"
+  },
+  "next": {
+    "title": "Authenticate User",
+    "permalink": "/saviynt/authenticate-user"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/reassign-certification",
+  "title": "Reassign Certification",
+  "description": "This API is used to reassign certification to a different user or certifier. The user making this update must be an administrator, a campaign owner or its delegates.",
+  "source": "@site/docs/saviynt/reassign-certification.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/reassign-certification",
+  "permalink": "/saviynt/reassign-certification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "reassign-certification",
+    "title": "Reassign Certification",
+    "description": "This API is used to reassign certification to a different user or certifier. The user making this update must be an administrator, a campaign owner or its delegates.",
+    "sidebar_label": "Reassign Certification",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Discontinue Campaigns and Certifications",
+    "permalink": "/saviynt/discontinue-campaigns-and-certifications"
+  },
+  "next": {
+    "title": "User Manager",
+    "permalink": "/saviynt/user-manager"
+  }
+}

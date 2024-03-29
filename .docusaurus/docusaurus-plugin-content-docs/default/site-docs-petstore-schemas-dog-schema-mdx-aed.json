@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/dog",
+  "title": "Dog",
+  "description": "A representation of a dog",
+  "source": "@site/docs/petstore/schemas/dog.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/dog",
+  "permalink": "/petstore/schemas/dog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dog",
+    "title": "Dog",
+    "description": "A representation of a dog",
+    "sidebar_label": "Dog",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Category",
+    "permalink": "/petstore/schemas/category"
+  },
+  "next": {
+    "title": "HoneyBee",
+    "permalink": "/petstore/schemas/honeybee"
+  }
+}

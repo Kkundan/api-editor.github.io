@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-birthright-request",
+  "title": "Create Birthright Request",
+  "description": "This method creates 'Request' record for a new user in SSM.",
+  "source": "@site/docs/saviynt/create-birthright-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-birthright-request",
+  "permalink": "/saviynt/create-birthright-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-birthright-request",
+    "title": "Create Birthright Request",
+    "description": "This method creates 'Request' record for a new user in SSM.",
+    "sidebar_label": "Create Birthright Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVt1z2jgQ/1c0+9TO2GBouSS+6QN13Q5zQ6DY6V0nYQZhL7EaW3IlmZZj/L/fSDYfuSaEh3s8XtCu91O7v9VuQdN7Bf4tvO14ZJgkqBSZ4fcKlQYHAolU454xdyBFlUhWaiY4+BBnTJECdSZSklhZRe6gFb8DIjERMiUrIQklHH+QSqEkjJMoGnfIHb/jcYZkMax0JiT7mxqzC1JUSpOMrpEs3iOVKBdkJfJc/MCULDdkEYsH5IuOUZ/YSGhOSippofw7voiGX26icHY9HIcL4hpnGdIUpXPHF7Pw800YxfHXabg4osOZpYLJeBxex5El9jYMoTSVOqUaLYU83Z+jr1EcjveC4fWH6WS0s4FcM51jgVxbejidziZfWm/DIJjcXMdWFRwQJUqb/ygFH5rLfM+kziS7z/ShJLI5vRfpBvwtJIJr5NociyrXrKRSd1dCFm5KNTVslWRY2JPelAg+iOU3TIypUhqnmqEyX4/iORJWWjJ+Dw7gT1qUuWGlS8py3EDtwC6h0wo0LRg34rsLPi2uTaK1A/u7PC0ebZTGomc0jsp7WsdKH0p3toNdU5x9QUcd8HLSRqi2P1NmVQqumtL0Pc/8PcZei81Djxzhtul4q/uBanyyDZ4I4k9MHdLrkwhL0vd6l8Tz/L7nv7kgn8YxmLAilGuU59obljTJ0A3ERmjs9jq91oZ2AyEe2NlxBUE0++jGkz/C63ep52F/dXXhUrzsuW/7vb67HHiJm+Cgf7F8c0lXvavfyZTq7F3Xuosl5WqF0g15IlJj+kyvSVbxB0ytkb/cj5IW6DbzRp1rIhqOw8ls9Gl0DbaqR2ilZZmzxCK++02Zip4PVZRSyECkeNq7ZzqwQKXo/QuSUWUnP9T7+WKm0CmNwcXVb4N+k1XLtaE935X+FtY0r/BfCYAHR0HuI3kUyJG3Bh122qO2LX67BU4Lo1tSnYEDjB/OxgiTmIKvZYXOs0Wr67mJwjxkRllYFFkbPnSbYbzcpyT3OFMWDk0QlczBh0zrUvnd7lYjp1zXHUXXbMN1kosq7SSi6IbBuEtL1l0PwIE1lYwu27trVH5Fess3j++KVrkGf1+I2gauMKkk05vIZNfYWlLFEvOuHuVqYoP2DgxtZUzNl/aVfUnaClk0ML4SVtLMNlO0JkcSco2ylEwhGaV29G1IYBInw+mIzHCFEnmC8OQaEYg8x8RwSCnFmqWoiM6QpKgpyxURK0uqqiyF1Ji2e4ey24X58nIUr8JR8NrcOkrVeB50vI6FiSl5QS0K2246NV8fhX/0CP+/EP13C1Hbhhp/6m6Z02aDsCDbtsi8heeQOXcgMxj2b2G7XVKFNzKva8P+XqHcgH87P2DPojdlypxT8Fc0V3iixK9m7Ux5TZ6LsmVSvrEQt0MPwIEH3OxGUz2vd8+09d98ChovbmwMHFSf2uxqZ6dktvZSH4n/8rQ8Gm7TSRSDA8t2gSyaKWwMW7vO4ejfzuu6/geTUh3k",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Auto-approved Request",
+    "permalink": "/saviynt/create-auto-approved-request"
+  },
+  "next": {
+    "title": "Add Approver to existing Request",
+    "permalink": "/saviynt/add-approver-to-existing-request"
+  }
+}

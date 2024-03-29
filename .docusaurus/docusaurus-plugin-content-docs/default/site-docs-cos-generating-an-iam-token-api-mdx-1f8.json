@@ -1,0 +1,35 @@
+{
+  "id": "cos/generating-an-iam-token",
+  "title": "Generating an IAM token",
+  "description": "Generate an IBM Cloud® Identity and Access Management (IAM) token by using either your [IAM API key](https://cloud.ibm.com/docs/iam?topic=iam-userapikey#userapikey) or a [service ID's API key](https://cloud.ibm.com/docs/iam?topic=iam-serviceidapikeys#serviceidapikeys) IBM Cloud APIs can be accessed only by users who are authorized by an assigned IAM role.",
+  "source": "@site/docs/cos/generating-an-iam-token.api.mdx",
+  "sourceDirName": "cos",
+  "slug": "/cos/generating-an-iam-token",
+  "permalink": "/cos/generating-an-iam-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "generating-an-iam-token",
+    "title": "Generating an IAM token",
+    "description": "Generate an IBM Cloud® Identity and Access Management (IAM) token by using either your [IAM API key](https://cloud.ibm.com/docs/iam?topic=iam-userapikey#userapikey) or a [service ID's API key](https://cloud.ibm.com/docs/iam?topic=iam-serviceidapikeys#serviceidapikeys) IBM Cloud APIs can be accessed only by users who are authorized by an assigned IAM role.",
+    "sidebar_label": "Generating an IAM token",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVkuP2zYQ/ivE5JAsID826YlAUXjTB/awSIAkh8JrFLQ0lhhLHC2HXK9r6C/1R/SXFUNqbW8StEVvBfZEUprnN88DBFMz6CUsYmjQBVuaYMnBqoAKufS2T08Nv6BDbwIq49T11Y1621Ks/vxDXVfCFfbKuEotyhKZ1Y1xpsYOXVCvrhc3FyrQFp1a71Vk62qFNjTo1Z6iV8vrxY1avL9WW9yvXjUh9Kxns1KkT+26m5bUzSoqeWZN90Og3pbfW9NNIqM3vd3i/sXpeqHIK6OWjP7elqiuf3zJ/0H2yG6rLJVffPnh4oSAiGdVGqfWqExyHytFrt1nd9Gz2jWkjEdlYmjI29+xkn/GKcNsa4eVEgw8tTi9dT+Zskl8ic2K7LYV0EKDyZcuclC9YValxwS+aVltyB8pAiVVYzRF6K37lWKysj4P4+Lm7yLzxEeBMKP7LXCnt+7jqFzoLCujevSdcZIDJztVaEx4RMtjFKzsRtSpitzLoFpiPPohou5NG1EUV9hiePrPuvQ0ZUnRhWSDZdV7SkkoRrRM6lyJRKHCe2ypF28lBH3fjjmfjXOIFQuEO/JbtbOhUZQwOcExIsDTDGsKSGR8gs3RyECqxpBU5eLIiAcSCCSMWMkDJey0SQ59U9Ot01o7CnjrFl/ISnAH7Hryxu+/ghsfeuuRldkE9OpSNRT99NYt0jMDeBetT3aIuJG+SIgl505JoxzuTh6U5IJ1EY85erKc/BEMqZAitYf9mIQ9+g35LpeJKQV8zramMmlb2uUaSXnYSsAEm2O5jN5LcKwT+sccEKC01lCAx7uIHK6o2oM+gFiKLsj1LOKzh8lut5uILZPoW3QlVVgJEZcNdkZuYd8jaKD1ZywDFNB76tEHiyx/a29c+C3THGk5eOtqKABd7KS3Ru+0XXe6N950rEmqUyfWibDo3FZgNRQwXr8SNgzZJ4mTiDxTfGRaFRBsaIVLuvnP5DsYnjIGH3EogLGM3oY96OUBZjPQy9WwEjruyXF27fV8LsfTKUDbZEmHoaEKNPTECRQTGtAws+MwmKUUAVHk79Fz0hN9CxoeuzC/mR481pbcME0deZIhnnAgb2qcmr6vqDPW5d9QwL3x1qzbbF7mldsRZRbIY8IDCog8YYqhyVc0yVCMk3qdzyohFye8F9mf+0mgrXzpeP4GCigbnF9CAc22nr8GcfkhvTvb5pNcOonzuzc+nfy5nH8np6H8xvF0dToDCV0arxsT2wBaDB8Gwf8xLB8k+7KbV2g8egnnWU4IhiIykYGGdSKCoYArw7b8J2qhSWG0bkOJcMyaXLrvUhzUhxwHwR095/BfTufTS9Ejce9Mgt+ZJHXcD8a2ehwt8MUecVaKzyvF80rxvFI8rxT/l5VibKcBH8Ksb4110gjTUDuMA3AJjwMwNXppf6sCGpmRegmHw9owfvLtMMjnu4heBvDqNNjSHC6gQVOhTzMz7QLwNrfMycc87lMCg/4Xm4wMleOsfv/uw0coYD2uRB1VIuSMujh/iCnD8BcHVeyi",
+    "sidebar_class_name": "post api-method",
+    "info_path": "cos/cloud-object-storage",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/cos/cloud-object-storage"
+  },
+  "next": {
+    "title": "List buckets",
+    "permalink": "/cos/list-buckets"
+  }
+}

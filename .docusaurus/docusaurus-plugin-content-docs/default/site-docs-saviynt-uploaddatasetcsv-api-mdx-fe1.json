@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/uploaddatasetcsv",
+  "title": "uploadDatasetCSV",
+  "description": "This API is used to upload the CSV file for a dataset.",
+  "source": "@site/docs/saviynt/uploaddatasetcsv.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/uploaddatasetcsv",
+  "permalink": "/saviynt/uploaddatasetcsv",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "uploaddatasetcsv",
+    "title": "uploadDatasetCSV",
+    "description": "This API is used to upload the CSV file for a dataset.",
+    "sidebar_label": "uploadDatasetCSV",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlVtty2zYQ/RXMPtkeUpLlOz1+cBgndVtfxlLczDiaCiSWJmISYIClalXDf+8ApGM5vkR5rp4gAHv27GL3LBdA/NZCdAPvOXGLBJMABNrUyIqkVhDBOJeWHV+eMmlZbVEw0qyuCs0FoxxZPLpmmSyQZdowzkQL0/uivqhxjmx6XFOujfyXO7gpK2tLLOczZJxN3yE3aKYs00Wh/0HBkrnbHus7VFMPccaV4KTNnFXc8BIJjY3cwbRzdM2LGp3/6fKu4mW7sbFxrgk3NiLmyTwzavkkPoweBKArNJ7pqYAI2jA7o9TOIACD32q09E6LOUQLSLUiVOSWZV2QrLihfqZNGTort23THEu/onmFEIFOvmJKEEBlnDeSaN3pj9SWLCwZqW4hALznZeWOYG2tl9rZ+jo0ASzF/LbRn5zQ0t8xN9D4nwvHVlrZlsJwMPBMnjx/m4OuOuLRNQSQIxdovEmslcK0vfpCrC+QuEOsQl7IGYIj8J4Trmr6F4qADfbZ77Viw8FwyAa70dZmtLXPPp6NPdoIKYy1vpMrY8bx6OpDOL744+T8KOFpsruVbIVbmcBwe29vPzxINpNwfxf3+cH29sFQ7ByyS075Ub91R0amFI4NV7bShsIRprWRNF/Ve8nvQ36LR5s7e8Pt/cHgkEmVFrXAUZ281yWXynpH3kOGJjxRqRYOZUUHaV6rOxQe5JqblYkdpylaG8ZakdFFeNVWffhb9/IO7rM/RUXheF5heOELxq7qQGmrZJZ1SB9cb/8qxOj47OTi6vTj6XmH8nk0Ci+Npl8ryM1DVmqBR0mh0zvwXbHU1byqCpl6Seh/ta+gvtLSaIw2sRbLbanqMkGzTGCzCaC0t2+T/KTwvsKUUDCPynSa1sb4l22+X/RenzVstICZU5UfKG12bt/GbmXiUXwhullAKzVQccohAKke104epTONyNQYvPoATTMJoETKtdPZSlufPYcRQf8FybFoZg/ea1NABDlRZaN+f0GouKKmZ/lMzhWlha5FL9Vl/yQ+6/NK9mc7EMCMG8mTLkWtyXOt6/bdBMx4XRBE35+g8Yxt198jF1aLlXArUzfkloJ03KAL3v33d5xUJ37g/ey2v+RrWqpM+5uS2pJvY2QnitBURlpkpwIVSZqz2AXuB/UVZmhQpQgvzvJYF0XbIqwyeiYFWj/JBRKXhWU6839tXTlNQ8Had7J+wruTn7NYOzmN113W0djW805v0Bu4FLi3Lrnvo66MXnjuJ6yXpuz/62Okqw/Ce+pXBZfK5c9X/6LrlZvnyZsEkLt2im5gsUi4xU+maBq3/a1GNwBuJo/d4PtJSOvWAqKMFxbfyP7aVdfe6+w1et0mV3PfdF52AAK4w/mDSjST5uEbwvtvj5aHyZLpS19VTfBg5MZURUvXn8n1E525vBiNIYCk+3grvQ6CA/a4weMyupk0TfMfClzV+Q==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "deleteDataset",
+    "permalink": "/saviynt/deletedataset"
+  },
+  "next": {
+    "title": "updateDataset",
+    "permalink": "/saviynt/updatedataset"
+  }
+}

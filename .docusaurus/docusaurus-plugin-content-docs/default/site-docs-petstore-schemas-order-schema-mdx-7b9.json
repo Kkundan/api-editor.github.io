@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/order",
+  "title": "Order",
+  "description": "",
+  "source": "@site/docs/petstore/schemas/order.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/order",
+  "permalink": "/petstore/schemas/order",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "order",
+    "title": "Order",
+    "description": "",
+    "sidebar_label": "Order",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Id",
+    "permalink": "/petstore/schemas/id"
+  },
+  "next": {
+    "title": "Pet",
+    "permalink": "/petstore/schemas/pet"
+  }
+}

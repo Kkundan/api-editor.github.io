@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-security-system",
+  "title": "Delete Security System",
+  "description": "This API deletes Security System in SSM.",
+  "source": "@site/docs/saviynt/delete-security-system.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-security-system",
+  "permalink": "/saviynt/delete-security-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-security-system",
+    "title": "Delete Security System",
+    "description": "This API deletes Security System in SSM.",
+    "sidebar_label": "Delete Security System",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlV99v2zgM/lcEPm2A3ThZuyYe+tCl2RDcZe01OWBAWyCyxcRabMmT5LRe4P/9INlp0i1p02Fvl5dYP/iRIiny0woMnWsIb2CMcaG4Kcm41AYzDXceMNSx4rnhUkAIk4Rrcn41JAxTNKjJTyKECzIej45uxa2YJEim54VJpOI/qAWYkqzQhiR0iWT6EalCNSUzmabyHhmJSjKdyAWKqRMfUcGokaokOVU006GdnBY5owYLjWrqxtqp/adAVU6JVKSZWGA5JW+GMxJJkxCqkORUa2TEJCjI4x5yz9OUREhiKTRnqJC9BQ9kjsoZPGQQQn3U9UHrc4IHCr8XqM1HyUoIVxBLYVAY+0nzPOWxA2h909ZvK9Bxghm1X6bMEUKQ0TeMDXiQK6vOcNRu39q0ra1UKVqCB9zFZDOvjeJiDh7gA83y1E71oNoa3kAPPGgHcFd5sPHc8xCUZVxAVW2AnM4L54Wf421XljQt8CfbN5qfKt6gVx4YfDCtPKXceehVysBBVDYKOpdC12KdILB/T1N2D5YHCVKGygmexzFq7felMEqm/rnNSL+vkKEwnKZ6ZwR3+M6oAsGatRPwUvE5350NO7ASY3IdtloMl76OVZH5hUn99pGmS14KE6eyYEexzJy+Po0TXKs7VEMutfHjBOPFWeCRXOF6UENKITCunXgY3gIx92nKl7UPLqjBQ0VHUnik0yWfMCKdoNMhwfvwuBO+e08+jyYObfCQc4UHR2JcCI+ckhEtSbvXOyHtThgEYRA84l0pOq9BDoET0o+ti53oNc5QKVT+lUx5XB6KIevwW4QxGr8v5YIf7KB+f3z9yZ9c/jX4ctbF7ruTXoR+EBx3/eNe59ins17Xf09PO136bhZEneADuaImOWvV6ozisfEnigqdS2X89WU4VHtGH3w6x7P2yWnnuBsEHwgXcVowHBfRhcwoF9opchpmqPyBiCWzKAcqiJNCLJA5kK8uj1EYf1Lm6F+6i3xw4IXUgs9mDdInRbNXQ4zPR4PL6+Hn4ZcG5et47F8paV53HdofSCYZnkWpjBd1Qf1DTQKVkiqWDJ83ILDNINPz53fpwtUqu1c3aaGb9v9yC9pjYO8FBz/R03AJZi1oB78nWT1pe86A/VpWTs3e9bvf6X1bIYEAGrc/+naHa/+AkXUHdOwIjetkNysQNHO1nZrExktsvi1h4QoZhLZNeXtzuKruPMjQJHLDfmyELUoIrT10SKNarm0oVLrVwFYGBRWm+qVztQb9UYvmvLU8AQ+WVHEaNR6vRX5t5s28paUzWqQGwsewV87utZ/H9nA1VkQ1jy0P3TqqtQ0aF9ix22MTMHKs9KXdbpMrDvbqXm+Y4GCdg69iQzZOM+kUclPnee0qMhAGVa64RjJ0ZMSUpG/950i4a0QoYoSdPL0v07QuWSRXcskZast/CUNDeaqJnLmhLnLbFJCROuiazKRyKy9b8WYw7FvGbENfaz45Co5c4bHsIqOurjU5uZeJPbF9i0r/T54bTZZt0WFL15XjcfWtu9n9CLnzIJHa2PXVKqIa/1VpVdnp79ZCCG/uNvfK3UzGtf1mEM5oqvEZ17+5bsrFW7LPxHVvEKW7vg0x98DlfG15ZV8eNdF2+uul7f6+JfpLS7RVsJawfDo3z+7dLloXg78HkwF4EDWvs6yuzIre20JI7yGEW7gF99Z75AZufgUpFfOCzu3+Gtn+/gPzIjpr",
+    "sidebar_class_name": "delete api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get List of Security Systems",
+    "permalink": "/saviynt/get-list-of-security-systems"
+  },
+  "next": {
+    "title": "User Groups",
+    "permalink": "/saviynt/user-groups"
+  }
+}

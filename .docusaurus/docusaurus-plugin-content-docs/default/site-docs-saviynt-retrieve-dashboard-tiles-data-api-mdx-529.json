@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/retrieve-dashboard-tiles-data",
+  "title": "Retrieve Dashboard Tiles Data",
+  "description": "This API call can be used to fetch details like number of open userrequests, number of attestations, number of delegates, and number of pending approvals for a specific user.",
+  "source": "@site/docs/saviynt/retrieve-dashboard-tiles-data.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/retrieve-dashboard-tiles-data",
+  "permalink": "/saviynt/retrieve-dashboard-tiles-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "retrieve-dashboard-tiles-data",
+    "title": "Retrieve Dashboard Tiles Data",
+    "description": "This API call can be used to fetch details like number of open userrequests, number of attestations, number of delegates, and number of pending approvals for a specific user.",
+    "sidebar_label": "Retrieve Dashboard Tiles Data",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVttu2zgQ/RVinlpAvshxa0eLPqROWgSLXJB4gQXcAKbEkcWGIlmScus19O8LUnKiXBr7YR/XgGGaHJ65H84WHF1ZSBYQx/0hOaW2SBU1DO4iYGgzw7XjSkIC84JbcnJ9TjIqBMmoJCmSyiIjTpEcXVYQho5yYYng90hkVaZoiMqJ0ii9pDH4o0LrbNQ5pM6hddQrebLPUOCKOrQRoZJ1DjRKxuWKUK2NWlNhSa4MocRqzHjOs6CpT76Zb9J/5wWS5UnlCmX4P0HNkpSVdaSgayTLz0gNmiXJlRDqJzKSbshyru5RLh8xLqhk1CmzIZoaWtrEby69nkta4hIiUBpNAD9nkIBBZziu8SGacy7QnlJHIYI2CJ8V20CyhUxJh9L5ZVkJxzU1bpArU/aYl0+2YLMCy7ByG42QgEq/Y+YgAm28XsfR+tOdPR1J6wyXK4gAf9FSC79FWckl1OHjjbFaSdsAjIZD//M07Rcq5QI7hRFBgZShCVdOqcNXbXxF8xfDIxJPyEm1IqNhPCXxNBl9TIbH5OvFHLw1t2jWaA7FO9E0K7A3UxvlcBD34xbD9WZK3fOD7ZrNbm++9OZXf55dfmIfaTydHE960+PpuDdOx3FvOkwnPXY8jkfHccwYwz/INXXFp0FQNzdU2hxN70xmytfloVqzopL3yALI370vhpbYuwpBt4dC3J5cnF3dnH89v4SQzE4pUa0Fz0JFDr5bn8jD66jbkfulnXJUZKpq9LayTbd2jY3H02DjQ1v/d8iTAIzGKDNTbE/5D6GOoLSrt6VslWVobV4JL94yzo699lte8FWx3/DRZFRHINTP/aLjI281Ml6VB+B62AODd3TURK/Lzvv984TeSh+gIiQopKjZChAvaCXZwpqKCl+twI4zvpCel1H3ePK0FmAIbb67SX01p52sjSajbmbGR8+iPxo9jbAP48sgvgzTLhYhHOEtQReYdLEFGagbNHUFRMDl49pjcIMMEmcqjH7LDXV95+10hfKPkFY2ZM5jJDAoQ8C7NG4D2zbKKyMggcI5bZPBYOtQUunqvqVrvpEuE6pi/UyVg7PZxYBqPlh/gAjW1HCatgltrrx8P9p9n7KcVsJB8lAadTDYYlYZ7ja33qsGK6WWZ/7N7vjobYPWd/8/yPjuTMMLvk86CAWy5TJXQZK7hkUbH8mZdGi04RbJOUPpuNuQmXc8DD03mKNBmSG8OhfNlBCY+R3ipxLO0BJX4MNEpPLw11ZaK+OQkSZNzeziT/Zb8e7sfPbeRx2NbTR/6A/7gc98qksaSL6topt2AnlsMBJmENIOIU9c6Awh/095b015bXE5/OUGWlA/R0VN62zbPlvA8z67i6DwnZgsYLtNqcW/jKhrv/2jQrOBZHH32EmhFxm3fs0gyamw+Eay3t20zPCe/M66dpPKTWjYQLAAEdzjZkcw9V29m+mC/uZo1mjpzT3A49XXZtQ62l06yTLUriP+Yg55QlHXV7dziCBtR+GyYWwPzJoyfVgmi7u6rv8FQtxkYA==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "11.0 Dashboard",
+    "permalink": "/saviynt/11-0-dashboard"
+  },
+  "next": {
+    "title": "Retrieve Dashboard Account Data",
+    "permalink": "/saviynt/retrieve-dashboard-account-data"
+  }
+}

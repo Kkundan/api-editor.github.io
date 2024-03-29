@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/assign-account-to-user",
+  "title": "Assign Account to User",
+  "description": "This method provisions an 'Account' to a 'User' in SSM.  The 'Account' corresponds to a particular IT Application (e.g Microsoft Active Directory) which is modeled in SSM as 'Endpoint' of a 'Security System'.",
+  "source": "@site/docs/saviynt/assign-account-to-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/assign-account-to-user",
+  "permalink": "/saviynt/assign-account-to-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assign-account-to-user",
+    "title": "Assign Account to User",
+    "description": "This method provisions an 'Account' to a 'User' in SSM.  The 'Account' corresponds to a particular IT Application (e.g Microsoft Active Directory) which is modeled in SSM as 'Endpoint' of a 'Security System'.",
+    "sidebar_label": "Assign Account to User",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVk1v2zgQ/SvEnFpAsp2m3qZa9OC6bmEskhSRgy4QBzBNji02EqmSlFOvof++GEpK7DZpgj3sqSfT1MybNx+cmR14vnaQXMFICFNp7+A6AolOWFV6ZTQkMMuUYwX6zEhWWrNRThntGNds3mnNgXnDOJvDpUM7B6Y0S9PTHmOzDA/EhLEWXWm0dI1Kya1Xosq5ZdMZG5VlrgQny+wF9tbsVAlrnFl5NhJebZB9UBaFN3b7kt1mSmSMyBmJOcrWKuOOzWGiZWlUsGlWgVqKorLKb1m6dR6LOfTYXM/1KdeSEyBR4YVL6HLhWmEXZBcsZme8QILyGbIfoNjK2HBvMccN1/5HVw4J9oIFbAkuDqE73nuRUnpNsXrAcIPEm+hqXiARbYPN6P8ds7vEoWStfKNcObSd5mV77rjQN7J8m5kiXLSaLOMhe8sD3IBH+V6MKp8Zq/4Jzi9YUTlS2SBbvEdu0S7YyuS5uUXJllu2mJkb1IseRGBKtEFpKiEB7pxa69admSF2EIHFbxU6/97ILSQ7EEZ71J6O/D7i/e/x7e1tvDK2iCuboxZGoiQhJzIsOJ38tkRIwCy/ovAQQWnJvFfoAth9UPeEnbdKryEC/M6LMqerrybTX1KoI+gy+mv5JnNHpHBYZM9W61L2NC9pEOq6vrsOno1CWO/KxJuQd/qy4XmFPznfebjv4B2dn53Y+3RPdJ9NINSUtmsYvRoM6Oew7TxCM4IMuUQbFD9wjw8m9YF4fEEZscEJG1Vr9mpwdMIGg+T4JHl9zD6dzoA4pWg3TSCegzcqucgwHput8dg/6h21GD4eG3Ojns1rPE4vPsaz878mZ+/Eq9dv5Jvh2/h4JQfx6zfDQbwcvj2OV8shojg5En8MB3+yz9xn7/rB3Mxy7VZo4wlVOEE/06rIKn2DMoD8HX+0vMD4PITePRciHZ1Ozi+mn6ZnTY098hK/Okrn8x8eWmvs2MgnyntAL6FA5/j6Ccn0cjyepOl/egh7ZGAAewb3UZuKDtMDfajMqx20dV9yn0EESt+fqYEpS93I2wqjR2Nd19dkkOYuKRsXYkUYCfQf7o0uVHBDoLI5JJB5X7qk39951Fz7uuf4Rm21F7mpZE+Yoj8Zn/Z5qfqbIUSw4VbxZRufRuXnl9ne056w4lVO7aCLdh1Idy0hJc8arCV3StBc2POTuEHrP/0PMpTWZZgST0kHoVDASq9MkFS+yXjjI5toj7a0yiGbStSeBueYHGejz1N2gSu0qAXCgxvP2OQ5ijC+w5CT6MIMlOi5yl03I11VlsZ6lO2K5O5G7tMsXkym45cUdbSusTzsDXqhsindBQ8Pp62kR/vhAfe9gfh7cfu9uP1fi1v7Rj1+9/0y50qHPYU60K5tWVcPrnPXEWTU2JIr2O2W3OGlzeuarr9VaLeQXF3fN6XQ1qRydJaQrHju8Bfl/+KibbQv2WMM20uut6H3haYPEMENbrt+XV/X3coR7Defxo2VeEYA96pPb6B11EGMhMDSP6IchuZB//98ns4ggmW79hbNTNpDjvb/JFfXdV3/C34Y0iI=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update Account",
+    "permalink": "/saviynt/update-account"
+  },
+  "next": {
+    "title": "Assign Entitlement to Account",
+    "permalink": "/saviynt/assign-entitlement-to-account"
+  }
+}

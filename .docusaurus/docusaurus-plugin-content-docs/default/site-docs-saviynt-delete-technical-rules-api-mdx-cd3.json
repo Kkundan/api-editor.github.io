@@ -1,0 +1,31 @@
+{
+  "id": "saviynt/delete-technical-rules",
+  "title": "Delete Technical Rules",
+  "description": "Starting with Release v23.11, you can use the REST API to delete an inactive technical rules from the target system by specifying the `ruleId` parameter.",
+  "source": "@site/docs/saviynt/delete-technical-rules.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-technical-rules",
+  "permalink": "/saviynt/delete-technical-rules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-technical-rules",
+    "title": "Delete Technical Rules",
+    "description": "Starting with Release v23.11, you can use the REST API to delete an inactive technical rules from the target system by specifying the `ruleId` parameter.",
+    "sidebar_label": "Delete Technical Rules",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV21v2zYQ/isHfklbSLacIAsqLwMyxxs8NE0Qe0CHJGho6mRxpkiVpJxohv/7QEpybNdBnc/bJ1vHu+deeDw+XBJLZ4bEd6R32ongRgnOOBryEJAEDdO8sFxJEpOxpdpyOYMnbjO4RYHUICyOTzq9XgCVKoFRCaVBsBnC7XA8gYubEVgFCQq0CFQCl5RZvkCwyDLJGRWgS4EGUq1yb2epnqEFUxmLOUwrMAUynlbOsVt/dPqj5BEKqmmOFnXnXt7LDx8+K4vxhw/uI4S/mmiUFNUB7jsbNlLZ1mI3SJ7GDh4AIKyTLAUCN1CjdrYXR5eQKDTgAPGZG7uzXhrU8JQpKFCnStfpN54LrRga47CdOYXb60/DrxeXV6PPHuVeTlwtLkqbKc3/oW6LHiEvjYWMLhAef0WqUT9CqoRQT5i4Sj5O1Bzlowe4ojKhVumqrqPPqy0tCYgqUHvQUUJiUgc1aavhsjYkIOsdcN2zJJLmSGLCExIQ7hrmW4m6IgExLMOcknhJbFU4FWM1lzMSEHymeSGcqNc7I6tVsEYpqM1anOa/xm8l15iQ2OoSX4ddrR6csimUNGjc+nEUuZ/tdr6sK73OCtq0MqSJz2lJLpjbhXCgpNVKhBeuluFAY4LSciq8ziHZuYBdevsBrzWfuUQPw8qsLUzc7X7DEDmzupTzkD6ZjqELXknLhCqTDlO59zegLMPW3aEeCmVsyDJk8/MogEJj+1FDKimR1UU8DG+OWIRU8AW2ABalDcfISs1tFfqRUx2KNqUGw1JzODIo0iPog7GVwNBo1oqgrVGqpDWdmVIzgbTgxtUFjkppaIohl4JLPOpD3RV7AYwRjXlIJRWV5awGaRWenp4aBSfuamS0sCyj3W0NY6nlbFdlJ5L1Ny6oOOqDmv6NbCuuPuSYcLojopKnaHYUgeezTckPM+pD6o7zPpudJKEPrG6CbZeu2vvM9+7CfuwtcSmL+WxL2iC9VNN71XlIfUM2jttMqGRorNJmLU8wpaXYDNJ35CW1eGj7TUoMoHcG18zCcXR8Ar1efBLF0TH8fjXxaMPngms8eDaMSxnAGVzRCnofP55C7ziOojiK1ng3qHNuDFfSvPGofNfYfWA0R03hSCqJdfI3ms5qoEMgpQqZmyne9BZT1Br1G8NS9bxzCGO04UCpOT+4/u7W/OouifN7ck/60FT7fJKVAUS98A8qw97Hswh8EeOer2MfbqjNzru1T6s5s+FEU2kKpV8G0aEh5PQ5pDM8P+mdnvwURVEfuGSiTHBcTi9VTrk03pH3kKIOh5KpxKEc6IBlpZxj4kG+hO28nFQFhtf++jq4uaQykqdpg/SbPxZvhBhfXA2vb0e/jz43KF/G4/BGK/u2S6DXh1wleD4Vis3JykGxOjFvh8+2WwhaX4ONlQ/xlWs6XpIFFaVD9iSspigJjEt/w6alEJXz4h2Z9QbfLcnUMyPHnEh89+C4Qo42Uy88xzMbt0q6nvZ11zTQcRnUi5bwlFps3MdLi5JKu/ruIu4OB1ddWvDu4pQEZEE1p9Mmhdrke27SyB0D9wOLxOtKrjy9aTMau8rXWFNqOKvTWu+Di60lYM3dyRlZBVtFeF3bK/ld5zJVXpPbuinqHGEoLepCc4Mw8qTIVjBwiXvq7+cDSoZk9y0xybiBgRKibiLHdxc8QdNwYEu5MKBS/2nKwh1TTKDeKONGvl/5cRTvhqPBe1d11Kb2fNqJOpErgWM5OfX91nDOVxnhVuzLl779/0n0H3oSNYdkY1KtgnoELJt5cUd00zAvE+MhIJky1i0ul466/qnFauXE9evIzZGEGzcREhKnVBgMyByr9iHVDjniTn07O/Zbvdql726bl9N7eC2PRkhltemzjcSnt3pYtW8j779ecg+awm4YbeJuztbL4afhZEgCQreHTjNk2pHkofdG83O9f+B37Jd1bNZ9uuBWq38B/4LBSA==",
+    "sidebar_class_name": "delete api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Technical Rules",
+    "permalink": "/saviynt/create-technical-rules"
+  }
+}

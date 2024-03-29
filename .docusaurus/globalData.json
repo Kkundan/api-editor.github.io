@@ -1,0 +1,1751 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "GTM-THVM29S"
+      ],
+      "anonymizeIP": false,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "cos/cloud-object-storage",
+              "path": "/cos/cloud-object-storage",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "cos/create-a-bucket",
+              "path": "/cos/create-a-bucket",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "cos/generating-an-iam-token",
+              "path": "/cos/generating-an-iam-token",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "cos/list-buckets",
+              "path": "/cos/list-buckets",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "cos/retrieve-a-buckets-headers",
+              "path": "/cos/retrieve-a-buckets-headers",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "customization/languagetabs",
+              "path": "/customization/languagetabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "customization/styling",
+              "path": "/customization/styling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "food/burgers/burger-example",
+              "path": "/food/burgers/burger-example",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "food/burgers/list-all-burgers",
+              "path": "/food/burgers/list-all-burgers",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "food/yogurtstore/frozen-yogurt-example",
+              "path": "/food/yogurtstore/frozen-yogurt-example",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "food/yogurtstore/list-all-flavors",
+              "path": "/food/yogurtstore/list-all-flavors",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/add-pet",
+              "path": "/petstore_versioned/1.0.0/add-pet",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/create-user",
+              "path": "/petstore_versioned/1.0.0/create-user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/create-users-with-array-input",
+              "path": "/petstore_versioned/1.0.0/create-users-with-array-input",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/create-users-with-list-input",
+              "path": "/petstore_versioned/1.0.0/create-users-with-list-input",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/delete-order",
+              "path": "/petstore_versioned/1.0.0/delete-order",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/delete-pet",
+              "path": "/petstore_versioned/1.0.0/delete-pet",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/delete-user",
+              "path": "/petstore_versioned/1.0.0/delete-user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/find-pets-by-status",
+              "path": "/petstore_versioned/1.0.0/find-pets-by-status",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/find-pets-by-tags",
+              "path": "/petstore_versioned/1.0.0/find-pets-by-tags",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/get-inventory",
+              "path": "/petstore_versioned/1.0.0/get-inventory",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/get-order-by-id",
+              "path": "/petstore_versioned/1.0.0/get-order-by-id",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/get-pet-by-id",
+              "path": "/petstore_versioned/1.0.0/get-pet-by-id",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/get-user-by-name",
+              "path": "/petstore_versioned/1.0.0/get-user-by-name",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/login-user",
+              "path": "/petstore_versioned/1.0.0/login-user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/logout-user",
+              "path": "/petstore_versioned/1.0.0/logout-user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/new-pet",
+              "path": "/petstore_versioned/1.0.0/new-pet",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/pet",
+              "path": "/petstore_versioned/1.0.0/pet",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/place-order",
+              "path": "/petstore_versioned/1.0.0/place-order",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/store",
+              "path": "/petstore_versioned/1.0.0/store",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/subscribe-to-the-store-events",
+              "path": "/petstore_versioned/1.0.0/subscribe-to-the-store-events",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/swagger-petstore-yaml",
+              "path": "/petstore_versioned/1.0.0/swagger-petstore-yaml",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/update-pet",
+              "path": "/petstore_versioned/1.0.0/update-pet",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/update-pet-with-form",
+              "path": "/petstore_versioned/1.0.0/update-pet-with-form",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/update-user",
+              "path": "/petstore_versioned/1.0.0/update-user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/upload-file",
+              "path": "/petstore_versioned/1.0.0/upload-file",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/1.0.0/user",
+              "path": "/petstore_versioned/1.0.0/user",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "petstore_versioned/add-pet",
+              "path": "/petstore_versioned/add-pet",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/create-user",
+              "path": "/petstore_versioned/create-user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/create-users-with-array-input",
+              "path": "/petstore_versioned/create-users-with-array-input",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/create-users-with-list-input",
+              "path": "/petstore_versioned/create-users-with-list-input",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/delete-order",
+              "path": "/petstore_versioned/delete-order",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/delete-pet",
+              "path": "/petstore_versioned/delete-pet",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/delete-user",
+              "path": "/petstore_versioned/delete-user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/find-pets-by-status",
+              "path": "/petstore_versioned/find-pets-by-status",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/find-pets-by-tags",
+              "path": "/petstore_versioned/find-pets-by-tags",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/get-inventory",
+              "path": "/petstore_versioned/get-inventory",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/get-order-by-id",
+              "path": "/petstore_versioned/get-order-by-id",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/get-pet-by-id",
+              "path": "/petstore_versioned/get-pet-by-id",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/get-user-by-name",
+              "path": "/petstore_versioned/get-user-by-name",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/login-user",
+              "path": "/petstore_versioned/login-user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/logout-user",
+              "path": "/petstore_versioned/logout-user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/new-pet",
+              "path": "/petstore_versioned/new-pet",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/pet",
+              "path": "/petstore_versioned/pet",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/place-order",
+              "path": "/petstore_versioned/place-order",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/store",
+              "path": "/petstore_versioned/store",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/subscribe-to-the-store-events",
+              "path": "/petstore_versioned/subscribe-to-the-store-events",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/swagger-petstore-yaml",
+              "path": "/petstore_versioned/swagger-petstore-yaml",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/update-pet",
+              "path": "/petstore_versioned/update-pet",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/update-pet-with-form",
+              "path": "/petstore_versioned/update-pet-with-form",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/update-user",
+              "path": "/petstore_versioned/update-user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/upload-file",
+              "path": "/petstore_versioned/upload-file",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore_versioned/user",
+              "path": "/petstore_versioned/user",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "petstore/add-pet",
+              "path": "/petstore/add-pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/create-user",
+              "path": "/petstore/create-user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/create-users-with-array-input",
+              "path": "/petstore/create-users-with-array-input",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/create-users-with-list-input",
+              "path": "/petstore/create-users-with-list-input",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/delete-order",
+              "path": "/petstore/delete-order",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/delete-pet",
+              "path": "/petstore/delete-pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/delete-user",
+              "path": "/petstore/delete-user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/find-pets-by-status",
+              "path": "/petstore/find-pets-by-status",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/find-pets-by-tags",
+              "path": "/petstore/find-pets-by-tags",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/get-inventory",
+              "path": "/petstore/get-inventory",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/get-order-by-id",
+              "path": "/petstore/get-order-by-id",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/get-pet-by-id",
+              "path": "/petstore/get-pet-by-id",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/get-user-by-name",
+              "path": "/petstore/get-user-by-name",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/login-user",
+              "path": "/petstore/login-user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/logout-user",
+              "path": "/petstore/logout-user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/new-pet",
+              "path": "/petstore/new-pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/pet",
+              "path": "/petstore/pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/place-order",
+              "path": "/petstore/place-order",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/apiresponse",
+              "path": "/petstore/schemas/apiresponse",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/cat",
+              "path": "/petstore/schemas/cat",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/category",
+              "path": "/petstore/schemas/category",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/dog",
+              "path": "/petstore/schemas/dog",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/honeybee",
+              "path": "/petstore/schemas/honeybee",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/id",
+              "path": "/petstore/schemas/id",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/order",
+              "path": "/petstore/schemas/order",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/pet",
+              "path": "/petstore/schemas/pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/tag",
+              "path": "/petstore/schemas/tag",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/schemas/user",
+              "path": "/petstore/schemas/user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/store",
+              "path": "/petstore/store",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/subscribe-to-the-store-events",
+              "path": "/petstore/subscribe-to-the-store-events",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/swagger-petstore-yaml",
+              "path": "/petstore/swagger-petstore-yaml",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/update-pet",
+              "path": "/petstore/update-pet",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/update-pet-with-form",
+              "path": "/petstore/update-pet-with-form",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/update-user",
+              "path": "/petstore/update-user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/upload-file",
+              "path": "/petstore/upload-file",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "petstore/user",
+              "path": "/petstore/user",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "restaurant/get-menu",
+              "path": "/restaurant/get-menu",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "restaurant/list-all-drinks",
+              "path": "/restaurant/list-all-drinks",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "restaurant/list-all-products",
+              "path": "/restaurant/list-all-products",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "restaurant/make-payment",
+              "path": "/restaurant/make-payment",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "restaurant/restaurant-example",
+              "path": "/restaurant/restaurant-example",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "saviynt/1-0-authentication",
+              "path": "/saviynt/1-0-authentication",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/10-0-common-utilities",
+              "path": "/saviynt/10-0-common-utilities",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/11-0-dashboard",
+              "path": "/saviynt/11-0-dashboard",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/13-0-paa",
+              "path": "/saviynt/13-0-paa",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/14-0-transport",
+              "path": "/saviynt/14-0-transport",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/15-0-policies",
+              "path": "/saviynt/15-0-policies",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/3-0-analytics",
+              "path": "/saviynt/3-0-analytics",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/4-0-access-request",
+              "path": "/saviynt/4-0-access-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/5-0-delegated-administration",
+              "path": "/saviynt/5-0-delegated-administration",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/6-0-attestations",
+              "path": "/saviynt/6-0-attestations",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/7-0-campaigns",
+              "path": "/saviynt/7-0-campaigns",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/8-0-segregation-of-duties",
+              "path": "/saviynt/8-0-segregation-of-duties",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/9-0-password-reset",
+              "path": "/saviynt/9-0-password-reset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/accounts",
+              "path": "/saviynt/accounts",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/add-approver-to-existing-request",
+              "path": "/saviynt/add-approver-to-existing-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/add-mitigating-control-risk-account",
+              "path": "/saviynt/add-mitigating-control-risk-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/add-remove-user-from-sav-role",
+              "path": "/saviynt/add-remove-user-from-sav-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/add-remove-user-from-usergroup",
+              "path": "/saviynt/add-remove-user-from-usergroup",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/add-role",
+              "path": "/saviynt/add-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/application-owner",
+              "path": "/saviynt/application-owner",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-account-entitlement-details",
+              "path": "/saviynt/approve-reject-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-account-entitlement-details-1",
+              "path": "/saviynt/approve-reject-account-entitlement-details-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-attestation-account-details",
+              "path": "/saviynt/approve-reject-attestation-account-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-campaign-account-entitlement-details",
+              "path": "/saviynt/approve-reject-campaign-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-each-line-item-in-a-request",
+              "path": "/saviynt/approve-reject-each-line-item-in-a-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/approve-reject-entire-request",
+              "path": "/saviynt/approve-reject-entire-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/assign-account-to-user",
+              "path": "/saviynt/assign-account-to-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/assign-entitlement-to-account",
+              "path": "/saviynt/assign-entitlement-to-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/authenticate-user",
+              "path": "/saviynt/authenticate-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/bulk-upload-users",
+              "path": "/saviynt/bulk-upload-users",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/cancel-pending-request",
+              "path": "/saviynt/cancel-pending-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/certify-entitlement-owner-for-campaign",
+              "path": "/saviynt/certify-entitlement-owner-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/certify-user-manager-for-campaign",
+              "path": "/saviynt/certify-user-manager-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/certify-usermanager-requests",
+              "path": "/saviynt/certify-usermanager-requests",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/change-user-password",
+              "path": "/saviynt/change-user-password",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/check-import-status",
+              "path": "/saviynt/check-import-status",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/check-job-status",
+              "path": "/saviynt/check-job-status",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/check-task-status",
+              "path": "/saviynt/check-task-status",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/complete-single-task",
+              "path": "/saviynt/complete-single-task",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/connections",
+              "path": "/saviynt/connections",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/consult-appowner-account-entitlement-details",
+              "path": "/saviynt/consult-appowner-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/consult-campaign-account-entitlement-details",
+              "path": "/saviynt/consult-campaign-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/consult-entitlementowner-step-1-for-campaign",
+              "path": "/saviynt/consult-entitlementowner-step-1-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/consult-entitlementowner-step-2-for-campaign",
+              "path": "/saviynt/consult-entitlementowner-step-2-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/consult-usermanager-step-1-for-campaign",
+              "path": "/saviynt/consult-usermanager-step-1-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-account",
+              "path": "/saviynt/create-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-and-update-trigger",
+              "path": "/saviynt/create-and-update-trigger",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-auto-approved-request",
+              "path": "/saviynt/create-auto-approved-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-birthright-request",
+              "path": "/saviynt/create-birthright-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-delegate",
+              "path": "/saviynt/create-delegate",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-dynamic-attribute",
+              "path": "/saviynt/create-dynamic-attribute",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-endpoint",
+              "path": "/saviynt/create-endpoint",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-entitlement-type",
+              "path": "/saviynt/create-entitlement-type",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-organization",
+              "path": "/saviynt/create-organization",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-organization-request",
+              "path": "/saviynt/create-organization-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-password-policy",
+              "path": "/saviynt/create-password-policy",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-privilege",
+              "path": "/saviynt/create-privilege",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-request",
+              "path": "/saviynt/create-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-role-request",
+              "path": "/saviynt/create-role-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-security-questions",
+              "path": "/saviynt/create-security-questions",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-security-system",
+              "path": "/saviynt/create-security-system",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-task",
+              "path": "/saviynt/create-task",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-task-remove-entitlement",
+              "path": "/saviynt/create-task-remove-entitlement",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-technical-rules",
+              "path": "/saviynt/create-technical-rules",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-update-entitlement",
+              "path": "/saviynt/create-update-entitlement",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-update-usergroup",
+              "path": "/saviynt/create-update-usergroup",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-user",
+              "path": "/saviynt/create-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/create-user-request",
+              "path": "/saviynt/create-user-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/createdataset",
+              "path": "/saviynt/createdataset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/createtrigger",
+              "path": "/saviynt/createtrigger",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/dataset",
+              "path": "/saviynt/dataset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-connections",
+              "path": "/saviynt/delete-connections",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-delegate",
+              "path": "/saviynt/delete-delegate",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-dynamic-attribute",
+              "path": "/saviynt/delete-dynamic-attribute",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-entitlement-types",
+              "path": "/saviynt/delete-entitlement-types",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-organization",
+              "path": "/saviynt/delete-organization",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-privilege",
+              "path": "/saviynt/delete-privilege",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-security-system",
+              "path": "/saviynt/delete-security-system",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-technical-rules",
+              "path": "/saviynt/delete-technical-rules",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-trigger",
+              "path": "/saviynt/delete-trigger",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/delete-usergroup",
+              "path": "/saviynt/delete-usergroup",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/deletedataset",
+              "path": "/saviynt/deletedataset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/discontinue-all-pending-tasks",
+              "path": "/saviynt/discontinue-all-pending-tasks",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/discontinue-campaigns-and-certifications",
+              "path": "/saviynt/discontinue-campaigns-and-certifications",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/discontinue-tasks",
+              "path": "/saviynt/discontinue-tasks",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/edit-delegate",
+              "path": "/saviynt/edit-delegate",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/endpoints",
+              "path": "/saviynt/endpoints",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/entitlement-based-role",
+              "path": "/saviynt/entitlement-based-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/entitlement-owner",
+              "path": "/saviynt/entitlement-owner",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/entitlements",
+              "path": "/saviynt/entitlements",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/entitlements-1",
+              "path": "/saviynt/entitlements-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/export-account",
+              "path": "/saviynt/export-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/export-package",
+              "path": "/saviynt/export-package",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-account-entitlement-details",
+              "path": "/saviynt/fetch-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-account-entitlement-details-1",
+              "path": "/saviynt/fetch-account-entitlement-details-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-account-entitlement-details-2",
+              "path": "/saviynt/fetch-account-entitlement-details-2",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-analytics-details",
+              "path": "/saviynt/fetch-analytics-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-attestation-account-entitlement-details",
+              "path": "/saviynt/fetch-attestation-account-entitlement-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-attestation-details",
+              "path": "/saviynt/fetch-attestation-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-attestation-list",
+              "path": "/saviynt/fetch-attestation-list",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-campaign-details",
+              "path": "/saviynt/fetch-campaign-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-campaign-list",
+              "path": "/saviynt/fetch-campaign-list",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-certification-list",
+              "path": "/saviynt/fetch-certification-list",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-control-attributes",
+              "path": "/saviynt/fetch-control-attributes",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-control-details-es",
+              "path": "/saviynt/fetch-control-details-es",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-dynamic-attributes",
+              "path": "/saviynt/fetch-dynamic-attributes",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-entitlement-owner-campaign-details",
+              "path": "/saviynt/fetch-entitlement-owner-campaign-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-existing-delegates-list",
+              "path": "/saviynt/fetch-existing-delegates-list",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-flat-response-entitlement-owner-campaign-details",
+              "path": "/saviynt/fetch-flat-response-entitlement-owner-campaign-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-job-metadata",
+              "path": "/saviynt/fetch-job-metadata",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-list-of-analytics",
+              "path": "/saviynt/fetch-list-of-analytics",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-list-of-analytics-es",
+              "path": "/saviynt/fetch-list-of-analytics-es",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-request-access-attributes",
+              "path": "/saviynt/fetch-request-access-attributes",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-request-approval-details",
+              "path": "/saviynt/fetch-request-approval-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-request-history-details",
+              "path": "/saviynt/fetch-request-history-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-request-history-my-pending-requests",
+              "path": "/saviynt/fetch-request-history-my-pending-requests",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-runtime-controls-data",
+              "path": "/saviynt/fetch-runtime-controls-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-runtime-controls-data-v-2",
+              "path": "/saviynt/fetch-runtime-controls-data-v-2",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-security-questions",
+              "path": "/saviynt/fetch-security-questions",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-task-details",
+              "path": "/saviynt/fetch-task-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-technical-rules",
+              "path": "/saviynt/fetch-technical-rules",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/fetch-user-security-questions",
+              "path": "/saviynt/fetch-user-security-questions",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/file-directory",
+              "path": "/saviynt/file-directory",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/force-complete",
+              "path": "/saviynt/force-complete",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-access-details-for-user",
+              "path": "/saviynt/get-access-details-for-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-access-recommendations",
+              "path": "/saviynt/get-access-recommendations",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-account-details",
+              "path": "/saviynt/get-account-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-authorization-token",
+              "path": "/saviynt/get-authorization-token",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-child-entitlements",
+              "path": "/saviynt/get-child-entitlements",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-connections-details",
+              "path": "/saviynt/get-connections-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-delegate-user-list",
+              "path": "/saviynt/get-delegate-user-list",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-entitlement-values-for-endpoint",
+              "path": "/saviynt/get-entitlement-values-for-endpoint",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-entitlements",
+              "path": "/saviynt/get-entitlements",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-firefighter-role-details",
+              "path": "/saviynt/get-firefighter-role-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-flat-response-entitlement-details-for-user",
+              "path": "/saviynt/get-flat-response-entitlement-details-for-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-flat-response-role-details-for-user",
+              "path": "/saviynt/get-flat-response-role-details-for-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-connections",
+              "path": "/saviynt/get-list-of-connections",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-endpoints",
+              "path": "/saviynt/get-list-of-endpoints",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-entitlement-types",
+              "path": "/saviynt/get-list-of-entitlement-types",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-pending-requests-for-approver",
+              "path": "/saviynt/get-list-of-pending-requests-for-approver",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-privileges-for-entitlement-type",
+              "path": "/saviynt/get-list-of-privileges-for-entitlement-type",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-security-systems",
+              "path": "/saviynt/get-list-of-security-systems",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-usergroups",
+              "path": "/saviynt/get-list-of-usergroups",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-list-of-users",
+              "path": "/saviynt/get-list-of-users",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-organization",
+              "path": "/saviynt/get-organization",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-pending-approvals",
+              "path": "/saviynt/get-pending-approvals",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-requestable-users",
+              "path": "/saviynt/get-requestable-users",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-role-details-for-user",
+              "path": "/saviynt/get-role-details-for-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-savroles",
+              "path": "/saviynt/get-savroles",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-user-details",
+              "path": "/saviynt/get-user-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/get-user-requestable-entitlements",
+              "path": "/saviynt/get-user-requestable-entitlements",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/getdatasetvalues",
+              "path": "/saviynt/getdatasetvalues",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/import-application-data",
+              "path": "/saviynt/import-application-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/import-package",
+              "path": "/saviynt/import-package",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/job-control",
+              "path": "/saviynt/job-control",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/lock-attestation",
+              "path": "/saviynt/lock-attestation",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/lock-campaign",
+              "path": "/saviynt/lock-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/lock-campaign-1",
+              "path": "/saviynt/lock-campaign-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/lock-campaign-2",
+              "path": "/saviynt/lock-campaign-2",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/organization",
+              "path": "/saviynt/organization",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/organization-1",
+              "path": "/saviynt/organization-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/password-policy",
+              "path": "/saviynt/password-policy",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/privileges",
+              "path": "/saviynt/privileges",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-application-owner-for-campaign",
+              "path": "/saviynt/reassign-application-owner-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-certification",
+              "path": "/saviynt/reassign-certification",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-certification-at-account-and-entitlement-level-copy",
+              "path": "/saviynt/reassign-certification-at-account-and-entitlement-level-copy",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-certification-at-account-level",
+              "path": "/saviynt/reassign-certification-at-account-level",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-entitlement-owner-for-campaign",
+              "path": "/saviynt/reassign-entitlement-owner-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/reassign-usermanager-step-1-for-campaign",
+              "path": "/saviynt/reassign-usermanager-step-1-for-campaign",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/refresh-authorization-token",
+              "path": "/saviynt/refresh-authorization-token",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/remove-entitlement-from-account",
+              "path": "/saviynt/remove-entitlement-from-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/remove-entitlement-from-role",
+              "path": "/saviynt/remove-entitlement-from-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/remove-role",
+              "path": "/saviynt/remove-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/request-approval",
+              "path": "/saviynt/request-approval",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/request-history",
+              "path": "/saviynt/request-history",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/request-to-create-entitlement-based-role",
+              "path": "/saviynt/request-to-create-entitlement-based-role",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/resumepausejobs",
+              "path": "/saviynt/resumepausejobs",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/retrieve-dashboard-account-data",
+              "path": "/saviynt/retrieve-dashboard-account-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/retrieve-dashboard-data",
+              "path": "/saviynt/retrieve-dashboard-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/retrieve-dashboard-tiles-data",
+              "path": "/saviynt/retrieve-dashboard-tiles-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/roles",
+              "path": "/saviynt/roles",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/roles-1",
+              "path": "/saviynt/roles-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/run-analytics-controls",
+              "path": "/saviynt/run-analytics-controls",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/run-job-trigger",
+              "path": "/saviynt/run-job-trigger",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/sav",
+              "path": "/saviynt/sav",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+              "path": "/saviynt/saviynt-enterprise-identity-cloud-api-reference",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/security-systems",
+              "path": "/saviynt/security-systems",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/send-email",
+              "path": "/saviynt/send-email",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/sod-evaluation-for-non-sap-functions",
+              "path": "/saviynt/sod-evaluation-for-non-sap-functions",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/sod-evaluation-for-sap-functions",
+              "path": "/saviynt/sod-evaluation-for-sap-functions",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/task-details",
+              "path": "/saviynt/task-details",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/tasks",
+              "path": "/saviynt/tasks",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/test-connection",
+              "path": "/saviynt/test-connection",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/transport-status",
+              "path": "/saviynt/transport-status",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-account",
+              "path": "/saviynt/update-account",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-dynamic-attribute",
+              "path": "/saviynt/update-dynamic-attribute",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-endpoint",
+              "path": "/saviynt/update-endpoint",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-entitlement-type",
+              "path": "/saviynt/update-entitlement-type",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-existing-request",
+              "path": "/saviynt/update-existing-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-organization",
+              "path": "/saviynt/update-organization",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-organization-request",
+              "path": "/saviynt/update-organization-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-privilege",
+              "path": "/saviynt/update-privilege",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-role-request",
+              "path": "/saviynt/update-role-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-security-system",
+              "path": "/saviynt/update-security-system",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-task",
+              "path": "/saviynt/update-task",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-tasks",
+              "path": "/saviynt/update-tasks",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-technical-rules",
+              "path": "/saviynt/update-technical-rules",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-user",
+              "path": "/saviynt/update-user",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/update-user-request",
+              "path": "/saviynt/update-user-request",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/updatedataset",
+              "path": "/saviynt/updatedataset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/updatedatasetvalues",
+              "path": "/saviynt/updatedatasetvalues",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/upload-new-file",
+              "path": "/saviynt/upload-new-file",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/upload-sod-ruleset",
+              "path": "/saviynt/upload-sod-ruleset",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/uploaddatasetcsv",
+              "path": "/saviynt/uploaddatasetcsv",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/user-groups",
+              "path": "/saviynt/user-groups",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/user-manager",
+              "path": "/saviynt/user-manager",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/users",
+              "path": "/saviynt/users",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/users-1",
+              "path": "/saviynt/users-1",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/using-sqa",
+              "path": "/saviynt/using-sqa",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/validate-entitlement-request-data",
+              "path": "/saviynt/validate-entitlement-request-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/validate-user-data",
+              "path": "/saviynt/validate-user-data",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "saviynt/validate-user-security-answers",
+              "path": "/saviynt/validate-user-security-answers",
+              "sidebar": "saviyntSidebar"
+            },
+            {
+              "id": "sidebars",
+              "path": "/sidebars",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "versioning",
+              "path": "/versioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/customization",
+              "path": "/category/customization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/petstore-api",
+              "path": "/category/petstore-api",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "/category/cos-api",
+              "path": "/category/cos-api",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "/category/food-api",
+              "path": "/category/food-api",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "/category/yogurt-api",
+              "path": "/category/yogurt-api",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "/category/restaurant-api",
+              "path": "/category/restaurant-api",
+              "sidebar": "petstore"
+            },
+            {
+              "id": "/category/petstore-versioned-api",
+              "path": "/category/petstore-versioned-api",
+              "sidebar": "petstore-2.0.0"
+            },
+            {
+              "id": "/category/petstore-api-1.0.0",
+              "path": "/category/petstore-api-1.0.0",
+              "sidebar": "petstore-1.0.0"
+            },
+            {
+              "id": "/category/saviynt-api",
+              "path": "/category/saviynt-api",
+              "sidebar": "saviyntSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            },
+            "petstore": {
+              "link": {
+                "path": "/category/petstore-api",
+                "label": "Petstore"
+              }
+            },
+            "petstore-2.0.0": {
+              "link": {
+                "path": "/category/petstore-versioned-api",
+                "label": "Petstore"
+              }
+            },
+            "petstore-1.0.0": {
+              "link": {
+                "path": "/category/petstore-api-1.0.0",
+                "label": "Petstore"
+              }
+            },
+            "saviyntSidebar": {
+              "link": {
+                "path": "/category/saviynt-api",
+                "label": "Saviynt"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

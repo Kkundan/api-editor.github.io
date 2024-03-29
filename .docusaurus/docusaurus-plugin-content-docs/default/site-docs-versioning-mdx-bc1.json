@@ -1,0 +1,29 @@
+{
+  "id": "versioning",
+  "title": "Versioning",
+  "description": "Overview",
+  "source": "@site/docs/versioning.mdx",
+  "sourceDirName": ".",
+  "slug": "/versioning",
+  "permalink": "/versioning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo/docs/versioning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "versioning",
+    "hide_title": true,
+    "sidebar_label": "Versioning",
+    "title": "Versioning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sidebars",
+    "permalink": "/sidebars"
+  },
+  "next": {
+    "title": "Customization",
+    "permalink": "/category/customization"
+  }
+}

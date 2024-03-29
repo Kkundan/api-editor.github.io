@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/import-package",
+  "title": "Import Package",
+  "description": "This API imports a compressed file containing objects specified for T2P migration.",
+  "source": "@site/docs/saviynt/import-package.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/import-package",
+  "permalink": "/saviynt/import-package",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "import-package",
+    "title": "Import Package",
+    "description": "This API imports a compressed file containing objects specified for T2P migration.",
+    "sidebar_label": "Import Package",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV+9P2zgY/lcsf9qkpE0pbCMVH1jHNu7EQLSbdgJE3zhvGq+O7dlOoav6v5/spFAGx9jpTrqT1i9pnPe3Xz/v4yV1MLU0PaO97U5Cxgak1co4ehHRHC0zXDuuJE3puOSW7J8cEl55AUuAMFVpg9ZiTgoukDAlHXDJ5ZSo7AsyZ4nVyHjBvYQyZLx1Qio+NeBtds7luRyXSCb7tSuV4d/C8oRUtXWkhDmSyWsEg2ZCCiWEusKcZAsyGasZykmHeP0jkDk4ZRZEg4HKpmF1ooHNYIpONcFOSEyGqtICHRINriSqIK70/4MccSU4IhFzS5wiGbZJYu6tHYcSgFi7CB5qnYPD2vroYuKfEipc2/XvrQ1fjQ1XETmXk6y2XKK1X2rreMFZk7i3O6p143hdwcabhfmpEmgnEZlgBVyMsdICHPoFs/4CEsTCcWY/9e6+bvnXqVAZiKGSBZ/69ytlZoVQV0GVKSmRhTC8ptbHMlNgci6DrM/nnVG1DsKWgTytW6fKTEG2e9d8RVYb7hajhXVY2QmNqNLY7PlhTlPa1OWkqQeNqMGvNVr3WuULmi6p7yKUzv8FrUVbne4X69twSS0rsQL/zy000pQ2haIR1cb7cRyt//pgjTfUrDNcTmlE8Rp8Z9CUOrSOriL6Xfc8rtS1MOcL6S5tCQbzrjeC116v69anqc31duES8orLy61kqx8nvbjXv+wlcW837vWefRwPn3e+ce0DuW2yx2MI1uhqtbpZDCU4DOGTdaXTJZ2DqPGR6jQleKAC/16ad7O8TSVkY9BqJW2TzlaS+MddWLqbI4nJqGYMraURLRFyNEF1eNPeD7bQAyWdIeoYBJ8j9YG8AYdPVX1reER6ffIbSOJTJ73ttN9P+wl5dzQO1kbo4qFSM/5km8Ph6PRtPD7+/eDDXv9FxiB7VcQs330Rb+/u5DG8LHbjF7ANu73dl0XWfzUgn9BYruReb0BOwJV753QQnt3Be+f0sRSLwTkdkJE/rU2OI2c4c/HNDIhH7Ul+apAVXMcwxb3ezsut7VdJMiBcMlHnOKqzN6oCLm1wFDwUaOIDyZSHmKc6YGUtZ5gHI5/APDmw/dAS8VBJZ5SITxvAid+3DeLNfQ5fUbp4vNAYN5hvn+pAKit5UbSW3hqoftrEaP/o4Pj08N3hh9bK59EoPjHK/Vzf9gakUjnuZUKxWQMJ/xCgojHKMJXjhqisqwzNZgDJKqKVnT4epG3PaCP7ZvNAP6bWnvV2+zDvkMOCKFeiIe0MsQQMElYbg9KJBdFGeUdcTiOyUPV6JpMrLgTJcMolgcKh8RN6EfiMpwgd8oeqCQNJGAhB7gHcyIGrGzLkFGElslkY8bZZV8WmL7q6mXB++j2W39b2bpIkvR8B+QbIbUL6xv4k7R7cFPp+nf+nxbxTy82CNfOiQlcq/0Wrdo650g+vRnv8nWsaUYtmHmbE2ZLWRtCUls5pm3a7S4cSpFt12sHHhKrzDlNV92B41AXNu/MdGtE5GA5Zu0+Nyv0h1a57Sl1ALfw8Xe/6arW68GG0nMmfxZa/gOXMM+ONnvGx+aCDFE0bGd9gWeDJP5IOQgFd/Nk/vaVdB+sW/O8Tg4hyWaiQJXcNcDb+yYF0aLThFslhjtJxtyBDv2mht06xQIOSIX3wYjNUQjRA69t8znO0oQtzdMCFXfN6e0PPm06z4Vrjv/w4imcHh8PnvmOawUxTutNJOkkgnMq6CgL6+VvEPVrzfcwbJPnXvezXvexv38taoHB47bpaQHO+AgwuW+g8o38BnRcRLT3Gpmd0uczA4kcjViu//LVGz8zOLm7B0b+t1oQ8YO0MF57VblCugKVhlN1nKatoreGZnHaPyl5sjIGT49GYRjRrr5ZVmI7UwJUfJHBFU3pOz2m4od6QtbC+pALktA7XJtrY9b8/Aeq0Edw=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Export Package",
+    "permalink": "/saviynt/export-package"
+  },
+  "next": {
+    "title": "Transport Status",
+    "permalink": "/saviynt/transport-status"
+  }
+}

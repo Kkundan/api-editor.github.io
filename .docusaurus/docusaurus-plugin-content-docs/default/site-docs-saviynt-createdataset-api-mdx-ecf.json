@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/createdataset",
+  "title": "createDataset",
+  "description": "This API is used to create a new dataset.",
+  "source": "@site/docs/saviynt/createdataset.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/createdataset",
+  "permalink": "/saviynt/createdataset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "createdataset",
+    "title": "createDataset",
+    "description": "This API is used to create a new dataset.",
+    "sidebar_label": "createDataset",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlVm1P20gQ/iur+dRKNklTKGDEB5qmPa5HQSR3rQRIGdsTvMXedXfHgVzk/37atUNcoLxI9+Gky5esZ3eeedmZZ3YJjJcWojP4gIyWGC4CSMkmRpYstYIIJpm04uDkUEgrKkupYC0SQ8gkUCi6FmmjuXGuztUkIzE9qDjTRv6NDmEqisqyyHDuzk/fExoyUzHTea6vKRXxwokn+orU1EMcoUqRtVmIEg0WxGRsdK6mrRmFBU2FcAJpyxwXawEyGxlXTEOtZvJy6tCOfRiYPwymr5VzxqOtg55CALok4/0/TCGCJt5WCQIw9KMiy+91uoBoCYlWTIrdEssyl4nX7H23LoFLsElGBboVL0qCCHT8nRKHUxpnhyVZr/uz/x0Fy0aqSwiAbrAocydK0CgdiFw3xoY6pUAkkheBsIzsPnSl2CygDqCTu8dR/0Amy0M0XqtbB49pTdyOU1jfyOMKrmzeH32Fuq5vxT4FTaJXtRgtYY55RQ8m5wUZuJOATpT3it25fCeQrrfeYUO21Mo2Hg/6fff3M8zPYQSQEaZk/PmhVoqSVU7vlcYDyboiKkPM5ZzAWf+ATM9V/UppIPo74vdKiUF/MBD97ai/E20OxKejiUcbE4dDra/kszGHw/Hpx3By/Hn0ZT/GJH73Nn4bvp2lFG5ub++Eu/GbONx5Rzu4u7m5O0i39sQJcrbfa8yxkQmHE4PKltpwOKakMpIXz7Ve4E2Il7T/Zmt7sLnT7+8JqZK8SmlcxR90gVJZb8hbmJEJRyrRqUN5poEkq9QVpR7kLzTPduwgScjacKgVG52Hpw1DhL+1N+/gvvldUhy6MgsbarLPNaC0VXI2a5E+OjZ7KcT44Gh0fHr46fBLi/JtPA5PjOaXFeSbPVHolPbjXCdXTQ//SwxIxmjjGrlzVFVFTKbrQL8OoLBP8OO48hfyEorpWO+3FrowTfOv5whEZ0toKaJEziAAqdZrNyOkoRQiNhUFv8xsXV8EUBBn2k2aUlufFocRQe8ukVgy85XpyuQQQcZc2qjXWzIpVFxvWJzLheIk11W6keiiNxoe9bCUvfkWBDBHIzFuU9Go3KevVu7IcYZVzhDdJrb27tq2a8cupgYrRisTN/k7ETrfoI3cffszblDE/hXw1Gl/yFeqq6PT9cwdrW75vzEW3L3PtI9EclN8zR2IkWIypZGWxGFKiiUvxNBdjH9QndKMDKmE7ttzb66hzvOmMUVp9FymZAVnJFJilLkVeuY/bVU6JqVUNEVkxUwbv/O0F69Gh8PXrirI2Mby1kZ/o+9CcoVYoO/eNt67tXjneXBLAf/TF2NbxUw33CtzlMpl0ffosm3nszspvAggc+0encFyGaOlP01e1078oyI3ec4u1g3rWz6V1q1TiGaYW3rkDl6dtvTzWvzKt1aIauF5wZMgQABXtFixWH1Rrx4v3n6z1Z1iHdV7xF8HKw03HEt+9GyXBE+OxxMIIG6f14WnZDB47WgVryGCczgH/0q/nX9evoQc1WWFl+58g+t+/wDBy3oB",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Dataset",
+    "permalink": "/saviynt/dataset"
+  },
+  "next": {
+    "title": "getDatasetValues",
+    "permalink": "/saviynt/getdatasetvalues"
+  }
+}

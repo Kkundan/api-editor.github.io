@@ -1,0 +1,33 @@
+{
+  "id": "cos/cloud-object-storage",
+  "title": "Cloud Object Storage",
+  "description": "",
+  "source": "@site/docs/cos/cloud-object-storage.info.mdx",
+  "sourceDirName": "cos",
+  "slug": "/cos/cloud-object-storage",
+  "permalink": "/cos/cloud-object-storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "cloud-object-storage",
+    "title": "Cloud Object Storage",
+    "description": "",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 0,
+    "hide_title": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Cloud Object Storage",
+    "permalink": "/category/cos-api"
+  },
+  "next": {
+    "title": "Generating an IAM token",
+    "permalink": "/cos/generating-an-iam-token"
+  }
+}

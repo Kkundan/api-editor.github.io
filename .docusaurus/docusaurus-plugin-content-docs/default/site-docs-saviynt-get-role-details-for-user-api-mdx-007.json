@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-role-details-for-user",
+  "title": "Get Role Details for user",
+  "description": "This API can be used to get the list of all the roles.",
+  "source": "@site/docs/saviynt/get-role-details-for-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-role-details-for-user",
+  "permalink": "/saviynt/get-role-details-for-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-role-details-for-user",
+    "title": "Get Role Details for user",
+    "description": "This API can be used to get the list of all the roles.",
+    "sidebar_label": "Get Role Details for user",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Add Role",
+    "permalink": "/saviynt/add-role"
+  },
+  "next": {
+    "title": "Get FireFighter Role Details",
+    "permalink": "/saviynt/get-firefighter-role-details"
+  }
+}

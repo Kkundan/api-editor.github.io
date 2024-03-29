@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/apiresponse",
+  "title": "ApiResponse",
+  "description": "",
+  "source": "@site/docs/petstore/schemas/apiresponse.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/apiresponse",
+  "permalink": "/petstore/schemas/apiresponse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "apiresponse",
+    "title": "ApiResponse",
+    "description": "",
+    "sidebar_label": "ApiResponse",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "Logs out current logged in user session",
+    "permalink": "/petstore/logout-user"
+  },
+  "next": {
+    "title": "Cat",
+    "permalink": "/petstore/schemas/cat"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Customization",
+  "slug": "/category/customization-1",
+  "permalink": "/category/customization-1",
+  "navigation": {
+    "previous": {
+      "title": "Versioning",
+      "permalink": "/versioning"
+    },
+    "next": {
+      "title": "Language Tabs",
+      "permalink": "/customization/languagetabs"
+    }
+  }
+}

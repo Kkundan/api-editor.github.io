@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-list-of-pending-requests-for-approver",
+  "title": "Get List of Pending Requests for Approver",
+  "description": "This method returns a list of 'Pending Requests' for approver in SSM",
+  "source": "@site/docs/saviynt/get-list-of-pending-requests-for-approver.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-list-of-pending-requests-for-approver",
+  "permalink": "/saviynt/get-list-of-pending-requests-for-approver",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-list-of-pending-requests-for-approver",
+    "title": "Get List of Pending Requests for Approver",
+    "description": "This method returns a list of 'Pending Requests' for approver in SSM",
+    "sidebar_label": "Get List of Pending Requests for Approver",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Cancel Pending Request",
+    "permalink": "/saviynt/cancel-pending-request"
+  },
+  "next": {
+    "title": "Fetch Request Approval Details",
+    "permalink": "/saviynt/fetch-request-approval-details"
+  }
+}

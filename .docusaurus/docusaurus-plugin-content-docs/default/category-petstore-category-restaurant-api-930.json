@@ -1,0 +1,15 @@
+{
+  "title": "Restaurant API",
+  "slug": "/category/restaurant-api",
+  "permalink": "/category/restaurant-api",
+  "navigation": {
+    "previous": {
+      "title": "List All Flavors",
+      "permalink": "/food/yogurtstore/list-all-flavors"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/restaurant/restaurant-example"
+    }
+  }
+}

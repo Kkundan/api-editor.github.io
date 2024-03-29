@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/check-import-status",
+  "title": "Check Import Status",
+  "description": "This API is used to check the status of data import job.",
+  "source": "@site/docs/saviynt/check-import-status.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/check-import-status",
+  "permalink": "/saviynt/check-import-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "check-import-status",
+    "title": "Check Import Status",
+    "description": "This API is used to check the status of data import job.",
+    "sidebar_label": "Check Import Status",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzVVdtu2zgQ/ZXBPLWAbMtO0mZV9MHruoWxmwtiFyiQBvBIGkdMJFIlR956Df37gpTbXOomeV3AgGRqLmcu53CLQtcOk0scxv0YJqaqjIbPokolih1eRZizy6yqRRmNCS4K5WB8PgPloHGcgxjICs5uQQoGJySNA7OCnIRAVbWxAjcm7cNX/VWfGuEEpCAB/wNRFUdgdLkBo/meOWSkIWWwje57x0XBsBw3Uhir/iUPZQlV4wQKWjMs/2SybJewMmVp/uEc0g0sF+aW9bJLCzVZqhxGaGq2IcAsxwQD8llIOw/QMULLrjbascNki6M49o+HPZiEejs3+OlXMOVsg9cHEvZPlxVckX+TTc2YoBOr9DVGyN+pqksODW0iiEcwbq5hFA+PYRQnh8fJwQg+nSywbSOcs12zfWm8cU1Zwb2J2RjhwbA/3MWQ3sSYW/ViXJPJ/OJjb3H21/T0/dFqlMbx4ZveQZ4Oe4dHh3/0KB0e9NI3bw/eUkbpMdE7OCcp3g9CuoUl7VZse1OdmdyHfmHWrGj0LechyJfeR0sV985C391LQ8zHJ9Ozi9mn2Sm2PkxmtLAW70R1XaosjH9w4/ws94Q06Q1nghHW1i9LoEGyRbbW2InJ+ensMbZRZ3vCztH1M+beWt3fv6dncnZy/vd0Mf3QVbb7EJz27WSyxTWVDT+CjzE+hoj4GMbDXG3IF0jEEpb8couaKu9akxTeXd+9W/7WKMs5JmIbjn47tra9irBiKYwnY21caLuPkeBgHzddoEKXvrElJliI1C4ZDLbCmrS0fUdrtdGSlabJ+5mpBtPJyYBqNVgfYYRrsorSXc86l1/5vTv30reiphRMfs6gDZAdZ41Vspn7urpYKTmVeYW6V6XHhrvq/f9g4yeeBr16zjoYBSYovTLBUkm34l2NMNXCtrbKMcxy1qJkAxNfeFDoC16xZZ0x7hXxiSlLzvwJ1NasVc4uaHjOQqoMIh4kvan9CDiHblAOVsaGL8+jeDWdTV77rrN1XeajftwPFPHDrigwcLdH+1X1AfDtHZn/9xfRburC32VQl6S070rY6e2OApd7rqerCAtPk+QSt9uUHH+2Zdv6428N2w0ml1d3Sx5okivn33NMVlQ6fqKjry52tH0Nv8O3OyS9CVwK2uK145Y3P9jfXrU/7sKQv/s0zjKu5Z7TL1L8QArOz+b+7vsPqUHwwQ==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Import Application Data",
+    "permalink": "/saviynt/import-application-data"
+  },
+  "next": {
+    "title": "Force Complete",
+    "permalink": "/saviynt/force-complete"
+  }
+}

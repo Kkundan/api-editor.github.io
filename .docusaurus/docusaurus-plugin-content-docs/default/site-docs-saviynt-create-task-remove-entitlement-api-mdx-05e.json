@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/create-task-remove-entitlement",
+  "title": "Create Task - Remove Entitlement",
+  "description": "Starting with Release v23.9, you can use the createtask API to create remove access tasks for inactive accounts.",
+  "source": "@site/docs/saviynt/create-task-remove-entitlement.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-task-remove-entitlement",
+  "permalink": "/saviynt/create-task-remove-entitlement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-task-remove-entitlement",
+    "title": "Create Task - Remove Entitlement",
+    "description": "Starting with Release v23.9, you can use the createtask API to create remove access tasks for inactive accounts.",
+    "sidebar_label": "Create Task - Remove Entitlement",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Approve/Reject entire request",
+    "permalink": "/saviynt/approve-reject-entire-request"
+  },
+  "next": {
+    "title": "Complete Single Task",
+    "permalink": "/saviynt/complete-single-task"
+  }
+}

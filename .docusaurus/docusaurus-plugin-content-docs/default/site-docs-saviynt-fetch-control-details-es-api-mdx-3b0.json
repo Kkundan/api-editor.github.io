@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-control-details-es",
+  "title": "Fetch Control Details ES",
+  "description": "This API performs the action specified under the `Default_Action_For_Analytics` parameter and retrieves records starting from the offset.",
+  "source": "@site/docs/saviynt/fetch-control-details-es.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-control-details-es",
+  "permalink": "/saviynt/fetch-control-details-es",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-control-details-es",
+    "title": "Fetch Control Details ES",
+    "description": "This API performs the action specified under the `Default_Action_For_Analytics` parameter and retrieves records starting from the offset.",
+    "sidebar_label": "Fetch Control Details ES",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Control Attributes",
+    "permalink": "/saviynt/fetch-control-attributes"
+  },
+  "next": {
+    "title": "4.0 Access Request",
+    "permalink": "/saviynt/4-0-access-request"
+  }
+}

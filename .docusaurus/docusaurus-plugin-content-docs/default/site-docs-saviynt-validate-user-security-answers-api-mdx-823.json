@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/validate-user-security-answers",
+  "title": "Validate User Security Answers",
+  "description": "This API is used to validate the security answers of user with answers entered during registration",
+  "source": "@site/docs/saviynt/validate-user-security-answers.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/validate-user-security-answers",
+  "permalink": "/saviynt/validate-user-security-answers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "validate-user-security-answers",
+    "title": "Validate User Security Answers",
+    "description": "This API is used to validate the security answers of user with answers entered during registration",
+    "sidebar_label": "Validate User Security Answers",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV9tu4zYQ/RVinnYB+Zpsm6hYbL2uswiKXGo7bYEkgGlxFDGRSC1JOasa/vdiKMl2bk4KFGgLNC9hKM6Z+5nJEhy/sRBewmG7y865tffaCDZGiw4CuLBS3bDJLwO4DkCgjYzMndQKQpgm0rLB+TGTlhUWBXOaLXgqBXfIXILMYlQY6UrGlb1HY5mO6aFh99Il60tUDg0KJgpDqgzeSOsMJyVX6kqdcCW406ZkOTc8syFdzmrhGWuxVFpHyF8LtCRkGVdije40m+PaLOGFyQbFM5yxszGb5UbnaFzptEVuooQwB6qsLG0+slTeIcOMyzRgGVf8Bk3AGqCAxdJYVx1T3pxygzG5dkQfT/1VVFinswaVrJkmyGaDwiXayD+81zOWFdaxhC+QzT4jN2hmLNZpqu9RsHnJZlN9h2rWhgAIxwsdCwihcfPCopnUwR9UgYAADPoQfdaihHAJkVYOlaMjz/NURh6nc2spuUuwUYIZp5Mrc4QQ9PwWIyqJ2nqJ1svW+JuH3BheQgDSYWbfCrD1zjoqBAgAv/EsT+nqTjpXwiqAJsm7n/+WcEdVWerCVKlh5+gYZeUTrFarrbeXGwNqLdtKXkEKtoRjrcUuWb7QRjpk9O4TrK7JCCqn3Z7c6kS1hcYfLV/IUrl2pDOKw+Oi3Y1SKdp23Ef+16ZZqV5YUzBssMnogqcFPsjyPxavdbiej8lzIdn47V03aHOtbOV7v9ulXw8ZbR2QJ7EIIEEu6qj8xB0+2yLPhP7IyID19tkEc9bv9g5Yvx/u9cK9Q/blZApk1gTNoqr/t+ANch4l2BrqUjvs9Nq9GsO1hlrfyTfbNRxOxket6dnPo9OP8TzqHfZ7+y3s9Q5b+3iArcP977H1XdTl/Xi+hwfdwx/YOXfJx45XNzVc2RhNa6QiLQj6jVqjpFB3KDzI761hxUCtaZlj68wnwb4VSWmrZBzXSEeGZ38ZYjI4GZ2Nj78cn1at8TcRIhqjzVAL3K29S21cE/arhGaLKEJr42JXF+9s4C2roAsPNT+Cr7rFT1t0TdNTB0MIOXcJUbvanGmsSIMCQmcKDF4M/Yp6OEOXaBpVubY+dIQRQqeZXE+nlvXtURlRGOr/xLnchp3O0qHiyq3aNQ9EqS4EkUFnNDzp8Fx2Fh+8p0byeR2sSuRp59f3tOLEvEgdkUcd/ZU3vNllJuRdhTXnVkY0ubd8JdugjgH97d9Qpud+jr/22j/yNU1VN94M7FFTCv9xKqbSibUPgXRVF1aSbERrYG6kRXYsUDkq5CFl1K+YY79JqQjh2S10qNMUI7qhjW0hBVq/gQp0XKZ+8fQLaZHn2jgUrKpDy2Jt/JfXrXg3Oh6+p3JCYyvNH9rdtu9iquWM+xau2+SVyfrIh61d7P+l+l+wVNfd6fCb6+Qpl4qS7LlnWRPWJbxEWNcBJERt4SUsl3Nu8cKkqxVdfy3QlBBeXm8oyfewkJbOAsKYpxZ31Ma7cU2179lLVjYruCorjifyBwjgDsuGsf3qWW0zXn/1aXsWb4k+GYREHJXEIIowdzvfbhP++dlkCgHM6/8+smoUGX5PI4TfQwhXcAX+X5r1FPf3S0i5uin4jd+HPS79/An3+igq",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch User Security Questions",
+    "permalink": "/saviynt/fetch-user-security-questions"
+  },
+  "next": {
+    "title": "Create Security Questions",
+    "permalink": "/saviynt/create-security-questions"
+  }
+}

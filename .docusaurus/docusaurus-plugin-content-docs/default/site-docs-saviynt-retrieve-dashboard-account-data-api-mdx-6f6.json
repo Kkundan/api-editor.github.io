@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/retrieve-dashboard-account-data",
+  "title": "Retrieve Dashboard Account Data",
+  "description": "The `Authorization` must have `Bearer` followed by `Token`.",
+  "source": "@site/docs/saviynt/retrieve-dashboard-account-data.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/retrieve-dashboard-account-data",
+  "permalink": "/saviynt/retrieve-dashboard-account-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "retrieve-dashboard-account-data",
+    "title": "Retrieve Dashboard Account Data",
+    "description": "The `Authorization` must have `Bearer` followed by `Token`.",
+    "sidebar_label": "Retrieve Dashboard Account Data",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJytVW1v2zYQ/ivEfWoB2ZLfNk9DP3iKWxhDXmC72ADXgGnpHLGRSJY8edUM/feBlNIkSBPnwz6JPB2fe4733PEExG8txBsYDPoRu+A23ytuMtgGkKFNjdAklIQY1jmy3ayiXBnxL3fGHSsrSyznR2S7P5AbNDt2UEWh/sGM7Wu2W6s7lLs++yK/yCvFNDe8tBCA0mg8xCKDGAySEXjEH8FnaaoqSRecOARg0GolLVqITzCMIvd5Sm3ZATzQZx0E6zBy5Bkaj3DBCd3XpjmW3K2o1ggxWDJC3kIA+J2XunCmvzAL2GDIVqjZMBpMWTSJJ9M4mrBPl2tomgBWaI5o3oo30zzNsZeoWhGGg/6gw6BeotSdeDOvJFktP/bW13/Orz5MJ6NfxtFo2BtOx6PeeHzA3n4wnfZ+G42j0a8YjYccf2c3nPIPoQ+3NlzaA5reXKYqc9BvjJrmlbzDzIP83ftoeIm9a18D+1aI1exyfr1cfFpcQeNgUiUJJblDXOtCpF4V4Vfr6voTSLX/iilBANo4DZFoVZH9TDkPp7gxvIYABGHp/JtHlDZbtzNGmURl+Dr7CJoASnt7JsfPSTJfrdoEO7NneU6m8QmOvKjw5Yw22ydcIYKOz+OgjQ/sew3Ji35zAslLd0Bzyt1FyIe1wW+VMJhBTKbC4MUyNs02gBIpV65ntbK+DA4jhvBMC1vfJS2TyhQQQ06kbRyGJ0LJJTV9y4+ilpQWqsr6qSrDeXIZci3C4wQCOHIj+L67x/bI8zHQ2d3gOvCqIIh/VKXx7C2mlRFUr1yKLdaeW5G6qfYoYccNuotwe+/jSr/3M+6ct3fyTSLkQXlPQa0y2hzZXBIabYRFtshQkqCaJS5xNrtZsCUe0KBMEZ6PYGFZoooCU2dh2qijyNAyypFlSFwUlqmD39pKa2UIM9bWzLKDMv7PeRbv5ovkvbt1NLaNPOlHfa9+V/eS++bsJHV++D5J4vTQ8//rk9JVg/A7hbrgQjq2XmunTqWb1x+abQC5E3W8gdNpzy1+NkXTOPO3Ck3dNt+9Dr2SM2HdOoP4wAuLryT6btk12Xv2EtX7USVrL3c/BgACuMP6vlcbN6ral8zHb3/N0hQ1PTr0bJA+adyb65V7uf4DM862Qw==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Retrieve Dashboard Tiles Data",
+    "permalink": "/saviynt/retrieve-dashboard-tiles-data"
+  },
+  "next": {
+    "title": "Retrieve Dashboard Data",
+    "permalink": "/saviynt/retrieve-dashboard-data"
+  }
+}

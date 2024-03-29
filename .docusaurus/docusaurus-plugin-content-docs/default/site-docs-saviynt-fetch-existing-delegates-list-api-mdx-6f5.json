@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-existing-delegates-list",
+  "title": "Fetch Existing Delegates List",
+  "description": "This API is used to retrieve the list of existing delegates and their details.",
+  "source": "@site/docs/saviynt/fetch-existing-delegates-list.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-existing-delegates-list",
+  "permalink": "/saviynt/fetch-existing-delegates-list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-existing-delegates-list",
+    "title": "Fetch Existing Delegates List",
+    "description": "This API is used to retrieve the list of existing delegates and their details.",
+    "sidebar_label": "Fetch Existing Delegates List",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Delegate",
+    "permalink": "/saviynt/create-delegate"
+  },
+  "next": {
+    "title": "Edit Delegate",
+    "permalink": "/saviynt/edit-delegate"
+  }
+}

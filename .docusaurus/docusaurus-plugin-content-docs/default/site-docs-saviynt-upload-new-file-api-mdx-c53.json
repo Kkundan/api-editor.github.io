@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/upload-new-file",
+  "title": "Upload New File",
+  "description": "This API call can be used to upload the file in a specific location based on the property `job.ecm.imp.file.path` in InternalConfig.groovy.",
+  "source": "@site/docs/saviynt/upload-new-file.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/upload-new-file",
+  "permalink": "/saviynt/upload-new-file",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "upload-new-file",
+    "title": "Upload New File",
+    "description": "This API call can be used to upload the file in a specific location based on the property `job.ecm.imp.file.path` in InternalConfig.groovy.",
+    "sidebar_label": "Upload New File",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVktv2zgQ/ivEnNpAsmW3aRIVOaSOWwS7eSBydwukAUxTI4s1Raok5Vhr6L8vSMmI0zite9nT5hKKHn7z/mbWYOncQHwHg6gXkZEqCiXJZ8sFtxwNBPCRCyTnXCOzStcQQHL2F9wHkKJhmpeWKwkxTHJuyNnNBWFUCMKoJDMklcGUWEWqUiiaEpsjyRwal4QSUyLjGWdEKEYdCplRJ6+kFyy1KlHbmky/qVkPWdHjRdlzz3sltfnUgVxIi1pSMVIy4/PeXCu1rHtf5Vc5yZFMzyqbK83/8ehTUlTGkpwukUw/INWopyRTQqgHTMmsJtOJWqCc9oh7f0llSp2/pKSaFib2t1OnfkrC1osHbnNCZU1wZVEa58Gr8YoWpcAnIj1mlv3eSpjVo+RrD+cc+bPz3sEmuapE6iJn0LrAHRwcnFNLHZY5ODiAAFxQvPxFCjG0gb3CB5ckCEDj9wqN/aDSGuI1MCUtSuuORSUsL6m2/UzpIkyppe7asBwLf7J1iRCDmn1DZiGALv6uBuI1OAu2pIzVXM4hAAdGLcQw45LqGpoAtp3a9QTbEEHsC6nxf85yUyppWm3DKHL/nlbY57aIrvCB+JLskx9uIIAcaYraY5wxhsaEIyWtViI8c4kORxpTlJZTYXZ6v8NIqysEZ+FOwGvN51zui5VbW5q43zdMV0VYWREOeoYueS0tE6pKe0wVXteIshw3qvZFL5WxIcuRLU6jgJQaNx8tpJIS2SYp++AtEMuQCr5s/T+nFvd9+jemARm8IdfMkmE0HJDBcRwdxcOIfLqceLTxquQa985CUsmAHJFLWpPByckhGQzjKIqjR7wbTefF7pLeASdVyFyI/dNbzFBr1OGNEpzV+2KoNvUOIUEbjpRa8L0DNBoltx/DyfUf46vTt8fZ4Sw6fhMeITsJ3757x8KTNywK6WF0TE8YHR5Fg/fkhtr8tN+qs5ozG040laZU2oYJskpzu7fpBV2FdI6ng8Oj4dvjKHpPuGSiSjGpZueqoFwar8hryFCHY8lU6lD2VMDySi4w9SBffB2jtOGkLjG89v28d+KlMpJnWYf0UdPityGSs8vx9e3Fp4urDuVLkoQ3Wtnfa4fBe1KoFE9nQrEFeNLa4ldaloK3pNf/Zl5AfYFcUWulRyrdybCPBkSOXQsz/7mUnzuJm3JJ5Rkrq4SoW3s7Ka/0R/KM17CkosIfDIIIOqU/QW4p3E9KtJ5/79YgaeFZidocAnAkuTm7KcU1phA7cg1ejH7T3AdQoM1V2tEbtOMFYui3oy/xTzv2N6iXG+2VFluEu7YoqbTNM7btj0eXfVry/vIQAlhSzemsC1D75Pkc6u7dApTRSrjht4l+4y02XTd621qsGTWcuXVky0lnG3TOu28v41I888vJr6S9kC9oLjPlJblt6731kYzddlRqbpBc+KlnazJyjvs9zbMeSoawc5UbKSHa/nCb2JKnaPxalqKlXBiiMv9pqtIxEKakzZMhmdL+l19b8Wp8MXrtoo7atJoPe1HPV7nLdUF9E3Vl9HzWPzF6a9f5fxX9j1bRrjItrmy/FNTNwqDtu3XXpXfwrEvvA8hdI8d3sF67KH/Womnc9fcKdQ3x3f1jH/pOTrlx5xTijAqDP0n8q9uOWF6Tl8zrLqmsfbt7vgMIYIH1hp+a+2azSHr97U/bM2zr6a61ugk2j9zKWNot8WdT4gnD3VwnEwhg1m3vRUvADtjjBo/H+O6+aZp/AXSotKE=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "resumePauseJobs",
+    "permalink": "/saviynt/resumepausejobs"
+  },
+  "next": {
+    "title": "Test Connection",
+    "permalink": "/saviynt/test-connection"
+  }
+}

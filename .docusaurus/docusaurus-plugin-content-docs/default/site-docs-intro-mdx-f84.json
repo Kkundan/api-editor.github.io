@@ -1,0 +1,51 @@
+{
+  "id": "intro",
+  "title": "Overview",
+  "description": "OpenAPI plugin for generating API reference docs in Docusaurus v2.",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/tree/main/demo/docs/intro.mdx",
+  "tags": [
+    {
+      "label": "documentation",
+      "permalink": "/tags/documentation"
+    },
+    {
+      "label": "openapi",
+      "permalink": "/tags/openapi"
+    },
+    {
+      "label": "getting started",
+      "permalink": "/tags/getting-started"
+    },
+    {
+      "label": "quickstart",
+      "permalink": "/tags/quickstart"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "hide_title": true,
+    "sidebar_label": "Docusaurus OpenAPI Docs",
+    "title": "Overview",
+    "slug": "/",
+    "image": "https://docusaurus-openapi.tryingpan.dev/img/docusaurus-openapi-docs-logo.svg",
+    "tags": [
+      "documentation",
+      "openapi",
+      "getting started",
+      "quickstart"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Sidebars",
+    "permalink": "/sidebars"
+  }
+}

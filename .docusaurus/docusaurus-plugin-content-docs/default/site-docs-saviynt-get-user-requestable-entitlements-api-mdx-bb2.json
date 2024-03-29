@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-user-requestable-entitlements",
+  "title": "Get User Requestable Entitlements",
+  "description": "This API returns list of entitlements in an application that the user can request based on the existing access and entitlement map exclusion.",
+  "source": "@site/docs/saviynt/get-user-requestable-entitlements.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-user-requestable-entitlements",
+  "permalink": "/saviynt/get-user-requestable-entitlements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-user-requestable-entitlements",
+    "title": "Get User Requestable Entitlements",
+    "description": "This API returns list of entitlements in an application that the user can request based on the existing access and entitlement map exclusion.",
+    "sidebar_label": "Get User Requestable Entitlements",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update Role Request",
+    "permalink": "/saviynt/update-role-request"
+  },
+  "next": {
+    "title": "Validate Entitlement Request Data",
+    "permalink": "/saviynt/validate-entitlement-request-data"
+  }
+}

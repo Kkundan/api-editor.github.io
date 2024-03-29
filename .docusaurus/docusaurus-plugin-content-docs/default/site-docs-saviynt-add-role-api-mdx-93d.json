@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/add-role",
+  "title": "Add Role",
+  "description": "This API adds role to user.",
+  "source": "@site/docs/saviynt/add-role.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/add-role",
+  "permalink": "/saviynt/add-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "add-role",
+    "title": "Add Role",
+    "description": "This API adds role to user.",
+    "sidebar_label": "Add Role",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzNVk1v2zgQ/SvEnFpA8lebpNGiB9d1CmOROnC82AWcAB6L44iJRLIk5VQ19N8XpGTHQdMkBfawvpgacd6bGc48agsObywkC5ipnCxcR8DJpkZoJ5SEBOaZsGx4MWHIuWVG5cScYqUl07mSV3KeEVsOS5cpI36g91myorSOZbghtvxEaMgs2VrlubonzlYVW87VHcllcD9HydEpUzGNBgubeOPSo0ssaBldyaWnDA8QgdJkAsmEQwLIuQ8aIjD0rSTrPileQbKFVElH0vklap2LNPh0b63PaAs2zahAv3KVJkhArW4pdRCBNp7BCbL+7Y75YKd1RsgbiIC+Y6FzbzoThtiZuMkcGagj2AX/vNetyiRXBHVd782BdMg5C1klW9hgXtLjSB7THbIdQgZUQ1YraRvYQa/n/x6f7Z4rgoyQkwlbP6OjJ8v0RBp/E4/Y4D2bpo4Nev0PbNBP+idJ75R9OZ+Dj+KSzIbMa/GGGtOM4pGqlKNuv9NvMVw8UupOvDqu0ehydhbPp3+Ov348RVzx1SnFg8Eqjd/zwUl8SvwoHgyOj/vE0wG++/AHu0CXfewGurlBaddk4rFMFffQr2RNs1LeEQ8g/8SjpgvjeaUpnoaa29ciSWWlWK9bpDODxW9DXA7Px9PZ5Mvka9Nk/9FQFGQt3rzQ3WyO9s6y1BA64h02+WyThB2fvDs9OWKv7Pk90ctoTb8HBSEXunixhXYqNLoMIhDyYe3VQhjikDhTUvTLatb1dQQFuUx5tdHKhmp4jAS6yLlpRseGDm9IS5NDAplz2ibd7taRROnqjsWNqKRLc1XyTqqK7nh03kUtupsjiGCDRuCqrUXj8vOstnYvz2sscwfJvt51CNRSWhrhqkufTYO1QitSL84HufnYoM3ZP4c9XrdWQapf2h02hbb0jTN70N3x7vB/V6382axV4BSu6dymWmwsHRlthCU24SSdcBUb+RKG+2hGazIkU4Inr6yRynNKvYVpozaCk2UuI8bJocgtU+vwaEutlXHEWXPQlq2VCW9ejuLNeDJ668+PjG2Yjzq9Ts+n5JulwDBYbb4HWvso2oPb6v9117Yd4Oi76+ochQyXm+/vbTsEC9gNwXUEmR+PZAHb7Qot/WXyuvbmbyWZCpLF9UObh0Hhwvo1h2SNuaVnivJm1o7rW/arqFojyipMUxAQgAjuqNpNfX1d7y65wN+8OpToA9ef9LGOdh7DNCXtnt17KBoX08s5RLBqP0wKxb2PwXsvQ3gPCVzBFYQvm724B/sWcpQ3ZSOADa7//QvgFk4x",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Roles",
+    "permalink": "/saviynt/roles"
+  },
+  "next": {
+    "title": "Get Role Details for user",
+    "permalink": "/saviynt/get-role-details-for-user"
+  }
+}

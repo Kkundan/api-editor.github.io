@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/cancel-pending-request",
+  "title": "Cancel Pending Request",
+  "description": "This API discontinues an open request in SSM.",
+  "source": "@site/docs/saviynt/cancel-pending-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/cancel-pending-request",
+  "permalink": "/saviynt/cancel-pending-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cancel-pending-request",
+    "title": "Cancel Pending Request",
+    "description": "This API discontinues an open request in SSM.",
+    "sidebar_label": "Cancel Pending Request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzdVttu2zgQ/RVinlpAsmW3uWnRh1Trdo2F68D2Ags4BkyLI4uNRLIk5VQ19O8LUkpio7nt5Wn9YnI0l8PhnBnuwdKtgXgJ73sRuUxTNIbM8FuFxkIA3Yr8xo2VuoZVAAxNqrmyXAqIYZFzQy6vxoRxk0phuajQECqIVCiI7sy5IPP5pHctrsUiR7K+rGwuNf9BnZc1KStjSU53SNYfkWrUa5LJopC3yMimJuuFvEGx9uYTKhh1UIiimpYmdsJ1F+cG6zW520i9dt+mHiktjvRTWZYorFlDAFKh9jjGDGJIqUixuELBuNg+5KHz+VGyGuI9uJOisG5JlSp46h30vxqXkz2YNMeSupWtFUIMcvMVU+dHaRfOcjStmxbGgaaxmostBIDfaakKJ7JoLBdbIuQtNPdQbrB+3mx4cfbuQF/q59UpK7mApmnuhR5W4vNBuoTcV0a8hx0tKjw+xRHUY6QtnCM0DyF9VI1GSWHasMMocn/HtfYElgBypAy1N/yVWnz0Ch458kSKgETnZJpaMowG52RwEQ/O4pNT8nmyAIdpjnqH+rX+LhVNcwwTWUuL/UFv0PmwYSLlDX81riSZzz6Fi+nvoy8fhsPTKBoO34Wbs4iF7882WXiRDbJwcMroBocn0Sme/0KuqM0/9H24habCZKjDkUily9Nro6Z5JW6QeSd/hklb4eGiVhi2HDKv9SSkETzLOk+fNC3/tov55WQ0nY0/j7+0JfkfEQ61ljqRDJ+PHjnelGb7AsbKd8t/xJkDIBBBF+zQY8sJ37PQ+tpe7kHQ0hkoanMIgIuHtaMV18ggtrrC4MkcN80qgBJtLl2zU9LTx/uIof9E7zOeBC2CShcQQ26tMnG/v7coqLBNz9Adr4VNC1mxXirL/iiZ9Kni/d0JBLCjmtNNl5zW5Gdyd3I3XzJaFRbi+1Q3HrXBtNLc1nN3tNbXhhqeullycFCHDboEuL3Xcfe58ZPlJW2v5CvX1dbsoe2P7u793zc8d3WZ9Ci4bUupzR8ZCYtaaW6QjBkKy21NEpdUP2JnmKFGkSI8OoUTWRSYOglRWu44Q0NsjoShpbwwRGZ+ayqlpLbISFsHhmRS+y8vo3gzGidv3Y2iNm3kk17U83RxtVRSz8auTJ9s10fYD4bp/+Ax0ZWVxe+2rwra3rYnzb6j2fLxJ8YqgNyxMV7Cfr+hBv/QRdM48bcKdQ3xcvVAJE9Fxo1bM4gzWhh8Jq1vZl13eEuegtgJqag9X32XAgigLWWPvFk1d5PWx28/Hc6JA9OfmnQT3Fm4N6ayz+oe9qir6XwBAWy6l1fZ9kxNPd/oLcRwDdfg33H3E8bL91BQsa3o1um3ft3vL/iBx2o=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Request History Details",
+    "permalink": "/saviynt/fetch-request-history-details"
+  },
+  "next": {
+    "title": "Get List of Pending Requests for Approver",
+    "permalink": "/saviynt/get-list-of-pending-requests-for-approver"
+  }
+}

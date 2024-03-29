@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-firefighter-role-details",
+  "title": "Get FireFighter Role Details",
+  "description": "This method returns a `List` of active 'FireFighter' roles in SSM.",
+  "source": "@site/docs/saviynt/get-firefighter-role-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-firefighter-role-details",
+  "permalink": "/saviynt/get-firefighter-role-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-firefighter-role-details",
+    "title": "Get FireFighter Role Details",
+    "description": "This method returns a `List` of active 'FireFighter' roles in SSM.",
+    "sidebar_label": "Get FireFighter Role Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Get Role Details for user",
+    "permalink": "/saviynt/get-role-details-for-user"
+  },
+  "next": {
+    "title": "Remove Role",
+    "permalink": "/saviynt/remove-role"
+  }
+}

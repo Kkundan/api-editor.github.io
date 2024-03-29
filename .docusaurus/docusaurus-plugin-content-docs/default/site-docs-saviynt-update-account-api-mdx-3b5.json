@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-account",
+  "title": "Update Account",
+  "description": "This method updates a particular 'account' record in Saviynt, based on the account name.",
+  "source": "@site/docs/saviynt/update-account.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-account",
+  "permalink": "/saviynt/update-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-account",
+    "title": "Update Account",
+    "description": "This method updates a particular 'account' record in Saviynt, based on the account name.",
+    "sidebar_label": "Update Account",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create Account",
+    "permalink": "/saviynt/create-account"
+  },
+  "next": {
+    "title": "Assign Account to User",
+    "permalink": "/saviynt/assign-account-to-user"
+  }
+}

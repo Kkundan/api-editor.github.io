@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/updatedatasetvalues",
+  "title": "updateDatasetValues",
+  "description": "This API is used to update the values of the DatasetValues.",
+  "source": "@site/docs/saviynt/updatedatasetvalues.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/updatedatasetvalues",
+  "permalink": "/saviynt/updatedatasetvalues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "updatedatasetvalues",
+    "title": "updateDatasetValues",
+    "description": "This API is used to update the values of the DatasetValues.",
+    "sidebar_label": "updateDatasetValues",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzVVm1P20gQ/iur+dRKNgkpFHDFB5qmPe6OgkiuVwnQZeydxNvYu+7uOG0uyn8/7dpACikvUr+cP9njeXl2duaZWQLj1EFyAe+Q0RHDVQSSXGZVxcpoSGCUKyeOzo6FcqJ2JAUbUVcSmQTnJOZY1OSEmYSv1sunINy61Jd6lJMYH9WcG6v+Re9zLMraschxTgLF+C2hJTsWE1MU5htJkS68eGRmpMfBxQlqiWzsQlRosSQm6xIhLvVYNuE0ljQOggYYMluV1kxuDBGYimwIfCwhgUajNWzAQwSWvtbk+K2RC0iWkBnNpNm/YlUVKgv2nS/OZ2QJLsupRP/Gi4ogAZN+oYwhgsr6aKzI+b9r8NaUHVulpxABfceyKrzoT2Ry/E8fLawiKEwTr2/kI3bbXa9/99CPA8sULx72fPS2Dyv/3AiDYRPqh1v24pDHeydeP9bdU3nom5E32G4BeAiWXGW0axR63W4I9UOVbgIWQU4oyQarvtGaskZ7ww1uSMGMqIqxUHMCj+EdMj3V9G+Skejui99rLXrdXk90Xyfbe0nvQHw4GQVvQ+K4b8xMPdlnvz88fx+PTv8YfDxMMUtfv0pfxa8mkuKdvb39+CDdTuP917SPBzs7Bz25+0acIeeHnSYcW5VxPLKoXWUsx0PKattWwVOil/g9xikdbu/u9Xb2u903QumsqCUN6/SdKVFpFwKFCBOy8UBnRnovTwyQ5bWekQxOPqF9MrCjLCPn4r7RbE0RnzeNHP/W3rx39zn8Jc3xaFFRfBpqxj01gDZOq8mk9fTeE9BzXQyPTgan58cfjj+2Xj4Ph/GZNfy8gtx+I0oj6TAtTDaD0Bi/iKjIWmPv0I2uy5TsOoDuKoLSTR85ax0uBJ5NHWsYum2cdWcNEdwOAEgultDyTIWcQwRK3757QleWJCRsa4p+mt/V6iqCkjg3fjhUxoXkeB8JdDaTiiM7vwZQ2wISyJkrl3Q6SyaNmldbDudqoTkrTC23MlN2Bv2TDlaqM9+FCOZoFaZtWhqT+4TWyv00nmBdMCQ3SV4F0K7t4KE/WeMrRacyP2vXzumxQXt+/x10/NRIw9x9TDsohar1NXV+OyYH1zf+60nf3+TEBFSKm6Jq8ikGmslWVjkSx5I0K16Ivk9yWFDOaUKWdEawcYfpm6JoGk5U1syVJBd2FkmMqrhZYVxdeYYkKZqycGJibPjzOIoXg+P+S3/DZF0TeXeruxWGtC+tEkNXtonaXF0/AF/bRP7/e1hbYkzfuVMVqHTYXXwDLduOu9iYk6sIct+XyQUslyk6+ssWq5UXf63JD4qLq9ueCl0plfPvEpIJFo4eSOqL85YnXoqfIWyFqBehdQNbAUQwo8U13ayuVte7Rojf/FofOmum93h6FV1b+FlW8YO662x1djocQQRpu7SWTY9Z/Ob5D79BApdwCWEDvhlXQb6EAvW0xqnXb/z65z9DUSnM",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "getDatasetValues",
+    "permalink": "/saviynt/getdatasetvalues"
+  },
+  "next": {
+    "title": "deleteDataset",
+    "permalink": "/saviynt/deletedataset"
+  }
+}

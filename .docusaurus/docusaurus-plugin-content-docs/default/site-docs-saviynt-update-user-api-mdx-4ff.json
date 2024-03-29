@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/update-user",
+  "title": "Update User",
+  "description": "This method updates a specific 'user' record in SSM, based on the input parameter `username` of the relevant user.",
+  "source": "@site/docs/saviynt/update-user.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/update-user",
+  "permalink": "/saviynt/update-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-user",
+    "title": "Update User",
+    "description": "This method updates a specific 'user' record in SSM, based on the input parameter `username` of the relevant user.",
+    "sidebar_label": "Update User",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Create User",
+    "permalink": "/saviynt/create-user"
+  },
+  "next": {
+    "title": "Bulk Upload Users",
+    "permalink": "/saviynt/bulk-upload-users"
+  }
+}

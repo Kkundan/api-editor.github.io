@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-request-history-details",
+  "title": "Fetch Request History Details",
+  "description": "This API call can be used to fetch the request history details of a request.",
+  "source": "@site/docs/saviynt/fetch-request-history-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-request-history-details",
+  "permalink": "/saviynt/fetch-request-history-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-request-history-details",
+    "title": "Fetch Request History Details",
+    "description": "This API call can be used to fetch the request history details of a request.",
+    "sidebar_label": "Fetch Request History Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Request History (my pending requests)",
+    "permalink": "/saviynt/fetch-request-history-my-pending-requests"
+  },
+  "next": {
+    "title": "Cancel Pending Request",
+    "permalink": "/saviynt/cancel-pending-request"
+  }
+}

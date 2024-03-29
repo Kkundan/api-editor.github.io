@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/approve-reject-account-entitlement-details-1",
+  "title": "Approve Reject Account Entitlement Details",
+  "description": "This API is used to certify/revoke the user's access (account, entitlement). When an approve or reject action is performed for a line item in an Application Owner campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+  "source": "@site/docs/saviynt/approve-reject-account-entitlement-details-1.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/approve-reject-account-entitlement-details-1",
+  "permalink": "/saviynt/approve-reject-account-entitlement-details-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "approve-reject-account-entitlement-details-1",
+    "title": "Approve Reject Account Entitlement Details",
+    "description": "This API is used to certify/revoke the user's access (account, entitlement). When an approve or reject action is performed for a line item in an Application Owner campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+    "sidebar_label": "Approve Reject Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Account Entitlement Details",
+    "permalink": "/saviynt/fetch-account-entitlement-details-2"
+  },
+  "next": {
+    "title": "Lock Campaign",
+    "permalink": "/saviynt/lock-campaign-2"
+  }
+}

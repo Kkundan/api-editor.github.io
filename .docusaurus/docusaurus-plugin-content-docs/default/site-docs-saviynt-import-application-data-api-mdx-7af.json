@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/import-application-data",
+  "title": "Import Application Data",
+  "description": "This API is used to run import data job for a specific application",
+  "source": "@site/docs/saviynt/import-application-data.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/import-application-data",
+  "permalink": "/saviynt/import-application-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "import-application-data",
+    "title": "Import Application Data",
+    "description": "This API is used to run import data job for a specific application",
+    "sidebar_label": "Import Application Data",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztVlFv2zYQ/ivEPbWAZNluMywa+qAqaue1sQPLQRekQUxTp4iNRKok5dUz/N8HUnKsLGmTlwF7aAAj1PH43ZF3991twdAbDeEljIaDIYllVUlBzg0vueGo4cqDDDVTvDZcCghhUXBNorMJ4Zo0GjNiJFGNILyqpTIko4aSL3JFcqkIJbpGxnPOCK3rkjNqQT6rz+63KJAso8YUUvG/3c6SVI02pKBrJMu3SBWqJcllWcq/MCOrDVku5C2K5R7hlIqMGqk2pKaKVjok+52l3miDlaAVLj0nYFIIZNaK2dQPhVOruT89c5el5R72DjVvylIqLpjCCoWh5ZL4xAqDnqyFpozJRhgtFWUMtbaae1nQipxePE+iRXKeJvN06ZML1MFU7u1FWcY7T7rndQ6hQaUJo4LQUkuyQlJTbUPh393/nVQEv9GqLtG7E44GxMrT6IxMHJxHaiXXPENiCuxj++SPeHYdpb/P0oXn1ulFOp23y/jjJJl2Yuu3R86iNP00m59YI+PWSPQpfcoI8a3WdRTHSZpef0guvN5nmsTzZHG9R95vzc6ni+vJiRfPZ+lBMJ99TK6j+RQ8kDUql0uTDEJoXy065N4JNRQ8UPi1QW3eymwD4RaYFAaFscuqKQ2vqTJBLlXl23S2Ys0KrNzKZg+EIFdfkBnwoFbWpKuVFqmXUD19bRQXN+BBFxUIIXUpOoKdB/eT88fHspU9ccjvZxpxf/bmupZCt96Oh0P7736Bt1Ej3UsVSDNUTvuEGnz0LR4xuygajwzHJGpuyHg4+pWMh+H4dTgek/enC7COpKjWqJ6LF9WUFejHciMNBqPBqMMwfizlLX+2X3Gczt/5i9mHZPpmlb9Cmh1RH18d5f7r7DXzj+nxyB8fsxHF/Jd8zNhv5Iya4k3gzC0UFTpH5SeCycxCP9MqKxpxi5kD+dN/ZyvAbzlGPxcijU6T2XzyfjIFF8deyvaoNfiibQyfn6+olFSxzJ7IoqFNuUrf/Firy5xaSctuRBuqDGZEN47tLE1uBmclUo22cxBWILttz6SGmkbbVnKDxvEEa5RCYSyIaXR7586Sc7yfpeEW1rRs8F8XgiF0Tv/HnrWVdWA2CC+30JYm1NQU4AEXh7UlH64wg9CoBr3vhn+3u/KgQlNIS2W11C58FiOEoGW2rki1q6XWbqNKCKEwptZhEGwNCirMbqDpmm+EYaVssgGTVZDEpwGtebA+Ag/WVHG66p62PfKQGDq5HQhy2pQGwrvY75yvGlmjuNmk9kIt1opqzmyP713P+gbdte2307EJtnId/yltp+RKiYtcOk1u2hpp70gSYVDVimskkwyF4WZDYntxN7fMMUeFgiE8OtrEsixbKt73Le3CnqGhvNRE5u5TN7UNAGakjZB2A4/dedqLF8kkfmlfHZVuLR8NhgNXYzbKFXUl3CVQl7q9Hran5nvO95rYzxHt54j2fx7RusI2+M0EdUm5sInvaGvb0dsl9OjtyoPCcl94Cdvtimo8V+VuZ8VfG1QbCC+vDgTmKDDj2q4zCHNaavxBpbyYd1z8knzPsU5IxcbxpGszAB7c4mZP6bur3X5Qcvbbrbi14i8swOHoYwPmztsfihjD2vTUHzT3e03hbJYuwINVN8dWbd+zwFnLEXfL8PJqt9v9AyT81Xc=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Test Connection",
+    "permalink": "/saviynt/test-connection"
+  },
+  "next": {
+    "title": "Check Import Status",
+    "permalink": "/saviynt/check-import-status"
+  }
+}

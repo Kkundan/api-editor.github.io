@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-account-entitlement-details",
+  "title": "Fetch Account Entitlement Details",
+  "description": "This API returns user details, account-entitlement details of a particular campaign required for certify/revoke API. If last certified actions and last certified comments are configured during campaign creation, then it is displayed in the API response. If the employmentStatus parameter is passed with this API, then only the match records in the certified field are displayed in the API response.",
+  "source": "@site/docs/saviynt/fetch-account-entitlement-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-account-entitlement-details",
+  "permalink": "/saviynt/fetch-account-entitlement-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-account-entitlement-details",
+    "title": "Fetch Account Entitlement Details",
+    "description": "This API returns user details, account-entitlement details of a particular campaign required for certify/revoke API. If last certified actions and last certified comments are configured during campaign creation, then it is displayed in the API response. If the employmentStatus parameter is passed with this API, then only the match records in the certified field are displayed in the API response.",
+    "sidebar_label": "Fetch Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Certify User Manager for Campaign",
+    "permalink": "/saviynt/certify-user-manager-for-campaign"
+  },
+  "next": {
+    "title": "Approve Reject Campaign Account Entitlement Details",
+    "permalink": "/saviynt/approve-reject-campaign-account-entitlement-details"
+  }
+}

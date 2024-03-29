@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/lock-campaign-1",
+  "title": "Lock Campaign",
+  "description": "This API is used to lock campaign after validating whether Entitlement Owner campaign is completed or not.",
+  "source": "@site/docs/saviynt/lock-campaign-1.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/lock-campaign-1",
+  "permalink": "/saviynt/lock-campaign-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lock-campaign-1",
+    "title": "Lock Campaign",
+    "description": "This API is used to lock campaign after validating whether Entitlement Owner campaign is completed or not.",
+    "sidebar_label": "Lock Campaign",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWN9P20gQ/ldW+1QkmziGJIorHqibnrgrBZFU6gnQZWyP423sXXd3HchF+d9Pu3ZSUyCkd304qeUB7GX3m18783lmRTXMFA2u6eDQIyEUJbAZV9ShI66ZzrFArsnFHUdJbx2aoIolKzUTnAZ0kjFFTi/PCFOkUpgQLUgu4jmJGxwCqUZJFpCzBDTjM3KXoc5QkkfoX88wRWJRlDlqTIiQhAt9eMNv+CRDMj2tdCYk+xuMClNSVEqTDBZIpm8QJMopSUWeiztMSLQk04mYI5/a4+fAE9BCLkkJEgoVmMXpRupZMrXvC5QsZSjt24U1FPKHJ1DqOS6n1KGiRGkVOUtoQI3lGwd2qUMlfqlQ6TciWdJgRWPBNXJtHqEscxbbk53PyrhyRVWcYQHmSS9LpAEV0WeMNXVoKY0czVBZmK3Crb1KS8Zn1KF4D8ZzNKB9j64d2ii7e+vA79nNG9t374akYNzr0vV6vV22mr03kd84wCwsIK/wW52NYi29auFt2W0BVoZEVQquaiG+55k/D+/hA8nEJeOPYTgaj6lDM4QEpT15GseolBsKrqXI3VNzS9xQYoJcM8jVk0F4wn4tK6RGrycBLySbsacD+gRWpnUZdDq5iCHPhNIWN4Q4ww3svkilUNqNM4znJ55DSomblxpScI5x7a398OaIpQs5W9S2vgWN+x49F9wh3R75veLE93yP+H7Q8wPPJ7+dTyza6L5kEvf2+LjiDhmQc1iS7nDYI10/8LzA87Z4lxJmNcg+cFy4sXGxPXqFKUqJ0r0UOYuX+2IoKNAVdawNzBi1GwoxZ3t7KQzHV+/cycUfow8nw8HA97vDgZtGfuwed9PUjRASNzqO+n2vB8PuoP+aXILOTjq1OC1ZrN2JBK5KIbU7xriSTO+tfwH3LszwZDAY9D3Pe00Yj/MqwXEVJaIAxpWVYwWkKN0Rj0ViQPbEj7OKzzGxIJ/sXUau3cmyRLcuqnsHnwvFWZo2SO+kcfx3QrwdffizOf9pPHYvpdDflwzd16QQCZ5EpsTXhe8HVXOUUshQJLhbAVuejXBMHld0kBKW1KFMY6Fa67wqIpRtHFNr1633a7Nwu3ZooWYvpaAtdkYNLTTkZ3xD0aExJm3s36HVA7m3G5z31qZ9MXYoOLrYUq9/1P3rCmPBUzarJLafiUssu5BX9R/7+4A+0O2/Qd3upsUWObUJsnUNqGHDb0Jdx6kJ0zYWL4Xi+naXk3+AndbU467/MiG/Oz17//Fq9IuQ/yeEfBR4fuAf/SLkZwg5Oor8IXbB7fb7Pfc4SsAdHkfHbr+XRoMBeFEPhr8I+Scm5C7dhzVPY80WSDa9DbljOiMcCiRNj2N6W5KKiicvtFOtGvocb5iWsyaI7xRb13Hb4qK2tfl6Rc12U8VAZ4aA+ddn09YyiQkNTOF1no3Xem0YC3UmkqYcGmcbjICaAjsfcW07/23L6FCFcrHRoJJ5U5BV0OmsNHLgen2oYMGWXMe5qJLDWBSdUXjegZJ1Fj3TRoJkEDUerI88Zqdm3UwzUqhyTYNtzNZWa9Uk79iYVmNFoFhshg8tQ41utHGAebd7zMWI7Cjipd12k00Dc0mvvk4LRpsL9K87ZxOxVFjhZspiSnbtNjN3QVlKppCcWaLVSxIaX9o5ji2+yGOkT456QpHndaKSUooFS1ARnSFJUAPLFRGpfVVVaWogJqQOvyKpkPY/L2vxanQWHtRWqVpy79A7tN+/5goVYLO5uZ0PJw7fqNyauPz0g6rmCmq8150yB8ORTp1gqyYlr+mTKXnrUPsZFFzT1SoChR9lvl6b5S8VymX9kblJOpu2CVPmOaFBCrnCHUF5ddVUkgPynIqbPoAvbW7bqkepQ+sEsJqvTS9Rf1Va+fW/2gTXOvqIGdbO5oT5eCz1zr3tenZ5MZ5Qh0bNcK+oa7CEO1Mh4Y4G9IbeUDsj3FKjXV/RHPisgpnZX+Oan38AdgJXJw==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Flat Response Entitlement Owner Campaign Details",
+    "permalink": "/saviynt/fetch-flat-response-entitlement-owner-campaign-details"
+  },
+  "next": {
+    "title": "Approve Reject Account Entitlement Details",
+    "permalink": "/saviynt/approve-reject-account-entitlement-details"
+  }
+}

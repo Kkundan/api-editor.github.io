@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-control-attributes",
+  "title": "Fetch Control Attributes",
+  "description": "This API is used for fetching the details of dynamic attributes associated with an analytics control. This can be used for both Elasticsearch and Database analytics.",
+  "source": "@site/docs/saviynt/fetch-control-attributes.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-control-attributes",
+  "permalink": "/saviynt/fetch-control-attributes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-control-attributes",
+    "title": "Fetch Control Attributes",
+    "description": "This API is used for fetching the details of dynamic attributes associated with an analytics control. This can be used for both Elasticsearch and Database analytics.",
+    "sidebar_label": "Fetch Control Attributes",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWN1T2zgQ/1c0ermWsRMHSCnu8BBCesO1FIbk7noDTLOWNrGKLbmSDPgy+d9vJDshFAJp515u5njBlnd/+6n9yIxamBoaX9CdVkR6ErLKCmboVUA5GqZFYYWSNKajVBjSOzsmwpDSICcTpckELUuFnBKbIuFoQWSGqAnhlYRcMALWapGUFg0BYxQTYJGTW2FTApLAQhphSlqtshbxUhhIkuC9lETZlAwyMI4WQTPHzckRWEjA4D1O61JeylGKZNwrbaq0+Buc9mOSl8aSFG6QjA8RNOoxmagsU7fISVKR8Uhdoxx79hOQHKzSFSlAQ25iQi7leCnCVgWOXw2G7aPD1w+/SMhxTL5sbZ2eb219IWPBxzSgqkDtlTjmNKbeX/3a2N7SNzSgGr+VaOyh4hWNZ9T5A6V1j1AUmWAeov3VuFDMqGEp5uCenDo0pir5iszSgBbaCbQCjedd1XqF3Fgt5JQGFO8gLzJ3dHRI5wEV/HmqNx1HlcPd82SeSk0mBu3zhBGdz+fLA6/ze+ci0viIrDgpntEbyEp8wjCnfa2807BRkLqnhRK1JC9MoymUNDXidhS5fw9Tfa0KAU0ROGrP2mMMjQkbsrDn0insa+QorYDMPBmoJ3xgdYnUKfYk4KkWU/F00J/ASq0t4nY7UwyyVBnrcfvAUlzAbopUKGNDliK7PogCUmhcvHjII7C4KdIoLQPS2SO/lZJsR9sdsh3F3SiOdsmvJyOPNrgrhMaNHTYsZUD2yAlUpLO/3yWd7TiK4iha4p1pmNYgm8BJFTLnIc96jhPUGnV4pjLBqk0xDOQYqjpUDmaI+gb1pty9oolQpSy2O61Og2HDvlLXYmNP9/vD8/fh6PTD4NMB232LbyedNyFP9jrhLkYQQsKikHHc2+f7sJPw6B05A5setGtxVgtmw5EGaQqlbThEVmphN/ZBDnchTPFgp9PdeRNF0TsiJMtKjsMy4SoHIY0X5CVMUIcDyRR3KBsKYGkpr5F7kM8+n1HacFQVGJ76q7txBkllpJhMGqT32kXvByGOBp/+avg/D4fhmVYWWV0/NgPovCO54niQZIpd12Xw36r6y4L1UZjVAgxaQ+UKpcXc/ADOEU6gzOwfi+q73qhfBtKiJj3GVCktOT4iKWr8xbWDJdoHrFZAZJknqFdBOrvdVfKPkGD2wv35c7gQaR6I+gT5CwqvZd3AWEc/UTqHF5rcsD5yLVFz1MeSo++fsswySByJawErHO7Dal+k8cXaaKx1+fce7+x2H3v1of2PPLf280I4vffAwsyHVnpTrpwpWivNFH/Bp5GfL8z0pQ7gW+XPDg/f3Y//uHMf+JZGtPHfqpPqwcfPs2j9+HIxo7LWogCbupog75/dMCo08kViritncyc8R5sq3kwMroY4jJi21466xvfGWodSZ83UYuJ2e2ZRgrTzloEbUUnLMlXyFlN5e9A/aUMh2jddGtAb0MLdm7qEeZbHM1xz7rYYH1EaL/Nn7vU2TXsbOuNqrASMYG5zWDHV6UYbF7h3T+OSNPF7xEvUnsj3CVfFz++n/MEimX9ymHURmygvWtj6UtROIz5lCy0MkmM/i9qK9J0n/fbmBxyUDOmTC15fZVndx0ih1Y3gaL7f7dyrKQs3IyAndfiN39Pcl5e1eDU47r92YURtasndVtTyJrkUysE3uyY7nxnFH2i/sjL9v6n+3KbaZJ/FO9suMnCTbFBf0FlzqS/W7a9XAfXbRnxBZzNn6O86m8/d8bcSdUXji6v7a+svPhfGPXMaTyAz+Ew0X5031eg1WafkYryRla8Oy+p57UpzrbvvQfXy5uXXn1ZnyBXWR8PXPFhwuB2tsM/SrtbEs9PhiAY0adb6vK7RGm5dlYVbGtNLekn9zwTL6dOfz2gGclrC1NHXuO7vH7MtD1g=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch List of Analytics ES",
+    "permalink": "/saviynt/fetch-list-of-analytics-es"
+  },
+  "next": {
+    "title": "Fetch Control Details ES",
+    "permalink": "/saviynt/fetch-control-details-es"
+  }
+}

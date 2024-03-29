@@ -1,0 +1,32 @@
+{
+  "id": "petstore/schemas/id",
+  "title": "Id",
+  "description": "",
+  "source": "@site/docs/petstore/schemas/id.schema.mdx",
+  "sourceDirName": "petstore/schemas",
+  "slug": "/petstore/schemas/id",
+  "permalink": "/petstore/schemas/id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "id",
+    "title": "Id",
+    "description": "",
+    "sidebar_label": "Id",
+    "hide_title": true,
+    "schema": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "HoneyBee",
+    "permalink": "/petstore/schemas/honeybee"
+  },
+  "next": {
+    "title": "Order",
+    "permalink": "/petstore/schemas/order"
+  }
+}

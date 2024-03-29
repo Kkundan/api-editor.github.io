@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-entitlement-owner-campaign-details",
+  "title": "Fetch Entitlement Owner Campaign Details",
+  "description": "This API return details of a particular Entitlement Owner campaign in SSM.",
+  "source": "@site/docs/saviynt/fetch-entitlement-owner-campaign-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-entitlement-owner-campaign-details",
+  "permalink": "/saviynt/fetch-entitlement-owner-campaign-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-entitlement-owner-campaign-details",
+    "title": "Fetch Entitlement Owner Campaign Details",
+    "description": "This API return details of a particular Entitlement Owner campaign in SSM.",
+    "sidebar_label": "Fetch Entitlement Owner Campaign Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Account Entitlement Details",
+    "permalink": "/saviynt/fetch-account-entitlement-details-1"
+  },
+  "next": {
+    "title": "Fetch Flat Response Entitlement Owner Campaign Details",
+    "permalink": "/saviynt/fetch-flat-response-entitlement-owner-campaign-details"
+  }
+}

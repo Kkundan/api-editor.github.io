@@ -1,0 +1,35 @@
+{
+  "id": "restaurant/make-payment",
+  "title": "Make Payment",
+  "description": "Froyo's the best!",
+  "source": "@site/docs/restaurant/make-payment.api.mdx",
+  "sourceDirName": "restaurant",
+  "slug": "/restaurant/make-payment",
+  "permalink": "/restaurant/make-payment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "make-payment",
+    "title": "Make Payment",
+    "description": "Froyo's the best!",
+    "sidebar_label": "Make Payment",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJxtkMFOwzAMhl+l/BcuUVfgljtc0LSJwanqwd0MrWiTkLjTqirvjrxdxsTJkp3/cz4vEPpKsLXWJzQGB0772AfpvYPFS/Szv0+FdFy0nOQOBpFT8C5xgl3wWFVa/qY2r8jZYGTp/AEWwSeBQSDpYLEKNMOgd59eo9LLwLB44yQ0RXJSPJ9oDAPD4MgxXZgPZVVWuP3f7vywuGqWyOa8cCSneEej0tf0zcWW5pGd3FIW7L0THfwvLHNQhPBJVmGg3umKKQ6avDjVUKfGoFNTW2NZWkr8EYectf0zcZxh68bgSLGnVo3r5vpG283uHTn/AnvKhbM=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "restaurant/restaurant-example",
+    "custom_edit_url": null
+  },
+  "sidebar": "petstore",
+  "previous": {
+    "title": "List All Drinks",
+    "permalink": "/restaurant/list-all-drinks"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/restaurant/restaurant-example"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-savroles",
+  "title": "Get SavRoles",
+  "description": "StartFragment",
+  "source": "@site/docs/saviynt/get-savroles.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-savroles",
+  "permalink": "/saviynt/get-savroles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-savroles",
+    "title": "Get SavRoles",
+    "description": "StartFragment",
+    "sidebar_label": "Get SavRoles",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "get api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Validate User Data",
+    "permalink": "/saviynt/validate-user-data"
+  },
+  "next": {
+    "title": "Accounts",
+    "permalink": "/saviynt/accounts"
+  }
+}

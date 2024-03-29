@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/discontinue-all-pending-tasks",
+  "title": "Discontinue All Pending Tasks",
+  "description": "This API can be used to discontinue all pending tasks.",
+  "source": "@site/docs/saviynt/discontinue-all-pending-tasks.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/discontinue-all-pending-tasks",
+  "permalink": "/saviynt/discontinue-all-pending-tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "discontinue-all-pending-tasks",
+    "title": "Discontinue All Pending Tasks",
+    "description": "This API can be used to discontinue all pending tasks.",
+    "sidebar_label": "Discontinue All Pending Tasks",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzVV1FvGjkQ/ivWPLXSLixJaNqN8kAJPeVObVCgUk9JJLz2wLp47a3tpeHQ/veTvUtDVJLQu3s5JITXa3/zeTzzzbABRxcW0hs46SRkwBhaS67xW4XWQQRTapcWIvhccuqQ+Ee4i4CjZUaUTmgFKUxzYclgfEkYVSRDUlnkxGnChWVaOaEqJFRKUqLiQi2I86CdW3Or/HeaI5kNKpdrI/6iHnJGiso6ktMVktl7pAbNjMy1lPo7cpKtyWyql6hmHbLFuApUqCQlNbSwaXgxqwLpyqKZbRfOmC4KVM6a5ogziECXaILdSw4p7JAeSDluKG/d0O56r/ka0g34haicH9KylIIFmO5X692yActyLKgfuXWJkILOviLzbi2NN+oE2gam4bSz0joj1AIiwHtalBIfEyNzowtCSwF1BA+nfH4/5YVQUNf1j8lg8GIHdiAlaU9MmiOnG1hRWeFjmvu5PKbyYC+YNGhLrWxj8yhJ/M/jKHqeSAQ5Uo4m7G/CNB5q5YyW8cBHRjw0yFE5QaXd6/w9LnGmQvDs9gJeGbEQ+y9yD1buXJl2u1IzKnNtXcAdUpbjFvZQpFJbF7Mc2fI8iUhpcPsQIC+ow0ORphVG5KhHfq8kOUqOEtI7Tfu99Dghv32cBrTRfSkMHuywSaUicko+0jXpvXvXJ72jNEnS5AFvbOiiATkETumYeQ+Frdc4R2PQxGMtBVsfimFpgbFursrDTNCsmlQ4ZPegbG9orR12e51ei+HiodZLcbCnh8PJ9Yd4evXH6NP5W9p/g+wtj+npMY9P5vwkzvpveXzKsjc8SY5PktP+GRlTl593G3POCObiqaHKltq4eIKsMsId7IOC3sd0gefHvf7xmyRJzohQTFYcJ1XGdUGFssFQsDBHE48U0z65DjXA8kotkQeQLyGeUbl4ui4xbqT34AhS2ioxn7dIH4y/vV+EuBh9+rPd/2UyicdGO2SNiBwG0DsjheZ4nknNlo0i/kdKjsZowzTHnaWqKjI0uwSSOoLCLl5QAaNDLbaOGre/noY6+m8UfYdu0lL6JbuNtIeaiy5o880GFC0Cf+pyiMAL6Hbsq6cwyCH1whs9eVd1fRdBgS7XvJVD72iPkUL3yfoMEdiQ+w2NyshWlW3a7W4cKqpc3bF0JdbKMakr3mG66I6GH7u0FN1VHyJYUSNo1vqx2fJzoWrnfRc0p5V0kP64tjpQt236Tvz5GqyMWsF8k7NzWs8NWi/457DGV/QstDwvrQ6LQh74KL1+6ExG2xj6pyXb39pcB9vCNbrfeI2MlENTGmGRXIZi69Zk6F0Z2r+g4KgYwt4OcailbBKVlEavBEdLXI6Eo6NCWqLn4dFWpRdB5KQJAUvm2oQ3L7N4Nbocvvb3iMY2lvudpJP4I/kwKmjI5jZCX2o4Hh1hp9n7v/e7bUA5vHfdUtLmxkO6bNosu3m6C/bdf2hv0hvYbDJq8bORde2nv1Vo1pDe3D3kUchELqwfc0jnVFp8xrGvrluFeE2e4tlOUrUO6RqEDCCCJa63QlPf1dtuMdhvXu0WrZ2tP6l9HW13+KawdM+u3dWp8dVkChFk7X+DIsgqGPrdKx/9Dincwi2E/xs/yl2Y34CkalHRhV/f4PrP3y68tUE=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Discontinue Tasks",
+    "permalink": "/saviynt/discontinue-tasks"
+  },
+  "next": {
+    "title": "Fetch Task Details",
+    "permalink": "/saviynt/fetch-task-details"
+  }
+}

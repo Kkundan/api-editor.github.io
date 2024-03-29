@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-account-details",
+  "title": "Get Account Details",
+  "description": "This method returns a `List` of 'Accounts' in SSM.",
+  "source": "@site/docs/saviynt/get-account-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-account-details",
+  "permalink": "/saviynt/get-account-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-account-details",
+    "title": "Get Account Details",
+    "description": "This method returns a `List` of 'Accounts' in SSM.",
+    "sidebar_label": "Get Account Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Accounts",
+    "permalink": "/saviynt/accounts"
+  },
+  "next": {
+    "title": "Export Account",
+    "permalink": "/saviynt/export-account"
+  }
+}

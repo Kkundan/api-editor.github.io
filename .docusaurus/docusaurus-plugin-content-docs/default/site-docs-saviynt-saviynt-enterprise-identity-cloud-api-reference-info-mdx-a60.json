@@ -1,0 +1,33 @@
+{
+  "id": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+  "title": "Saviynt Enterprise Identity Cloud API Reference",
+  "description": "This Collection provides the details of the supported methods for the Saviynt Enterprise Identity Cloud (EIC)",
+  "source": "@site/docs/saviynt/saviynt-enterprise-identity-cloud-api-reference.info.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/saviynt-enterprise-identity-cloud-api-reference",
+  "permalink": "/saviynt/saviynt-enterprise-identity-cloud-api-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "saviynt-enterprise-identity-cloud-api-reference",
+    "title": "Saviynt Enterprise Identity Cloud API Reference",
+    "description": "This Collection provides the details of the supported methods for the Saviynt Enterprise Identity Cloud (EIC)",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 0,
+    "hide_title": true,
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Saviynt",
+    "permalink": "/category/saviynt-api"
+  },
+  "next": {
+    "title": "1.0 Authentication",
+    "permalink": "/saviynt/1-0-authentication"
+  }
+}

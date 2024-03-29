@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/certify-usermanager-requests",
+  "title": "Certify UserManager Requests",
+  "description": "This API can be used to certify users employment status for user manager attestation.",
+  "source": "@site/docs/saviynt/certify-usermanager-requests.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/certify-usermanager-requests",
+  "permalink": "/saviynt/certify-usermanager-requests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "certify-usermanager-requests",
+    "title": "Certify UserManager Requests",
+    "description": "This API can be used to certify users employment status for user manager attestation.",
+    "sidebar_label": "Certify UserManager Requests",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV+9uGjkQfxXLn1pplz9pSJs99QOltIoqQgRUPSmJhNkdWJdde2t7oXsIqY9x93p9ktPYC2xCCpyud58aCcVrj+f//Ga8oobNNA1u6UWtQdrGgDbMcCk0vfdoBDpUPMNvGtBRzDVp31yRkAkyAZJriIiRJARl+LTAb6UJpFkiixSEIcgq12QqlT0jKRNsBoqwnZjanboT+BvFQMbt3MRS8T/s0ZikuTYkZgsg4zfAFKgxmcokkUuIyKQg45GcgxjXyIZHj4mIGakKkjHFUh1sT8YLUHzKQ2famPi7E6cvAG5+1KAESwGtWsYyJYXMyZIJUzHzEUtUyidXIkLmoImJgXz/9mdecvr+7S8ip3aXZZmSC1D1zUXLyVheLHQW+2SYQYjOLPm07QFyqapi2BysW5FKgc4gNHwBpMPSjPGZqJEbqTWfJEAWLMlBE6Ysu09SzV1ArGoe7r2VoImQhiylmj86G4FKuWAGIrvDRIS719IKlUIjIRpACLEeHfNo3x2VcBMeWQnLmIfxvknODURbH3CICBf7jrCxBQOqRrZRxF/f5ilLNsH/Yey3B6FMMU/1Y79v9h8oiDuonHU7m3Mxe+x9pz31qMxAWWlXEQ1omTeYW2UBDOBLDtpo6lHllm9kVNBgRUMpDAiDS5ZlSal0/bPGAlxRHcaQMlyZIgMaUDn5DKGhHs0UCjUcNJ4+sLhCzpRiBfUoN5Dq42xKg3Z02iguZtSj8JWlWYJbb/vd4XV/9Kk/+PCuP+h16dqjm5I6fDOaMJ5AgRd4dJi0+QKpNnVzmJZFKRd0vV5XNm93tuwrXNV3q5TTCQVX5W6Y31fZW1d1SgzEKPdKmNuGGSOCZfhEaP4LzaxymwK10s8aDfz3EM4PquzRGFgEyl5/yww8mX5PuL8nhUcaF6Sdz8hZo/mKNFvBWSt4cUHe90YUNRuCWrggnsKvnbEwBr8jC2mg3qw1Sx7G70g55yfr1ekMB+/8Uf9D9/r1ZfPsPJzCud88n0788xfwyr9svrz0L5qXrdZ5K2owdv4buWEmfl234kaKCT0F5XdFKCNkfaLUMM7FHCLL5Hf/HQKX73BKn8pi2O51+4Or91fXLql/EkSEMndMSjKRpxNQVclNTHGlpOrI6EgpY3Wmenac6CcB0z8GmBPtaJwORkfNHeZhCFrvI9GTNV1RkDYe1LgVtOP2L6CnDHnzobStCLoXnp+irIOjbdN2bHE0ogHNmInxvtitsSFyBRENjMrB+2GJrNf3Hk3BxBKFZ1LbLEEeAa1XWm5vr+Vqiz9Oj1wlNKCxMZkO6vWVAcGEWdc0W/BCmDCReVQLZVrvdnp1lvH6ooVeYoqzSel9d2UfXct9nKGnLE8MDbZJsLa6awhzxU0xRAMdrwnTPMQZuGIu6kZLN+C3pcEEnNiJ+Bi1JbLwgwAx2E0b3U1G/g8tCSM8lVZNblxxOAeTrjCgMsU1kKsIByxTkA563b4zBjAFBSIE+uRTpCOTBNzEiJM1j8p5MwLDeKI3c7fOs0wqAxFx6aK3k/NxLZ51rzrPnVXaSW7VGjULE5hyKbOYW2bzkYb6wILKqPfrXfXrXfXrXXXKu6oEOQNfTT1LGIKL5yB8VUL/LT0A/fcejbFPBLd0tZowDR9Vsl7j9pccVEGD2/sduFscjLjGdUSDKUs0HKjhZ4Oybz0nP1J0M+qIwvYQ25Sx6c6h2LQ/i5Vu8Lby3VHHSfFHyGB3dW/6W3ubG+0whMwcpK12z5v+cEQ9Oikfoanr7IotsR+zJQ3oHb2j9mG7Hdzs/oomTMxyNkN6xxf//gYzSHnj",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Attestation Details",
+    "permalink": "/saviynt/fetch-attestation-details"
+  },
+  "next": {
+    "title": "Fetch Attestation Account Entitlement Details",
+    "permalink": "/saviynt/fetch-attestation-account-entitlement-details"
+  }
+}

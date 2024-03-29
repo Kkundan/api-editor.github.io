@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/approve-reject-each-line-item-in-a-request",
+  "title": "Approve/Reject each line item in a request",
+  "description": "This API is used to approve/reject requests. Before running this call, first we need to run the API to retrieve request approval details in order to obtain the taskid and taskkey.",
+  "source": "@site/docs/saviynt/approve-reject-each-line-item-in-a-request.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/approve-reject-each-line-item-in-a-request",
+  "permalink": "/saviynt/approve-reject-each-line-item-in-a-request",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "approve-reject-each-line-item-in-a-request",
+    "title": "Approve/Reject each line item in a request",
+    "description": "This API is used to approve/reject requests. Before running this call, first we need to run the API to retrieve request approval details in order to obtain the taskid and taskkey.",
+    "sidebar_label": "Approve/Reject each line item in a request",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWNtu2zgQ/RWCT0kg+Z6bij64jlsY2zSF42IXSIJ6LI4sNhKpkpRTr+F/X5CUYqdpc+n2YYttgaCUPDwzPByeGWpFDcw1jS5or9Ei/ThGrckYP5eoDQ1oNSL9olByARm9CihDHSteGC4Fjegk5Zr0348I16TUyIiRBJw1NhV+wtgQ5UF0g7zCRCokqhSCizkxdm4MWRaQhCttyA0SgR5DlYKYFB20fUSjOC6wBqt8QEYYGuCZJlwQqRgqay1nBrifb0Bfc0ZAMDe8xmXjUl0K+zdJkUz7pUml4n+DXc+U5KU2JIUFkukrBIVqShKZZfIGGZktyXQir1FMG6TGOAXBwEi1JAUoyHXkfplWUf6By2ngXlSUqDuPkDEwMCU7PsigjjAgENtwdl9Ug6jd7ASkTcKa2oB0SEg8v3UoZ25LIKsjcY5imecojJ7WVnt7e++kwb29vYiggFmGdWgLyDhzNHBRxwcFJ0kG850bblJiVInNBDKNZAFZiXqXxCDIDAkwhsxuQSxFwuelcjjEWHy7Id5Tk3Ht3mxcaXKToqiXpW4H2m1eRWPjBBMoM+O9Epk8I3Kbl6LMsgYNqCzQBzZiNKLV7LEjcQhx+pYLHBnMR6K/OQFVCK8kW9JoRWMpDApjh1AUGY8dXvOTtodhRXWcYg52ZJYF0ojKmUWnAS2U9W446mru7f5vWYNSsKQB5QZz/QSU2B/CWztR5jNUNKD4BfIiQxq11wH12bVlpo3iYr5tRo9b3YPux48fe112jEcHnfAQW52wx7AbHnX2Mdw/ADiA3vH+/iHSCvMalw/67nYO1uv11ouLTcjtTVjP873l2uIHG8jOV5C9H4I8XF+tgzo31MOkAcu5sGzUp+wR81qyKnM7cyMUD29j92ibSueoX6msT2CCEKck4wKJzR57FqE+P9baHZ37qfeLbMn2jlS0b7N+n9q7zHr6HIMKdSGF9hR2Wi37392K9gxeA5oiMFQO7AQMflMDvpEKfyILSGufnGBMOq32EWm1om4v6hyRN6cTauM8R1Xl31Pw+gXEKYYDuZQGm+1Gu8Iw4UDKa/7kuAaD8/HrcHL2x/DdS2yxw4NOfBiyw6Qd9lqHByF0Zyw8bh2x7n6nl8zanRfkPZj0ZdO5mygQOkEVDkUsmYV+otc4LcU1MgfyVzjwEhtOlgWGvqjppyIJqQVPkgrptYL82RDn/dPh2Xj0ZvSOuoT5yYo/rvLvx1VfoS4z80g+xDEWxlL635L/OvZNgD9PdB7F/jcFAZWSaiAZPsxjy5KT6/kjKfZhMBien7/+8Jb+bFXfpNcvy/YdsmmLVoR+xZpXc9fqonEKfLGiAnI7pwCT2vMkNmPLGVfIaGSb2OC7SrC2/nM0qbTrKKQTeYcR0WZ/u2M8cfeOTaOonWD7OEqV0YimxhQ6ajZXBgUIs25oWPClMHEmS9aIZd4cDk6bUPDmYp8GdAGK267WS4Cbcr84Ve/tLcy1xDS6zau1i11jXCpulud2gR5rBprH9p6ztVwbG61osM/OxibvzN16HrN2Rk5lrQ6ONz3ysE7y/2+jYRMvkY49bvx59/tOhsKgKhTXSEYMheFmSQY2Gdwtd4wJKhQx0m/esQcyy9Atl9gQOEN/R6rvvzJxj7osCqkMMuKzWJNEKvfL41HsDEeDXZuJqLT3vN9oNZym2ZOQg6t41SF7Vpt0Zz1bt6jfnw9+fz74ZT4fVGJo8ItpFhn4q5+T+lVVIi7oAyXiKqCprSfRBV2tZqDxg8rWa/v6c4lqSaOLq00RcIJZrZfRyLH2wDHaGVf1bZd8L9C62RRLV2tc30BpQJ32+fhdp+NvNM6//2m7H9+aeq8ZtnrsZ/iW4EHb7Sr7/ux8QgM6qz6x5L7wK7ix4go3NKKX9JK67ze3nbx7v6IZiHkJc2vvce2/fwDTFAoT",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Request Approval Details",
+    "permalink": "/saviynt/fetch-request-approval-details"
+  },
+  "next": {
+    "title": "Get Pending Approvals",
+    "permalink": "/saviynt/get-pending-approvals"
+  }
+}

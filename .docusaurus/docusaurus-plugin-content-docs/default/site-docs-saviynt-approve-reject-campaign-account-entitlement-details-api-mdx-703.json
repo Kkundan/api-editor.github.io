@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/approve-reject-campaign-account-entitlement-details",
+  "title": "Approve Reject Campaign Account Entitlement Details",
+  "description": "This API is used to certify/revoke the user's access (account, entitlement) along with employment verification. When an approve or reject action is performed for a line item in a User Manager campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+  "source": "@site/docs/saviynt/approve-reject-campaign-account-entitlement-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/approve-reject-campaign-account-entitlement-details",
+  "permalink": "/saviynt/approve-reject-campaign-account-entitlement-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "approve-reject-campaign-account-entitlement-details",
+    "title": "Approve Reject Campaign Account Entitlement Details",
+    "description": "This API is used to certify/revoke the user's access (account, entitlement) along with employment verification. When an approve or reject action is performed for a line item in a User Manager campaign, then only the latest comment sent through the API is retained in the comments field but all the comments (including actions) are stored in the audit trail/history.",
+    "sidebar_label": "Approve Reject Campaign Account Entitlement Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Account Entitlement Details",
+    "permalink": "/saviynt/fetch-account-entitlement-details"
+  },
+  "next": {
+    "title": "Lock Campaign",
+    "permalink": "/saviynt/lock-campaign"
+  }
+}

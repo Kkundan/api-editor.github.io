@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/bulk-upload-users",
+  "title": "Bulk Upload Users",
+  "description": "This API is used to create and update users using bulk upload.",
+  "source": "@site/docs/saviynt/bulk-upload-users.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/bulk-upload-users",
+  "permalink": "/saviynt/bulk-upload-users",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "bulk-upload-users",
+    "title": "Bulk Upload Users",
+    "description": "This API is used to create and update users using bulk upload.",
+    "sidebar_label": "Bulk Upload Users",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV99PGzkQ/ldGfmqlXRICtHQrHmgIFXeiIJKeeqJIcezZrBuvvbW9gW2U//003kDDkSvh7R7K08bMfDOeH9+MFyzwqWfZNfvs0Xl2kzCJXjhVBWUNy9ioUB6OL89Aeag9SggWhEMeELiRUFeSPmtShtorM4VJrWdQV9pyufPVfDWjAmF8XIfCOvWDE+wYytoHKPgcYfwBuUM3htxqbW9RwqSB8cjO0Iyj+jk3kgfrGqi446XP6HCcK41jSOHS2bmSCKFA6A//AjqPjnnUKEI8n2EDuUItITQVAvdwqjRG8It4Ta4fYUvUqlSBnEoh8EkClaowAWHLku/ACea81gHmXNdIYWnPo+oPdPaEN9Err6xRZkogfw+GnU8XG1Q/XbR6UzToeMBh4wOWlArDS3yR6qDkSm+lIQoUM1dr9C8Tz60TtQ+2/Mbd+OvXX6tCLBwb4wsF6sqDMhCxqEhuCwwFOuBQOUznXCsZS4O0HX6vlUMJtwVlsy0lUopVloA1Ma0T7slCHn9oO1UCJObKoCRLdDjkc9WY6Nc9fO54ibfWzQDvAhrKEbz64/jqdayc9sJ4VymHFff+1jqZW2fwlkw/e+eoTZJXKKwRSuto9JRqj0I9wrvQVuJP0cph5axA760T1uRq+s1ThzySZgmzFWVZWXMmWcaoxz7HuLRtmzAKGvrwwcqGZQsmrAloAn2WtQ6q4i50cuvKVPLA6diLAsv4RV3BMmYn31AElrDKkbGg0NN/H7phTdQHp8yUJQzveFlpOopNwJYJozhuEiXjPJDvynDXkOij0v01fIN+XeNxn2yluqE1t9CLfxRdX1nj24j0ut02MOs8+YFYr00J3OekQC7pK1uwY0EpTvvWBGd1ekxcl/YdSjRBce03ZmSDU8HVyMijjYAXTk2V2RarCKHyWacjcZ564eoyrYNOd3d82zZC21ruCFtGe30uCrw3t62FyvqQxp4/6iax01c/WkhrDIo2ftvhzRCrlGs1b2NwwgNuqzqqMYHuIZxzB71urwfdN9n+XtZ7Ax/PRxFtENt+60wMa5PAWzjnDey+e3cAu72s28263Qe8S8en5eZW2wBnbCooxFH1CnN0Dl16abUSzbYYtk0/IQwxpH1rZ2rrAPX7w6vTdHTx5+DT0b7Yy7s9sZdi751I9w/fTtJDzGWKk/yNkLgnBB6+h0seiqNOay44JUI6ctz4yrqQDlHUToWtXS/5XcqneLR78La3f9jtvgdlhK4lDuvJiS25Mj4aihZydOnACCtXPbyNAVHUZoYygnyJdYwmpKOmwrRdArZOvLHeqDxfIZ3SQHkpxPD4fHBxdfbx7NMK5ctwmF46G17WDrvvobQSjybaihmLRLXG+7yqtBJxZnRopryE9NE5GkfyGWrtErGW/hkiXafGq3ZMwbCelCqEmJDlg3C0/ZRJswWLY/ZfnrEuW1l/3kRL4yWGwsoVMdGleShYxjr1wyhdKbOEeXTzaPx6wWqn1/hyEdBwE5ZPiLIz6J93eKU68wOWsDl3ik9Wl2pVno6N1Tlt3XGfYNlD4JbL5Q250TbSkDLXYtHiI2ihXgs7+UZORykasiRD2ZnE9fo56SgUa1GZ3EZJFdpSXe1QAxNoWVEe4SwOrdBAny4eHweRsNAIZBvfD32rdVvaULULu48LmsTAlX5Y4nxdEXmghDZRHnLrHm1y/+3Fq8FZ/zVFHZ1vLR/sdHdigVKySx7rv90WNg7rR26vLVC/X0C/X0C/X0D/gxfQirsC3oVOpTktOknLzIsVkV+zp0R+k7CCyD67ZovFhHv87PRyScffa3QNy65vflI1/Vre7+2R+WfY0G60ti5EZo/DaOPLapncK9GGXoU18ScDmfj9YSRdXgxHLGGT1QOubEccAUfc5OcnOblc/gNwwS9c",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update User",
+    "permalink": "/saviynt/update-user"
+  },
+  "next": {
+    "title": "Get User Details",
+    "permalink": "/saviynt/get-user-details"
+  }
+}

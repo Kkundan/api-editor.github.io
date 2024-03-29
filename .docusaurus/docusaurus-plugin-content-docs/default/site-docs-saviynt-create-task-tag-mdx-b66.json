@@ -1,0 +1,29 @@
+{
+  "id": "saviynt/create-task",
+  "title": "Create Task",
+  "description": "Create Task",
+  "source": "@site/docs/saviynt/create-task.tag.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/create-task",
+  "permalink": "/saviynt/create-task",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-task",
+    "title": "Create Task",
+    "description": "Create Task",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Check Task Status",
+    "permalink": "/saviynt/check-task-status"
+  },
+  "next": {
+    "title": "Create Task - Remove Entitlement",
+    "permalink": "/saviynt/create-task-remove-entitlement"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/delete-privilege",
+  "title": "Delete Privilege",
+  "description": "https://yourdomain.saviyntcloud.com/ECM/v5/deletePrivilege",
+  "source": "@site/docs/saviynt/delete-privilege.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/delete-privilege",
+  "permalink": "/saviynt/delete-privilege",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delete-privilege",
+    "title": "Delete Privilege",
+    "description": "https://yourdomain.saviyntcloud.com/ECM/v5/deletePrivilege",
+    "sidebar_label": "Delete Privilege",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzVVTtv2zAQ/ivETS2gWm6BLNoS14OHAkbiTLEHWjpbTCiSIU9KVEH/vTjKr9hB0qVDvVgi7/Hd4/vUAcltgOwBpoYUaazQUIAE5l41SuMWA6wSKDDkXjlS1kAGJZELWZq2tvaFraQyoyAb1RrKta2LUW6rdDr5lTZXaYEaCQ/BhFiaRamCuJ7PRO0KSRiENAJN4awyJJQR09lktDRsh+K6ptJ69VtyZlHVgUQpGxRS3KD06MXGam1fsBDrVkixsE9oRpCAdeijz6yADM5AQAIen2sMdGOLFrIOcmsIDfGjdE6rPPqmj4HL7SDkJVaSn6h1CBnY9SPmBAk4z5lIYeDbfRUnloG8MltIAF9l5TQf3bWBsPoOfQJ47Plg/5Hfzig6ukMtH7pIIh/tA+a1V9SGmPsv8fX94TiW9zO2UcxPczdS1/i29kOAd+o7FvGmhh3QS5ynYCIej8FZEwZAP8Zj/nu7nMBmFVJpefSujmOSVEIG59sYE/oGPROgg9rrk+XuCI001L+/2tKptLmCBBrplVzvOjS4XGLanTOPNrLW3KR9v/u+Xx3rvuNNG2KtZVA57//JtBgbg45WkA02PN91ZMNn1tEo9oc3+/bIgel++P9+jgkos7ERJYfkq6G/YmoIvfMqoJgVMWMrJtz0KBa3uEGPJkc4V6OoJxOrNeZRJZy3jSowCCpRFEhS6SDsJr6G2jnrCQsxbEgQG+vjzecovkxnk688cfRhyHw1Go/GkY42UCWjVhgZe33BlTPUJ5rzH8jpbuiEr5Q6LZXhoiNduh23Hi5EdpVAaQPxVdetZcB7r/uej59r9C1kD6sje/itT6BEWaCPZHzCFjKYDE36tmAAyV5tLkWaOXTg/Px+AQmsd9pe2YJdvHxh3ZcvkMESlhA/Ehwgki2ed6Cl2dYybvIQln9/ANTvf+A=",
+    "sidebar_class_name": "put api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Update Privilege",
+    "permalink": "/saviynt/update-privilege"
+  },
+  "next": {
+    "title": "Get Entitlements",
+    "permalink": "/saviynt/get-entitlements"
+  }
+}

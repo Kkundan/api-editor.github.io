@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/get-pending-approvals",
+  "title": "Get Pending Approvals",
+  "description": "This API returns pending approval details for an approver (approver provided in `username` parameter).",
+  "source": "@site/docs/saviynt/get-pending-approvals.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/get-pending-approvals",
+  "permalink": "/saviynt/get-pending-approvals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-pending-approvals",
+    "title": "Get Pending Approvals",
+    "description": "This API returns pending approval details for an approver (approver provided in `username` parameter).",
+    "sidebar_label": "Get Pending Approvals",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "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",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Approve/Reject each line item in a request",
+    "permalink": "/saviynt/approve-reject-each-line-item-in-a-request"
+  },
+  "next": {
+    "title": "Approve/Reject entire request",
+    "permalink": "/saviynt/approve-reject-entire-request"
+  }
+}

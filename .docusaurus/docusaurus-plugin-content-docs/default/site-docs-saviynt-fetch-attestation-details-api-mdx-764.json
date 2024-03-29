@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/fetch-attestation-details",
+  "title": "Fetch Attestation Details",
+  "description": "This API call can be used to fetch Attestation details for a particular attestation from SSM.",
+  "source": "@site/docs/saviynt/fetch-attestation-details.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/fetch-attestation-details",
+  "permalink": "/saviynt/fetch-attestation-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fetch-attestation-details",
+    "title": "Fetch Attestation Details",
+    "description": "This API call can be used to fetch Attestation details for a particular attestation from SSM.",
+    "sidebar_label": "Fetch Attestation Details",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV21v2zYQ/isEP62A/Ba7aaqhH1w3KYzBSRB72Ao3gM/UKWItkSp58uoa/u8DKTmWm/jl+xbACEnd+3N3PK45wZPl4ZRfNtusT4SWgKRWlj8GPEIrjMzdnod8kkjL+vdDJiBNmQDF5sgKixEjzWIkkdQFsAgJZGpZrA0DloMhKYoUDIMaUWx0xsbjUfOr+arcb5Igm/ULSrSRPz3NjGWFJZbAEtnsI4JBM2OxTlP9D0ZsvmKziV6gmjXZVsYIVASkzcpphcyG7PnTrLBobiHDGWswcg5JyyhBJtCQjCUa55FRkGGwY5LRr+R1H2TEA65zNH47jHjIfTRqwfhUxoIH3OD3Ai191NGKh2sutCJU5JZZkZJ0YWrF2mSNCAjcsRUJZn5Fqxx5yPX8GwriAc+NU0oSrfsqoxqNJSPVEw84/oAsT91R9/KKbwK+9f84cTQHmeKKb/yfs9rmWtlS00W77f7tJ8fNC/x3PicIERrP+wkIX/XqFSNGWgWsfcn6xRO7aHeuWKcX9jph+4p9Hk24M2uMZonmXHn9HESCjYFeacJWp9mpZFBjoPVCnm3XYDB+uGlM7v64vv1w0cbu1ftep9F59z5u9OYYN6B3CY13cfddT1zE2L54/zu7B0o+tLy6iQFlYzSNayV05ESfqVUkhVpg5IX83bgxkGHjLi9L9UwR4/7o+u5h+Hl4yz2qteSDPE+l8MC1vlmH6PmZV6uFquZrPGAMrHjAJWFmT8valuGJZB5otyAXjmDHA2l6nO0vbRaW3WjDRug5dZahInucy1PmneNEw/uS7OIcWd0TiSpILmHrXd47Tu2CXxK+PRE0RxVLY0mdbADjBJQEx5DCOfQjMN8L/OkYSBOkfSF0sR9ZVWRzNHWurutHeQSErisdVwBC68W2gZ22x2Zbg1yiP59P9zKslka/ZtF+qtQzhfMqGxzkFeLlWXcPugq5Ep4KHT7gewhsw1yP8nMoX0Syux+tKiT1iNTcfizT27t3PFRfykooykZwEKyOi6Mx2gx0dEJi2+eNFotTZXzrCDP7dALLQgi0Ni7SPTR9bh2+dsI1X0Ja4KEO9R9KhXom8C/8Ge3OHqK8zXeo8VteIfNL+Mt5wM9VSP5Sn655pTIHSlyrV7u1G3ekcRLJFBgcvKY2zsoMKdFOea59oLyMkLcOT1PWDwClEYVxYCVEuQ1brTWhAkWbpoWlXCkSqS6iptBZ63owakEuW8u3POBLMBLmVTKVLC9nm+rczcMxFCnx8Dk7N95wi6IwklZj510paw5WCjfH1nx1tvEqBm7vaVwJzP1Ue4raE/n7X6pYe0pJZbcufWTXitDkRlpkwwgVSVqxgXPcj+0PGKNBJZC/OtkPdJqi8DWUG72UEZaj7naO17Hf2iLPtSGMWAlXOeC7L6et+O16OHjjoo7GlprfNttN3y4c5Bn4uaPKpmMT5Z75tSn6/zfKsTdKlViEP6iVpyCVv0+NH5rKWpsefLk8BjxxVRlO+Xo9B4t/mnSzccffCzQrHk4fd9Xk6zGS1q0jHsaQWjwC2m8PVZd4ww5ZuZ0m1coXre/rrtUucLVtNv7KK58aXn/5aVBqaUycgB3ra4+tTbBl6guBOdXIX4zHe+3q/m484QGfV2+6rGynTrCXG+yW4fRxs9n8C9uYQ2Y=",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Attestation List",
+    "permalink": "/saviynt/fetch-attestation-list"
+  },
+  "next": {
+    "title": "Certify UserManager Requests",
+    "permalink": "/saviynt/certify-usermanager-requests"
+  }
+}

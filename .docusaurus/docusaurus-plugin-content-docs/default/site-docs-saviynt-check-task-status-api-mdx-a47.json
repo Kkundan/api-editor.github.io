@@ -1,0 +1,35 @@
+{
+  "id": "saviynt/check-task-status",
+  "title": "Check Task Status",
+  "description": "This API can be used to check the task status. Response can return task status as “New/Complete/In Progress/Discontinued”.",
+  "source": "@site/docs/saviynt/check-task-status.api.mdx",
+  "sourceDirName": "saviynt",
+  "slug": "/saviynt/check-task-status",
+  "permalink": "/saviynt/check-task-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "check-task-status",
+    "title": "Check Task Status",
+    "description": "This API can be used to check the task status. Response can return task status as “New/Complete/In Progress/Discontinued”.",
+    "sidebar_label": "Check Task Status",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJzlVttu2zgQ/RVinlpAsuRcGleLPqROWhiLXOA42AVSA6bEccRGIlVy5NY1BPRDdn+uX7IgJdd2c31fA4ZpcubM8MyNKyB+ayG5gYNezI6zDK1lY/xSoyUIYMLtne1+2QkSl4WFaQACbWZkRVIrSGCSS8uOL0cs44qlyGqLgpFmWY7ZHaMcGTl9S5xq22NjtJVWFr24QaqN2hZg3LKfP/45x6/RUJdVgYTRSLFLo28NWhudSJtpRVLVKH7++Lf3yXxS7jvJkc2Oa8q1kd+5c23GytoSy/kC2ew9coNmxua6KPRXFCxdstlE36Ga9dga44wrwUmbJau44aVN/MnMeSfFDALQFRqPPRKQgL+g4+bKew4BmJa691osIVmBcxQVuWVZFyQrbiiaa1OGghN32zbLsfQrWlYICej0M2aO+8o4YyTR+lPvwpacJSPVLQSA37hjCRLYO4pjaPzHedKy7LX34tj97IZt6MPjQ/vL/xy5QON1Tjjhgx4+YPkvFAGLB+y4vmV7cX/A9vpJvJ8cHrGPZxNw7lyhWaB5Kd5xxbMcw6FeasKo3+t3GBQOtb6TL/ZrOLwafwgnF3+enr87zN4MjjIxCPtHh3F4kMYiHIiDgzDdTzF9szdP+RH/g11yyt9F3tzEcGXnaMJTlWnhoF9oNctrdYfCg/wdfjC8xPDCs25fCnF1fHZ6MR59HJ2Dj+ZWIvGqKmTmkzD6bF0kX55FQ12WqMg+bZzQEsvWok0Al0YvpJVaSXW7DaHqouCp0yFT4xaEO/hN7wyJr5P+Ob0uHZ8ObdcbnH/XleCE64R9okDi/iCMB2H8lsX7yd7bpL/fizcA17bN0McBuCilaiPSbba03qukZAULXtS4S/pvzD5GrGPhMfLas7WVDQu7JDxy092Lbm7Tdgzf8pB8+d+sQPHSIVWccghAqs3aNTlpUKzD91hCN800gBIp165ZVtqPFI+RQHS/d1rfIlrjtSkggZyoskkUrQgVV9T0LF/IpaKs0LXoZbqMTodnEa9ktDiEABbcSJdWbeZ4lftdr9t3M2zO64Ig+RXfxjtsMauNpOWVu1WLlXIrMzdatu7ofIPu7u6/l3G5lPpB85y0F/IdQqq59pKS2tJv78hOFaGpjLTIRgIVSVqyobu4H7VjnKNBlSE8OI2Huigwczuscnkk0PpBLNoZzvTc/7V1VWlDKFgbJsvm2viT5714dToavnaso7Gt5cNe3JaTC3XJfWfqsuihWbPj9tas/D+9J7r0IPxGUVVwV45Bm/yrrlJu7r0ypgHkrpaSG1itUm7x2hRN47a/1GiWkNxMN7Xgq0lI69YCkjkvLD5B/atxV9uv2WPedZtcLX3J+SYHEMAdLtctopk266eEt98eDVsr4cQBbFQfehg1wVrJPUkr2hK/N/52mszlxdUEAki791ephdNxwB432CyTm2nTNP8BP/DKtw==",
+    "sidebar_class_name": "post api-method",
+    "info_path": "saviynt/saviynt-enterprise-identity-cloud-api-reference",
+    "custom_edit_url": null
+  },
+  "sidebar": "saviyntSidebar",
+  "previous": {
+    "title": "Fetch Request Access Attributes",
+    "permalink": "/saviynt/fetch-request-access-attributes"
+  },
+  "next": {
+    "title": "Create Request",
+    "permalink": "/saviynt/create-request"
+  }
+}
