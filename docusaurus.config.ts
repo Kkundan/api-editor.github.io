@@ -8,13 +8,13 @@ import { DOCUSAURUS_VERSION } from "@docusaurus/utils";
 const config: Config = {
   title: "Saviynt OpenAPI Docs",
   tagline: "OpenAPI plugin for generating API reference docs in Docusaurus v2",
-  url: "https://docusaurus-openapi.tryingpan.dev",
+  url: "https://kkundan.github.io",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "Saviynt",
-  projectName: "saviynt-openapi-docs",
+  organizationName: "api-editor",
+  projectName: "api-editor.github.io",
 
   presets: [
     [
