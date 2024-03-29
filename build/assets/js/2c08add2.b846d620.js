@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[1659],{95214:e=>{e.exports=JSON.parse('{"title":"Saviynt API","description":"This is a sample server Saviynt server. ","slug":"/category/saviynt-api","permalink":"/category/saviynt-api","navigation":{"next":{"title":"Introduction","permalink":"/saviynt/saviynt-enterprise-identity-cloud-api-reference"}}}')}}]);

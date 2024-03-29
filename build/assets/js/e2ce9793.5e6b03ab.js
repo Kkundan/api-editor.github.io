@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[3822],{7131:e=>{e.exports=JSON.parse('{"title":"Cloud Object Storage API","slug":"/category/cos-api","permalink":"/category/cos-api","navigation":{"previous":{"title":"User","permalink":"/petstore/schemas/user"},"next":{"title":"Introduction","permalink":"/cos/cloud-object-storage"}}}')}}]);
